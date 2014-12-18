@@ -1,25 +1,11 @@
+## GSA Data
 
-## List of .gov domains (as of 12/01/2014)
+A home for miscellaneous data published by the [General Services Administration](http://gsa.gov).
 
-### Full List
-* [Filterable View](https://github.com/GSA/data/blob/gh-pages/files/dotgov_domains/domains-2014-12-01-Full.csv) / [Raw File](http://gsa.github.io/data/files/dotgov_domains/domains-2014-12-01-Full.csv) 
-  
-### City   
-* [Filterable View](https://github.com/GSA/data/blob/gh-pages/files/dotgov_domains/domains-2014-12-01-City.csv) / [Raw File](http://gsa.github.io/data/files/dotgov_domains/domains-2014-12-01-City.csv) 
+### .gov domains
 
-### County   
-* [Filterable View](https://github.com/GSA/data/blob/gh-pages/files/dotgov_domains/domains-2014-12-01-County.csv) / [Raw File](http://gsa.github.io/data/files/dotgov_domains/domains-2014-12-01-County.csv) 
+You can view or download a complete list of `.gov` domains, as taken on **December 1, 2014**. There are around 5,300 of them.
 
-### Federal
-* [Filterable View](https://github.com/GSA/data/blob/gh-pages/files/dotgov_domains/domains-2014-12-01-Federal.csv) / [Raw File](http://gsa.github.io/data/files/dotgov_domains/domains-2014-12-01-Federal.csv) 
+This list includes the federal government's executive, legislative, and judicial branches &mdash; as well as states, territories, cities, counties, and native tribes.
 
-### Native Sovereign Nation
-* [Filterable View](https://github.com/GSA/data/blob/gh-pages/files/dotgov_domains/domains-2014-12-01-Native.csv) / [Raw File](http://gsa.github.io/data/files/dotgov_domains/domains-2014-12-01-Native.csv) 
-
-### State/Local
-* [Filterable View](https://github.com/GSA/data/blob/gh-pages/files/dotgov_domains/domains-2014-12-01-StateLocal.csv) / [Raw File](http://gsa.github.io/data/files/dotgov_domains/domains-2014-12-01-StateLocal.csv) 
-
-
-
-
-
+**[Download the full list](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)** (CSV), or **[view the data in your browser](dotgov_domains/2014-12-01-full.csv)**.
