@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Data
 ---
 
             <section class="hero">
@@ -65,46 +65,29 @@ title: Home
                     <li class="featured-project">
                         <div class="featured-project_img__eregs"></div>
                         <h3 class="featured-project_head">
-                            <a href="http://www.consumerfinance.gov/eregulations/">eRegulations</a>
+                            <a href="http://gsa.github.io/data">Data</a>
                         </h3>
-                        <p class="featured-project_desc">eRegulations is a web-based application that makes
-                            regulations easy to find, read, and understand.</p>
-                        <p class="featured-project_links">
-                            <a class="call-to-action"
-                               href="http://www.consumerfinance.gov/blog/making-regulations-easier-to-use/">
-                                Learn more</a> |
-                            <a class="call-to-action" href="http://eregs.github.io/eregulations/">
-                                Project homepage</a>
-                        </p>
+                        <p class="featured-project_desc">Download bulk data from across GSA's components.</p>
                     </li>
                     <li class="featured-project">
                         <div class="featured-project_img__pdp"></div>
                         <h3 class="featured-project_head">
-                            <a href="http://www.consumerfinance.gov/hmda/">Public Data Platform</a>
+                            <a href="http://gsa.github.io/developer">APIs</a>
                         </h3>
-                        <p class="featured-project_desc">Learn more about home mortgage data, download the data
-                            yourself, or build new tools using our API.</p>
-                        <div class="featured-project_links">
-                            <a class="call-to-action" href="https://github.com/cfpb/qu">GitHub repo</a> |
-                            <a class="call-to-action" href="http://cfpb.github.io/api/hmda/">API docs</a>
-                        </div>
+                        <p class="featured-project_desc">Learn how to access GSA data via dynamic web services.</p>
                     </li>
                     <li class="featured-project">
                         <div class="featured-project_img__collab"></div>
                         <h3 class="featured-project_head">
-                            <a href="http://cfpb.github.io/collab/">Collab</a>
+                            <a href="https://www.github.com/gsa">Code</a>
                         </h3>
-                        <p class="featured-project_desc">Collab is a Django project with a standard set of
-                            configurations to provide services to reusable apps.</p>
-                        <div class="featured-project_links">
-                            <a class="call-to-action" href="http://github.com/cfpb/collab">GitHub repo</a>
-                        </div>
+                        <p class="featured-project_desc">Check out the latest open source code projects from GSA teams.</p>
                     </li>
                 </ul>
             </section>
 
             <section class="articles wrap">
-                <h2 class="section-head"><i class="icon-document"></i> Articles</h2>
+                <h2 class="section-head"><i class="icon-document"></i> News</h2>
 
                 <section class="featured-entries">
                 {% for post in site.posts limit:1 %}
@@ -200,24 +183,20 @@ title: Home
             </section>
 
             <section class="repositories wrap">
-                <h2 class="section-head"><i class="icon-github"></i> Repositories</h2>
+                <h2 class="section-head"><i class="icon-github"></i> Highlighted Repositories</h2>
 
                 <section class="repos">
                     <section class="repo">
-                        <h3 class="repo_name"><a href="https://github.com/cfpb/idea-box">idea-box</a></h3>
-                        <p class="repo_description">An application that lets an organization collect ideas, comment on them, and vote them
-                            up.</p>
+                        <h3 class="repo_name"><a href="https://github.com/GSA/data.gov">data.gov</a></h3>
+                        <p class="repo_description">The CKAN-based data catalog for the federal government.</p>
                     </section>
                     <section class="repo">
-                        <h3 class="repo_name"><a href="https://github.com/cfpb/ec2mapper">ec2mapper</a></h3>
-                        <p class="repo_description">EC2mapper is a web application that provides a user-friendly interface to view Amazon AWS
-                            network configurations, while allowing changes to be easily tracked over time.</p>
+                        <h3 class="repo_name"><a href="https://github.com/GSA/sam_api">sam_api</a></h3>
+                        <p class="repo_description">API access to the System for Award Management</p>
                     </section>
                     <section class="repo">
-                        <h3 class="repo_name"><a href="https://github.com/cfpb/transit_subsidy">transit_subsidy</a></h3>
-                        <p class="repo_description">Open source version of a simple Transit Subsidy intake form that is commonly used by United
-                            States federal government agencies. <i>Home of the first citizen pull request accepted by
-                            the U.S. government!</i></p>
+                        <h3 class="repo_name"><a href="https://github.com/GSA/unclaimed_money">unclaimed_money</a></h3>
+                        <p class="repo_description">US Government unclaimed money metasearch tool.</p>
                     </section>
                 </section>
 
@@ -226,24 +205,24 @@ title: Home
                     <ul class="sidebar_list nav-list">
                         <li class="sidebar_list_item">
                             <h3 class="sidebar_list_item_head">
-                                <a href="http://github.com/cfpb/django-nudge">django-nudge</a>
+                                <a href="https://github.com/GSA/openIAE">openIAE</a>
                                 <i class="icon-external-link"></i>
                             </h3>
                         </li>
                         <li class="sidebar_list_item">
                             <h3 class="sidebar_list_item_head">
-                                <a href="http://github.com/cfpb/django-cache-tools">django-cache-tools</a>
+                                <a href="https://github.com/GSA/asis">asis</a>
                                 <i class="icon-external-link"></i>
                             </h3>
                         </li>
                         <li class="sidebar_list_item">
                             <h3 class="sidebar_list_item_head">
-                                <a href="https://github.com/cfpb/hmda-tools">hmda-tools</a>
+                                <a href="https://github.com/GSA/govt-urls">govt-urls</a>
                                 <i class="icon-external-link"></i>
                             </h3>
                         </li>
                     </ul>
-                    <a class="more-repos_view-all-link call-to-action__icon" href="https://github.com/cfpb">
+                    <a class="more-repos_view-all-link call-to-action__icon" href="https://github.com/gsa">
                         View all repositories <i class="icon-external-link"></i>
                     </a>
                 </section>
