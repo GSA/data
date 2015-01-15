@@ -1,0 +1,50 @@
+/*! afontgarde - v0.1.0 - 2013-12-20
+* https://github.com/filamentgroup/a-font-garde
+* Copyright (c) 2013 Filament Group c/o Zach Leatherman
+* Licensed MIT */
+
+.icon-fallback-text .icon {
+    display: none;
+}
+/*
+ADDED BY afontgarde.js:
+.supports-fontface.FONT_NAME.supports-generatedcontent .icon-fallback-text .icon {
+    display: inline-block;
+}*/
+
+.icon-fallback-glyph .text,
+.icon-fallback-img .text/*,
+ADDED BY afontgarde.js:
+.supports-fontface.FONT_NAME.supports-generatedcontent .icon-fallback-text .text*/ {
+    /* visually hide but accessible (h5bp.com) */
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+    position: absolute;
+    height: 1px;
+    width: 1px;
+}
+
+/* Careful, don’t use adjoining classes here (IE7) */
+.supports-no-generatedcontent .icon-fallback-glyph .text {
+    clip: auto;
+    overflow: visible;
+    position: static;
+    height: auto;
+    width: auto;
+}
+/*
+ADDED BY afontgarde.js:
+.supports-fontface.FONT_NAME .icon-fallback-glyph .icon:before {
+    font-size: inherit;
+    line-height: inherit;
+}*/
+.icon-fallback-img .icon {
+    display: inline-block;
+}
+.icon-fallback-img .icon:before {
+    content: "";
+}
+/* The img fallback version is not as reliable since it does not check to make sure the fontloaded font has loaded. If we did add the .fontloaded class, it would unnecessarily request the fallback image. */
+.supports-fontface.supports-generatedcontent .icon-fallback-img .icon {
+    background-image: none;
+}

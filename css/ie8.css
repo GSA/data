@@ -1,0 +1,16 @@
+/*
+ * Webfont Overrides for IE 6-8 to prevent faux/double bold and italics
+ *   
+ * - Any bold or italic Avenir elements added to the base styles MUST BE added
+ *   to this section, as well.
+ */
+
+h4, h5, h6,
+blockquote strong,
+.header h1 span,
+.content-header h2 {
+    font-weight: normal !important;
+}
+blockquote em {
+    font-style: normal !important;
+}

@@ -1,0 +1,9 @@
+baseurl:     ''
+exclude:     [README.md, Gemfile, Gemfile.lock, vendor, _site]
+permalink:   /articles/:title
+pygments:    true
+markdown:    kramdown
+
+title: GSA Open Tech
+url: "https://gsa.github.io/"
+description: "Learn about the data and developer work of the General Services Administration."
