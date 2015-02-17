@@ -8,7 +8,7 @@ You can view or download a complete list of `.gov` domains, as taken on **Decemb
 
 This list includes the federal government's executive, legislative, and judicial branches -- as well as states, territories, cities, counties, and native tribes.
 
-**[Download the full list](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)** (CSV), or **[view the data in your browser](dotgov-domains/2014-12-01-full.csv)**.
+**[View the data in your browser](dotgov-domains/2014-12-01-full.csv)**.
 
 If you use this data for something, please do let us know by [opening an issue](https://github.com/gsa/data/issues) and telling us about it!
 
