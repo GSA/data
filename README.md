@@ -10,6 +10,8 @@ This list includes the federal government's executive, legislative, and judicial
 
 **[Download the full list](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)** (CSV), or **[view the data in your browser](dotgov-domains/2014-12-01-full.csv)**.
 
+Note that this files list the domains that have been registered and include some that redirect to other domains or are inactive.
+
 If you use this data for something, please do let us know by [opening an issue](https://github.com/gsa/data/issues) and telling us about it!
 
 #### Public (unofficial) uses
