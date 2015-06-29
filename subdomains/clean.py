@@ -2,7 +2,6 @@
 
 from sys import argv
 import csv
-import numpy as np
 
 script, arg = argv
 
@@ -13,8 +12,11 @@ cleaned = open('subdomains-filtered.csv', 'w')
 missing = open('missing.csv', 'w')
 
 # Load the raw csv file
-reader = csv.reader(inputfile)
-for row in reader:
+inputreader = csv.reader(inputfile, lineterminator='\n')
+cleaned_writer = csv.writer(cleaned, lineterminator='\n')
+missing_writer = csv.writer(missing, lineterminator='\n')
+
+for row in inputreader:
     domain = row[1].lower()
     agencyType = row[2].lower()
     agency = row[3].lower()
@@ -28,7 +30,8 @@ for row in reader:
     
     # Removing the header row
     if domain.startswith("second level"):
-        print (domain)
+        cleaned_writer.writerow(row[1:-1])
+        missing_writer.writerow(row[1:-1])
         continue
 
     # Remove rows containing ".ic."
@@ -37,6 +40,7 @@ for row in reader:
         continue
 
     #Filter out non-federal subdomains
+
             
             
     # Remove rows that are mailservers 
@@ -46,9 +50,13 @@ for row in reader:
             
             
     # Output "DOES_NOT_EXIST" and "NO_WEBSERVER_FOUND" to a "missing" file
-            
+    # if _____:
+    #     missing_writer.writerow(row[1:-1])
             
     # Output the filtered records to a "cleaned" file
+
+    output_row = row[1:-1]
+    cleaned_writer.writerow(output_row)
 
 # Close all the file handles.
 inputfile.close()
