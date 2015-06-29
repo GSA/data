@@ -16,11 +16,15 @@ inputreader = csv.reader(inputfile, lineterminator='\n')
 cleaned_writer = csv.writer(cleaned, lineterminator='\n')
 missing_writer = csv.writer(missing, lineterminator='\n')
 
+mail_domains = 0
+
 for row in inputreader:
     domain = row[1].lower()
     agencyType = row[2].lower()
     agency = row[3].lower()
     subdomain = row[4].lower()
+    status = row[5].lower()
+    ip = row[6].lower()
 
 
     #Remove bad data 
@@ -34,30 +38,34 @@ for row in inputreader:
         missing_writer.writerow(row[1:-1])
         continue
 
-    # Remove rows containing ".ic."
-    if ".ic." in subdomain:
-        print ("Contains IC: %s" % subdomain)
+    # Remove rows containing "ic" subdomains
+    if (".ic." in subdomain) or (subdomain.startswith("ic.")):
+        # print ("Contains IC: %s" % subdomain)
         continue
 
     #Filter out non-federal subdomains
     if not agencyType.startswith("federal agency"):
-        print ("Agency Type: %s" % agencyType)
+        # print ("Non-federal agency Type: %s" % agencyType)
         continue
     if agency.startswith("non-federal"):
-        print ("Agency: %s" %agency)
+        # print ("Non-federal agency: %s" %agency)
         continue
-            
-            
-    # Remove rows that are mailservers 
             
             
     # Remove obvious IP addresses
             
             
     # Output "DOES_NOT_EXIST" and "NO_WEBSERVER_FOUND" to a "missing" file
-    # if _____:
-    #     missing_writer.writerow(row[1:-1])
-            
+    if (status.startswith("does_not_exist")) or (status.startswith("no_webserver_record_found")):
+        missing_writer.writerow(row[1:-1])
+        continue
+    
+    # Remove rows that are mailservers 
+    if subdomain.startswith("mail.") or subdomain.startswith("pop.") or subdomain.startswith("mx.") or (".mail." in subdomain) or ("smtp" in subdomain) or (".pop." in subdomain) or (".mx." in subdomain):
+        mail_domains += 1
+        print("Mail server: %s" % subdomain)
+        continue
+        
     # Output the filtered records to a "cleaned" file
 
     output_row = row[1:-1]
@@ -67,3 +75,5 @@ for row in inputreader:
 inputfile.close()
 cleaned.close()
 missing.close()
+
+print("Mail domains: %i" % mail_domains)
