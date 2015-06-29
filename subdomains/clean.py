@@ -40,7 +40,12 @@ for row in inputreader:
         continue
 
     #Filter out non-federal subdomains
-
+    if not agencyType.startswith("federal agency"):
+        print ("Agency Type: %s" % agencyType)
+        continue
+    if agency.startswith("non-federal"):
+        print ("Agency: %s" %agency)
+        continue
             
             
     # Remove rows that are mailservers 
