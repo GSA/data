@@ -21,5 +21,3 @@ If you use this data for something, please do let us know by [opening an issue](
 [![gov_domains](https://cloud.githubusercontent.com/assets/2152151/5627069/ba4185e2-9561-11e4-873a-54d9f480ec3e.jpg)](http://laurenancona.com/maps/gov_domains.html)
 
 Click the image above to visit a dynamic presentation. 
-
-* Tyler Shimenko also made a [geocoded and plotted map of .gov domains](http://blog.tylershimko.com/2014/12/22/geographic-distribution-of-gov-site-registrations/?pk_campaign=Twitter18F).
