@@ -4,7 +4,9 @@ A home for miscellaneous data published by the [General Services Administration]
 
 ### .gov domains
 
-You can view or download a complete list of `.gov` domains, as taken on **December 1, 2014**. There are around 5,300 of them.
+You can view or download a complete list of `.gov` domains:
+   * As taken on **December 1, 2014** there were around 5,300 of them
+   * The most recently snapshot is from **March 15, 2015** with a similar count.
 
 This list includes the federal government's executive, legislative, and judicial branches -- as well as states, territories, cities, counties, and native tribes.
 
