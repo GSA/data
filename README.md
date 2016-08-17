@@ -5,3 +5,4 @@ A home for miscellaneous data published by the [General Services Administration]
 ## Datasets
 
 * [.gov domains](dotgov-domains/#readme)
+* [GSA Enterprise Architecture](enterprise-architecture/)
