@@ -9,6 +9,8 @@ The General Services Administration's [Enterprise Architecture](http://www.gsa.g
 * IT hardware
 * Software as a Service (SaaS)
 
+Make sure to **pay attention to the `Status` column**, as the list includes items that are `Approved`, `Pending`, and `Denied` (though there can be other values for the column).
+
 The data is manually exported (for now), though we will try to update it regularly. See the Last Modified date on the CSV to see when it was last updated. Feel free to [open an issue](https://github.com/GSA/data/issues/new) to give us a nudge if we forget!
 
 ## Updating the list
