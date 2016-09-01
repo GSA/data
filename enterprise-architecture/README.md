@@ -6,7 +6,6 @@ The General Services Administration's [Enterprise Architecture](http://www.gsa.g
 
 * Desktop software
 * Server software
-* IT hardware
 * Software as a Service (SaaS)
 
 Make sure to **pay attention to the `Status` column**, as the list includes items that are `Approved`, `Pending`, and `Denied` (though there can be other values for the column).
@@ -18,7 +17,7 @@ The data is manually exported (for now), though we will try to update it regular
 *Only applicable to GSA staff.*
 
 1. Visit [the canonical IT Standards list](https://ea.gsa.gov/EAWEB/#!/itstandards) (you need to be on the GSA network—see [VPN information](https://handbook.18f.gov/anyconnect/)).
-1. Only show the `Description`, `Type`, `Category`, `Status`, and `Deployment Type` columns.
+1. Only show the `Standard Name`, `Description`, `Type`, `Category`, `Status`, and `Deployment Type` columns.
 
     ![column selection drop-down](columns.png)
 
