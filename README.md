@@ -6,3 +6,7 @@ A home for miscellaneous data published by the [General Services Administration]
 
 * [.gov domains](dotgov-domains/#readme)
 * [GSA Enterprise Architecture](enterprise-architecture/)
+
+## Copyright information
+
+This data is in the public domain under [17 U.S.C. 105](https://www.law.cornell.edu/uscode/text/17/105).
