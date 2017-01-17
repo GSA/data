@@ -198,13 +198,17 @@ ADLNET.GOV,Federal Agency,Department of Defense,Washington,DC
 AFTAC.GOV,Federal Agency,Department of Defense,Patrick AFB,FL
 ALTUSANDC.GOV,Federal Agency,Department of Defense,"patrick, afb",FL
 BRAC.GOV,Federal Agency,Department of Defense,Alexandria,VA
+BUSINESSDEFENSE.GOV,Federal Agency,Department of Defense,Washington,DC
 CMTS.GOV,Federal Agency,Department of Defense,Mobile,AL
 CNSS.GOV,Federal Agency,Department of Defense,Ft George G. Meade,MD
 CTOC.GOV,Federal Agency,Department of Defense,Starke,FL
 CTTSO.GOV,Federal Agency,Department of Defense,Arlington,VA
 DC3ON.GOV,Federal Agency,Department of Defense,Linthicum,MD
 DEFENSE.GOV,Federal Agency,Department of Defense,Fort Meade,MD
+DEFENSEBUSINESS.GOV,Federal Agency,Department of Defense,Washington,DC
+DEFENSEMANUFACTURING.GOV,Federal Agency,Department of Defense,Washington,DC
 DOD.GOV,Federal Agency,Department of Defense,Fort Meade,MD
+DODBUSINESS.GOV,Federal Agency,Department of Defense,Washington,DC
 EACLEARINGHOUSE.GOV,Federal Agency,Department of Defense,Arlington,VA
 ERDC.GOV,Federal Agency,Department of Defense,Vicksburg,MS
 FVAP.GOV,Federal Agency,Department of Defense,Alexandria,VA
@@ -212,6 +216,7 @@ IAD.GOV,Federal Agency,Department of Defense,Ft Meade,MD
 IOSS.GOV,Federal Agency,Department of Defense,Greenbelt,MD
 ITC.GOV,Federal Agency,Department of Defense,Ft. Washington,MD
 JCCS.GOV,Federal Agency,Department of Defense,Alexandria,VA
+MIBP.GOV,Federal Agency,Department of Defense,Washington,DC
 MOJAVEDATA.GOV,Federal Agency,Department of Defense,Barstow,CA
 MTMC.GOV,Federal Agency,Department of Defense,Alexandria,VA
 MYPAY.GOV,Federal Agency,Department of Defense,Pensacola,FL
@@ -299,7 +304,7 @@ SCIDAC.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
 SCIENCE.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
 SMARTGRID.GOV,Federal Agency,Department of Energy,Washington,DC
 SNS.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
-SOLARDECATHLON.GOV,Federal Agency,Department of Energy,Golden,CO
+SOLARDECATHLON.GOV,Federal Agency,Department of Energy,Washington,DC
 SRS.GOV,Federal Agency,Department of Energy,Aiken,SC
 SWPA.GOV,Federal Agency,Department of Energy,Tulsa,OK
 UNNPP.GOV,Federal Agency,Department of Energy,West Mifflin,PA
@@ -496,11 +501,9 @@ FBI.GOV,Federal Agency,Department of Justice,Washington,DC
 FBIJOBS.GOV,Federal Agency,Department of Justice,Washington,DC
 FIRSTFREEDOM.GOV,Federal Agency,Department of Justice,Potomac,MD
 FOIA.GOV,Federal Agency,Department of Justice,Washington,DC
-FORENSICSCIENCE.GOV,Federal Agency,Department of Justice,Washington,DC
 FORFEITURE.GOV,Federal Agency,Department of Justice,Potomac,MD
 FPI.GOV,Federal Agency,Department of Justice,Washington,DC
 GETSMARTABOUTDRUGS.GOV,Federal Agency,Department of Justice,Potomac,MD
-HELPINGAMERICASYOUTH.GOV,Federal Agency,Department of Justice,Potomac,MD
 IC3.GOV,Federal Agency,Department of Justice,Fairmont,WV
 INTERPOL.GOV,Federal Agency,Department of Justice,Potomac,MD
 IPRCENTER.GOV,Federal Agency,Department of Justice,Washington,DC
@@ -822,7 +825,7 @@ FDMS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 FEDCENTER.GOV,Federal Agency,Environmental Protection Agency,Champaign,IL
 FRTR.GOV,Federal Agency,Environmental Protection Agency,Omaha,NE
 GLNPO.GOV,Federal Agency,Environmental Protection Agency,Chicago,IL
-GREENGOV.GOV,Federal Agency,Environmental Protection Agency, Washington,DC
+GREENGOV.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 REGULATIONS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 RELOCATEFEDS.GOV,Federal Agency,Environmental Protection Agency,Cincinnati,OH
 SUSTAINABILITY.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
@@ -855,6 +858,7 @@ ONDCP.GOV,Federal Agency,Executive Office of the President,Washington,DC
 OSTP.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PAYMENTACCURACY.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PCI.GOV,Federal Agency,Executive Office of the President,Washington,DC
+PITC.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PRESIDIO.GOV,Federal Agency,Executive Office of the President,San Francisco,CA
 PRESIDIOTRUST.GOV,Federal Agency,Executive Office of the President,San Francisco,CA
 REACHHIGHER.GOV,Federal Agency,Executive Office of the President,Washington,DC
@@ -987,7 +991,6 @@ FEDIDCARD.GOV,Federal Agency,General Services Administration,Washington,DC
 FEDINFO.GOV,Federal Agency,General Services Administration,Washington,DC
 FEDRAMP.GOV,Federal Agency,General Services Administration,Washington,DC
 FEDROOMS.GOV,Federal Agency,General Services Administration,Arlington,VA
-FIDO.GOV,Federal Agency,General Services Administration,Washington,DC
 FIRSTGOV.GOV,Federal Agency,General Services Administration,Washington,DC
 FMI.GOV,Federal Agency,General Services Administration,Washington,DC
 FORMS.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -1013,7 +1016,6 @@ HOWTO.GOV,Federal Agency,General Services Administration,Washington,DC
 IDMANAGEMENT.GOV,Federal Agency,General Services Administration,Washington,DC
 INFO.GOV,Federal Agency,General Services Administration,Washington,DC
 KIDS.GOV,Federal Agency,General Services Administration,Washington,DC
-LEARNPERFORMANCE.GOV,Federal Agency,General Services Administration,Washington,DC
 LOGIN.GOV,Federal Agency,General Services Administration,Washington,DC
 NBRC.GOV,Federal Agency,General Services Administration,Concord,NH
 NETWORX.GOV,Federal Agency,General Services Administration,Fairfax,VA
@@ -1025,7 +1027,6 @@ PIF.GOV,Federal Agency,General Services Administration,Washington,DC
 PPIRS.GOV,Federal Agency,General Services Administration,Washington,DC
 PRESIDENTIALINNOVATIONFELLOWS.GOV,Federal Agency,General Services Administration,Washington,DC
 PRIVACY.GOV,Federal Agency,General Services Administration,Washington,DC
-PRIVACYCOUNCIL.GOV,Federal Agency,General Services Administration,Washington,DC
 PTT.GOV,Federal Agency,General Services Administration,Washington D.C.,DC
 REALESTATESALES.GOV,Federal Agency,General Services Administration,Washington,DC
 REALPROPERTYPROFILE.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -1136,6 +1137,8 @@ JIMMYCARTERLIBRARY.GOV,Federal Agency,National Archives and Records Administrati
 NARA-AT-WORK.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
 NARA.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
 NIXONLIBRARY.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
+OBAMALIBRARY.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
+OBAMAWHITEHOUSE.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
 OGIS.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
 OURDOCUMENTS.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
 REAGANLIBRARY.GOV,Federal Agency,National Archives and Records Administration,College Park,MD
