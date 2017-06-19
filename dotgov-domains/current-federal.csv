@@ -27,7 +27,6 @@ OPENSOURCE.GOV,Federal Agency,Central Intelligence Agency,Washington,DC
 OSDE.GOV,Federal Agency,Central Intelligence Agency,Reston,VA
 TTIC.GOV,Federal Agency,Central Intelligence Agency,Washington,DC
 UCIA.GOV,Federal Agency,Central Intelligence Agency,Washington,DC
-CHRISTOPHERCOLUMBUSFOUNDATION.GOV,Federal Agency,Christopher Columbus Fellowship Foundation,Washington,DC
 CAP.GOV,Federal Agency,Civil Air Patrol,BIRMINGHAM,MI
 CAPNHQ.GOV,Federal Agency,Civil Air Patrol,MAXWELL AFB,AL
 ABILITYONE.FED.US,Federal Agency,Comm for People Who Are Blind/Severly Disabled,Arlington,VA
@@ -317,6 +316,7 @@ BRAINHEALTH.GOV,Federal Agency,Department of Health And Human Services,Washingto
 CANCER.GOV,Federal Agency,Department of Health And Human Services,Rockville,MD
 CANCERNET.GOV,Federal Agency,Department of Health And Human Services,Rockville,MD
 CDC.GOV,Federal Agency,Department of Health And Human Services,Atlanta,GA
+CDCPARTNERS.GOV,Federal Agency,Department of Health And Human Services,Atlanta,GA
 CHILDWELFARE.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 CLINICALTRIAL.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
 CLINICALTRIALS.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
@@ -757,6 +757,7 @@ VERIFYPAYMENT.GOV,Federal Agency,Department of the Treasury,Parkersburg,WV
 WIZARD.GOV,Federal Agency,Department of the Treasury,Mclean,VA
 WORKPLACE.GOV,Federal Agency,Department of the Treasury,Washington,DC
 911.GOV,Federal Agency,Department of Transportation,Washington,DC
+ATCREFORM.GOV,Federal Agency,Department of Transportation,Washington,DC
 BTS.GOV,Federal Agency,Department of Transportation,Washington,DC
 DISTRACTEDDRIVING.GOV,Federal Agency,Department of Transportation,Washington,DC
 DISTRACTION.GOV,Federal Agency,Department of Transportation,Washington,DC
@@ -776,6 +777,7 @@ SAFEOCS.GOV,Federal Agency,Department of Transportation,Washington,DC
 SAFERCAR.GOV,Federal Agency,Department of Transportation,Washington,DC
 SAFERTRUCK.GOV,Federal Agency,Department of Transportation,Washington,DC
 SHARETHEROADSAFELY.GOV,Federal Agency,Department of Transportation,Washington,DC
+SMARTERSKIES.GOV,Federal Agency,Department of Transportation,Washington,DC
 STRONGPORTS.GOV,Federal Agency,Department of Transportation,Washington,DC
 SUSTAINABLECOMMUNITIES.GOV,Federal Agency,Department of Transportation,Washington,DC
 TFHRC.GOV,Federal Agency,Department of Transportation,Mclean,VA
@@ -1012,7 +1014,6 @@ REGINFO.GOV,Federal Agency,General Services Administration,Washington,DC
 ROCIS.GOV,Federal Agency,General Services Administration,Washington,DC
 SAM.GOV,Federal Agency,General Services Administration,Arlington,VA
 SANDBOX.GOV,Federal Agency,General Services Administration,Washinton,DC
-SAUSALITO.GOV,Federal Agency,General Services Administration,Sausalito,CA
 SBST.GOV,Federal Agency,General Services Administration,Washington,DC
 SECTION508.GOV,Federal Agency,General Services Administration,Washington,DC
 SFTOOL.GOV,Federal Agency,General Services Administration,Chicago,IL
