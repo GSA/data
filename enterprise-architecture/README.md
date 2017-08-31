@@ -25,4 +25,8 @@ The data is manually exported (for now), though we will try to update it regular
 
     ![export drop-down](export.png)
 
-1. Replace [`it-standards.csv`](it-standards.csv).
+1. From this directory, run the updating script.
+
+    ```sh
+    ./update.sh
+    ```
