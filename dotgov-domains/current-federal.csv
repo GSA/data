@@ -69,7 +69,6 @@ PRESIDENTIALSERVICEAWARDS.GOV,Federal Agency,Corporation for National & Communit
 SENIORCORPS.GOV,Federal Agency,Corporation for National & Community Service,Washington,DC
 SERVE.GOV,Federal Agency,Corporation for National & Community Service,Washington,DC
 SERVICE.GOV,Federal Agency,Corporation for National & Community Service,Washington,DC
-SERVIR.GOV,Federal Agency,Corporation for National & Community Service,Washington,DC
 VISTACAMPUS.GOV,Federal Agency,Corporation for National & Community Service,Washington,DC
 VOLUNTEERINGINAMERICA.GOV,Federal Agency,Corporation for National & Community Service,Washington,DC
 CIGIE.GOV,Federal Agency,Council of Inspector General on Integrity and Efficiency,WASHINGTON,DC
@@ -150,7 +149,6 @@ FISHWATCH.GOV,Federal Agency,Department of Commerce,Silver Spring,MD
 GOES-R.GOV,Federal Agency,Department of Commerce,Greenbelt,MD
 GPS.GOV,Federal Agency,Department of Commerce,Washington,DC
 HURRICANES.GOV,Federal Agency,Department of Commerce,Miami,FL
-ITDS.GOV,Federal Agency,Department of Commerce,Springfield,VA
 MANUFACTURING.GOV,Federal Agency,Department of Commerce,Washington,DC
 MARINECADASTRE.GOV,Federal Agency,Department of Commerce,Charleston,SC
 MBDA.GOV,Federal Agency,Department of Commerce,Washington,DC
@@ -170,6 +168,7 @@ SPACEWEATHER.GOV,Federal Agency,Department of Commerce,Boulder,CO
 SPECTRUM.GOV,Federal Agency,Department of Commerce,Washington,DC
 STANDARDS.GOV,Federal Agency,Department of Commerce,Gaithersburg,MD
 STOPFAKES.GOV,Federal Agency,Department of Commerce,Washington,DC
+SWORM.GOV,Federal Agency,Department of Commerce,Boulder,CO
 TIME.GOV,Federal Agency,Department of Commerce,Boulder,CO
 TRADE.GOV,Federal Agency,Department of Commerce,Washington,DC
 TSUNAMI.GOV,Federal Agency,Department of Commerce,Palmer,AK
@@ -279,6 +278,7 @@ OSTI.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
 PNL.GOV,Federal Agency,Department of Energy,Richland,WA
 PNNL.GOV,Federal Agency,Department of Energy,Richland,WA
 PPPL.GOV,Federal Agency,Department of Energy,Princeton,NJ
+PPPO.GOV,Federal Agency,Department of Energy,Lexington,KY
 RL.GOV,Federal Agency,Department of Energy,Richland,WA
 SALMONRECOVERY.GOV,Federal Agency,Department of Energy,Portland,OR
 SANDIA.GOV,Federal Agency,Department of Energy,Albuquerque,NM
@@ -372,7 +372,7 @@ MEDICALRESERVECORPS.GOV,Federal Agency,Department of Health And Human Services,W
 MEDICARE.GOV,Federal Agency,Department of Health And Human Services,Baltimore,MD
 MEDLINE.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
 MEDLINEPLUS.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
-MENTALHEALTH.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
+MENTALHEALTH.GOV,Federal Agency,Department of Health And Human Services,Rockville,MD
 MESH.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
 MIMEDICARE.GOV,Federal Agency,Department of Health And Human Services,Baltimore,MD
 MYMEDICARE.GOV,Federal Agency,Department of Health And Human Services,Baltimore,MD
@@ -429,12 +429,11 @@ FLETA.GOV,Federal Agency,Department of Homeland Security,Glynco,GA
 FLETC.GOV,Federal Agency,Department of Homeland Security,Glynco,GA
 FLIGHTSCHOOLCANDIDATES.GOV,Federal Agency,Department of Homeland Security,Rockville,MD
 FLOODSMART.GOV,Federal Agency,Department of Homeland Security,Bluemont,VA
-GETYOUHOME.GOV,Federal Agency,Department of Homeland Security,Alexandria,VA
-GLOBALENTRY.GOV,Federal Agency,Department of Homeland Security,Alexandria,VA
+GETYOUHOME.GOV,Federal Agency,Department of Homeland Security,Washington,DC
+GLOBALENTRY.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 HOMELANDSECURITY.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 ICE.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 LISTO.GOV,Federal Agency,Department of Homeland Security,Washington,DC
-LLIS.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 NMSC.GOV,Federal Agency,Department of Homeland Security,St Augustine,FL
 READY.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 READYBUSINESS.GOV,Federal Agency,Department of Homeland Security,Washington,DC
@@ -534,7 +533,6 @@ USERRA.GOV,Federal Agency,Department of Justice,Potpmac,MD
 USMARSHALS.GOV,Federal Agency,Department of Justice,Rockville,MD
 VCF.GOV,Federal Agency,Department of Justice,Washington,DC
 VEHICLEHISTORY.GOV,Federal Agency,Department of Justice,Potomac,MD
-AMERICASHEROESATWORK.GOV,Federal Agency,Department of Labor,Washington,DC
 BENEFITS.GOV,Federal Agency,Department of Labor,Washington,DC
 BLS.GOV,Federal Agency,Department of Labor,Washington,DC
 DISABILITY.GOV,Federal Agency,Department of Labor,Washington,DC
@@ -769,6 +767,7 @@ MDA.GOV,Federal Agency,Department of Transportation,Washington,DC
 NHTSA.GOV,Federal Agency,Department of Transportation,Washington,DC
 PLAINLANGUAGE.GOV,Federal Agency,Department of Transportation,Washington,DC
 PROTECTYOURMOVE.GOV,Federal Agency,Department of Transportation,Washington,DC
+SAFECAR.GOV,Federal Agency,Department of Transportation,Washington,DC
 SAFEOCS.GOV,Federal Agency,Department of Transportation,Washington,DC
 SAFERCAR.GOV,Federal Agency,Department of Transportation,Washington,DC
 SAFERTRUCK.GOV,Federal Agency,Department of Transportation,Washington,DC
@@ -784,6 +783,7 @@ VETBIZ.GOV,Federal Agency,Department of Veterans Affairs,Washington,DC
 VETS.GOV,Federal Agency,Department of Veterans Affairs,Washington,DC
 CE-NCSC.GOV,Federal Agency,Director of National Intelligence,McLean,VA
 DNI.GOV,Federal Agency,Director of National Intelligence,McLean,VA
+FAMEP.GOV,Federal Agency,Director of National Intelligence,McLean,VA
 IARPA-IDEAS.GOV,Federal Agency,Director of National Intelligence,Washington,DC
 IARPA.GOV,Federal Agency,Director of National Intelligence,College Park,MD
 ICJOINTDUTY.GOV,Federal Agency,Director of National Intelligence,Washington,DC
@@ -813,18 +813,14 @@ SUSTAINABILITY.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 TOX21.GOV,Federal Agency,Environmental Protection Agency,Durham,NC
 URBANWATERS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 EEOC.GOV,Federal Agency,Equal Employment Opportunity Commission,Washington,DC
-AIDREFUGEES.GOV,Federal Agency,Executive Office of the President,Washington,DC
-ASTRONGMIDDLECLASS.GOV,Federal Agency,Executive Office of the President,Washington,DC
 BUDGET.GOV,Federal Agency,Executive Office of the President,Washington,DC
 CISO.GOV,Federal Agency,Executive Office of the President,Washington,DC
 CODE.GOV,Federal Agency,Executive Office of the President,Washington,DC
 CYBER.GOV,Federal Agency,Executive Office of the President,Washington,DC
 CYBERSECURITY.GOV,Federal Agency,Executive Office of the President,Washington,DC
 EARMARKS.GOV,Federal Agency,Executive Office of the President,Washington,DC
-EGOV.GOV,Federal Agency,Executive Office of the President,Washington,DC
 EOP.GOV,Federal Agency,Executive Office of the President,Washington,DC
 ETHICS.GOV,Federal Agency,Executive Office of the President,Washington ,DC
-EXRWH.GOV,Federal Agency,Executive Office of the President,Washington,DC
 GREATAGAIN.GOV,Federal Agency,Executive Office of the President,Washington,DC
 ITDASHBOARD.GOV,Federal Agency,Executive Office of the President,Washington,DC
 MAX.GOV,Federal Agency,Executive Office of the President,NW,WA
@@ -832,7 +828,6 @@ NEPA.GOV,Federal Agency,Executive Office of the President,Washington,DC
 NOTALONE.GOV,Federal Agency,Executive Office of the President,Washington,DC
 NSTIC.GOV,Federal Agency,Executive Office of the President,Gaithersburg,MD
 OMB.GOV,Federal Agency,Executive Office of the President,Washington,DC
-OMBLOG.GOV,Federal Agency,Executive Office of the President,Washington,DC
 ONDCP.GOV,Federal Agency,Executive Office of the President,Washington,DC
 OSTP.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PAYMENTACCURACY.GOV,Federal Agency,Executive Office of the President,Washington,DC
@@ -840,7 +835,6 @@ PCI.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PITC.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PRESIDIO.GOV,Federal Agency,Executive Office of the President,San Francisco,CA
 PRESIDIOTRUST.GOV,Federal Agency,Executive Office of the President,San Francisco,CA
-STRONGMIDDLECLASS.GOV,Federal Agency,Executive Office of the President,Washington,DC
 USDIGITALSERVICE.GOV,Federal Agency,Executive Office of the President,Washington,DC
 USDS.GOV,Federal Agency,Executive Office of the President,Washington,DC
 USTR.GOV,Federal Agency,Executive Office of the President,Washington,DC
@@ -992,6 +986,7 @@ GSATEST5.GOV,Federal Agency,General Services Administration,Washington,DC
 GSATESTNSN.GOV,Federal Agency,General Services Administration,Washington,DC
 GSAXCESS.GOV,Federal Agency,General Services Administration,Arlington,VA
 HOWTO.GOV,Federal Agency,General Services Administration,Washington,DC
+IDENTITYSANDBOX.GOV,Federal Agency,General Services Administration,Washington,DC
 IDMANAGEMENT.GOV,Federal Agency,General Services Administration,Washington,DC
 INFO.GOV,Federal Agency,General Services Administration,Washington,DC
 INNOVATION.GOV,Federal Agency,General Services Administration,NW,DC
@@ -1060,6 +1055,7 @@ BBG.GOV,Federal Agency,International Broadcasting Bureau,Washington,DC
 IBB.GOV,Federal Agency,International Broadcasting Bureau,Washington,DC
 VOA.GOV,Federal Agency,International Broadcasting Bureau,Washington,DC
 JAMESMADISON.GOV,Federal Agency,James Madison Memorial Fellowship Foundation,Alexandria,VA
+JUSFC.GOV,Federal Agency,Japan-US Friendship Commision,Washington,DC
 KENNEDY-CENTER.GOV,Federal Agency,John F. Kennedy Center for Performing Arts,Washington,DC
 LSC.GOV,Federal Agency,Legal Services Corporation,Washington,DC
 AFRICANAMERICANHISTORYMONTH.GOV,Federal Agency,Library of Congress,Washington,DC
@@ -1154,9 +1150,6 @@ LPS.GOV,Federal Agency,National Security Agency,College Park,MD
 NTSB.GOV,Federal Agency,National Transportation Safety Board,Washington,DC
 ITRD.GOV,Federal Agency,Networking Information Technology Research and Development (NITRD),Arlington,VA
 NITRD.GOV,Federal Agency,Networking Information Technology Research and Development (NITRD),Arlington,VA
-HERITAGEABROAD.GOV,Federal Agency,Non-Federal Agency,Washington,DC
-JUSFC.GOV,Federal Agency,Non-Federal Agency,Washington,DC
-WMATC.GOV,Federal Agency,Non-Federal Agency,Silver Spring,MD
 NRC-GATEWAY.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 NRC.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 OSHRC.GOV,Federal Agency,Occupational Safety & Health Review Commission,Washington,DC
@@ -1196,7 +1189,7 @@ SSS.GOV,Federal Agency,Selective Service System,Arlington,VA
 BUSINESS.GOV,Federal Agency,Small Business Administration,Washington,DC
 NWBC.GOV,Federal Agency,Small Business Administration,Washington,DC
 SBA.GOV,Federal Agency,Small Business Administration,Washington,DC
-SBIR.GOV,Federal Agency,Small Business Administration,Arlington,VA
+SBIR.GOV,Federal Agency,Small Business Administration,Washington,DC
 ITIS.GOV,Federal Agency,Smithsonian Institution,Washington,DC
 SEGUROSOCIAL.GOV,Federal Agency,Social Security Administration,Baltimore,MD
 SOCIALSECURITY.GOV,Federal Agency,Social Security Administration,Baltimore,MD
@@ -1246,6 +1239,7 @@ SEN.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
 SENATE.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
 SPEAKER.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
 TAXREFORM.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
+TMDBHOUSE.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
 USHOUSE.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
 USHR.GOV,Federal Agency,The Legislative Branch (Congress),Washington,DC
 SC-US.GOV,Federal Agency,The Supreme Court,Washington,DC
@@ -1312,5 +1306,6 @@ USTDA.GOV,Federal Agency,U.S. Trade and Development Agency,Arlington,VA
 GLOBALCHANGE.GOV,Federal Agency,United Stated Global Change Research Program,Washington,DC
 USGCRP.GOV,Federal Agency,United Stated Global Change Research Program,Washington,DC
 OGE.GOV,Federal Agency,United States Office of Government Ethics,Washington,DC
+HERITAGEABROAD.GOV,Federal Agency,US Commission for the Preservation of Americas Heritage Abroad,Washington,DC
 ICH.GOV,Federal Agency,US Interagency Council on Homelessness,washington,DC
 USICH.GOV,Federal Agency,US Interagency Council on Homelessness,Washington,DC
