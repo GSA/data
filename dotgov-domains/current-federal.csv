@@ -5,6 +5,8 @@ PRESERVEAMERICA.GOV,Federal Agency,Advisory Council on Historic Preservation,Was
 ADF.GOV,Federal Agency,African Development Foundation,Washington,DC
 USADF.GOV,Federal Agency,African Development Foundation,Washington,DC
 ABMC.GOV,Federal Agency,American Battle Monuments Commission,Arlington,VA
+ABMCSCHOLAR.GOV,Federal Agency,American Battle Monuments Commission,Arlington,VA
+NATIONALMALL.GOV,Federal Agency,American Battle Monuments Commission,Arlington,VA
 AMTRAKOIG.GOV,Federal Agency,AMTRAK,Washington,DC
 ARC.GOV,Federal Agency,Appalachian Regional Commission,Washington,DC
 ASC.GOV,Federal Agency,Appraisal Subcommittee,Washington,DC
@@ -214,7 +216,6 @@ SITEIDIQ.GOV,Federal Agency,Department of Defense,Arlington,VA
 TSWG.GOV,Federal Agency,Department of Defense,Arlington,VA
 USANDC.GOV,Federal Agency,Department of Defense,Patrick AFB,FL
 AAPI.GOV,Federal Agency,Department of Education,Washington,DC
-BFELOB.GOV,Federal Agency,Department of Education,Washington,DC
 BUDGETLOB.GOV,Federal Agency,Department of Education,Washington,DC
 CHILDSTATS.GOV,Federal Agency,Department of Education,Washington,DC
 COLLEGENAVIGATOR.GOV,Federal Agency,Department of Education,Washington,DC
@@ -253,7 +254,6 @@ HANFORD.GOV,Federal Agency,Department of Energy,Richland,WA
 HIGHPERFORMANCEBUILDINGS.GOV,Federal Agency,Department of Energy,Golden,CO
 HOMEENERGYSCORE.GOV,Federal Agency,Department of Energy,Washington,DC
 HYDROGEN.GOV,Federal Agency,Department of Energy,Washington,DC
-IAB.GOV,Federal Agency,Department of Energy,Quantico,VA
 INEL.GOV,Federal Agency,Department of Energy,Idaho Falls,ID
 INL.GOV,Federal Agency,Department of Energy,Idaho Falls,ID
 ISOTOPE.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
@@ -542,6 +542,7 @@ DOLETA.GOV,Federal Agency,Department of Labor,Washington,DC
 EMPLOYER.GOV,Federal Agency,Department of Labor,Washington,DC
 GOVBENEFITS.GOV,Federal Agency,Department of Labor,Washington,DC
 GOVLOANS.GOV,Federal Agency,Department of Labor,Washington,DC
+HIREVETS.GOV,Federal Agency,Department of Labor,Washington,DC
 JOBCORPS.GOV,Federal Agency,Department of Labor,Austin,TX
 LABOR.GOV,Federal Agency,Department of Labor,Washington,DC
 MSHA.GOV,Federal Agency,Department of Labor,Arlington,VA
@@ -561,7 +562,6 @@ DEVTESTFAN1.GOV,Federal Agency,Department of State,Washington,DC
 FAN.GOV,Federal Agency,Department of State,Washington,DC
 FOREIGNASSISTANCE.GOV,Federal Agency,Department of State,Washington,DC
 FSGB.GOV,Federal Agency,Department of State,Washington,DC
-HUMANRIGHTS.GOV,Federal Agency,Department of State,Washington ,DC
 IAWG.GOV,Federal Agency,Department of State,Washington,DC
 IBWC.GOV,Federal Agency,Department of State,El Paso,TX
 ICASS.GOV,Federal Agency,Department of State,Washington,DC
@@ -573,11 +573,8 @@ STATE.GOV,Federal Agency,Department of State,Washington,DC
 SUPPORTFAN.GOV,Federal Agency,Department of State,Washington,DC
 USASEANCONNECT.GOV,Federal Agency,Department of State,Jakarta,Jakarta
 USCONSULATE.GOV,Federal Agency,Department of State,Washington,DC
-USEMBASSY-MEXICO.GOV,Federal Agency,Department of State,Mexico City,11
 USEMBASSY.GOV,Federal Agency,Department of State,Washington,DC
-USINT.GOV,Federal Agency,Department of State,Washington,DC
 USMISSION.GOV,Federal Agency,Department of State,Washington,DC
-USVPP.GOV,Federal Agency,Department of State,Washington,DC
 STATEOIG.GOV,Federal Agency,Department of State OIG,Arlington,VA
 ABANDONEDMINES.GOV,Federal Agency,Department of the Interior,Washington,DC
 ACWI.GOV,Federal Agency,Department of the Interior,Reston,VA
@@ -810,7 +807,7 @@ GREENGOV.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 REGULATIONS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 RELOCATEFEDS.GOV,Federal Agency,Environmental Protection Agency,Cincinnati,OH
 SUSTAINABILITY.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
-TOX21.GOV,Federal Agency,Environmental Protection Agency,Durham,NC
+TOX21.GOV,Federal Agency,Environmental Protection Agency,Rockville,MD
 URBANWATERS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 EEOC.GOV,Federal Agency,Equal Employment Opportunity Commission,Washington,DC
 BUDGET.GOV,Federal Agency,Executive Office of the President,Washington,DC
@@ -872,12 +869,9 @@ FMC.GOV,Federal Agency,Federal Maritime Commission,Washington,DC
 FMCS.GOV,Federal Agency,Federal Mediation and Conciliation Service,Washington,DC
 FMSHRC.GOV,Federal Agency,Federal Mine Safety and Health Review Company,Washington,DC
 FBIIC.GOV,Federal Agency,Federal Reserve System,Washington,DC
-FEDCENTENNIAL.GOV,Federal Agency,Federal Reserve System,Washington,DC
 FEDERALRESERVE.GOV,Federal Agency,Federal Reserve System,Washington,DC
 FEDERALRESERVE100.GOV,Federal Agency,Federal Reserve System,Washington ,DC
 FEDERALRESERVE2013.GOV,Federal Agency,Federal Reserve System,Washington,DC
-FEDERALRESERVECENTENNIAL.GOV,Federal Agency,Federal Reserve System,Washington ,DC
-FEDERALRESERVECENTENNIALCELEBRATION.GOV,Federal Agency,Federal Reserve System,Washington,DC
 FEDERALRESERVECONSUMERHELP.GOV,Federal Agency,Federal Reserve System,Washington,DC
 FEDPARTNERSHIP.GOV,Federal Agency,Federal Reserve System,Washington,DC
 FFIEC.GOV,Federal Agency,Federal Reserve System,Washington,DC
@@ -1140,7 +1134,7 @@ NMB.GOV,Federal Agency,National Mediation Board,Washington,DC
 NANO.GOV,Federal Agency,National Nanotechnology Coordination Office,Arlington,VA
 NNSS.GOV,Federal Agency,National Nuclear Security Administration,N Las Vegas,NV
 ARCTIC.GOV,Federal Agency,National Science Foundation,Arlington,VA
-NSF.GOV,Federal Agency,National Science Foundation,Arlington,VA
+NSF.GOV,Federal Agency,National Science Foundation,Alexandria,VA
 RESEARCH.GOV,Federal Agency,National Science Foundation,Arlington,VA
 SAC.GOV,Federal Agency,National Science Foundation,Arlington,VA
 SCIENCE360.GOV,Federal Agency,National Science Foundation,Arlington,VA
@@ -1154,6 +1148,7 @@ NRC-GATEWAY.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 NRC.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 OSHRC.GOV,Federal Agency,Occupational Safety & Health Review Commission,Washington,DC
 INTEGRITY.GOV,Federal Agency,Office of Government Ethics,Washington,DC
+OGE.GOV,Federal Agency,Office of Government Ethics,Washington,DC
 USITCOIG.GOV,Federal Agency,Office of Inspector General for the U.S. International Trade Commission,Washington,DC
 APPLICATIONMANAGER.GOV,Federal Agency,Office of Personnel Management,Macon,GA
 CHCOC.GOV,Federal Agency,Office of Personnel Management,Washington,DC
@@ -1269,7 +1264,6 @@ USPSINFORMEDDELIVERY.GOV,Federal Agency,U. S. Postal Service,Raleigh,NC
 USPSINNOVATES.GOV,Federal Agency,U. S. Postal Service,Washington,DC
 BANKRUPTCY.GOV,Federal Agency,U.S Courts,Washington,DC
 CAVC.GOV,Federal Agency,U.S Courts,Washington,DC
-DCSC.GOV,Federal Agency,U.S Courts,Washington,DC
 FEDERALCOURTS.GOV,Federal Agency,U.S Courts,Washington,DC
 FEDERALPROBATION.GOV,Federal Agency,U.S Courts,Washington,DC
 FEDERALRULES.GOV,Federal Agency,U.S Courts,Washington,DC
@@ -1305,7 +1299,6 @@ USPSOIG.GOV,Federal Agency,"U.S. Postal Service, Office of Inspector General",Ar
 USTDA.GOV,Federal Agency,U.S. Trade and Development Agency,Arlington,VA
 GLOBALCHANGE.GOV,Federal Agency,United Stated Global Change Research Program,Washington,DC
 USGCRP.GOV,Federal Agency,United Stated Global Change Research Program,Washington,DC
-OGE.GOV,Federal Agency,United States Office of Government Ethics,Washington,DC
 HERITAGEABROAD.GOV,Federal Agency,US Commission for the Preservation of Americas Heritage Abroad,Washington,DC
 ICH.GOV,Federal Agency,US Interagency Council on Homelessness,washington,DC
 USICH.GOV,Federal Agency,US Interagency Council on Homelessness,Washington,DC
