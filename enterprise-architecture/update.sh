@@ -7,7 +7,7 @@ BRANCH=itsp-update-$(date "+%Y-%m-%d")
 REPO=$(git remote -v | grep "^origin.\+\(push\)" | awk '{print $2}' | perl -e 's/^(https:\/\/|git@)github.com[:\/](.+?)(\.git)?$/$2/' -pi)
 
 git fetch origin
-git checkout origin/gh-pages
+git checkout origin/master
 git checkout -b $BRANCH
 
 mv ~/Downloads/tableExport.csv it-standards.csv
