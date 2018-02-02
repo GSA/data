@@ -92,7 +92,6 @@ AFF.GOV,Federal Agency,Department of Agriculture,Boise,ID
 AG.GOV,Federal Agency,Department of Agriculture,Fort Collins,CO
 ARS-GRIN.GOV,Federal Agency,Department of Agriculture,Beltsville,MD
 ARSUSDA.GOV,Federal Agency,Department of Agriculture,Beltsville,MD
-ASKKAREN.GOV,Federal Agency,Department of Agriculture,Washington,DC
 BEFOODSAFE.GOV,Federal Agency,Department of Agriculture,Washington,DC
 BIOPREFERRED.GOV,Federal Agency,Department of Agriculture,Washington,DC
 BOSQUE.GOV,Federal Agency,Department of Agriculture,Albuquerque,NM
@@ -308,7 +307,6 @@ AOA.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 BAM.GOV,Federal Agency,Department of Health And Human Services,Atlanta,GA
 BETOBACCOFREE.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 BIOETHICS.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
-BIOSECURITYBOARD.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 BRAINHEALTH.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 CANCER.GOV,Federal Agency,Department of Health And Human Services,Rockville,MD
 CANCERNET.GOV,Federal Agency,Department of Health And Human Services,Rockville,MD
@@ -370,7 +368,6 @@ LOCATORPLUS.GOV,Federal Agency,Department of Health And Human Services,Bethesda,
 LONGTERMCARE.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 MEDICAID.GOV,Federal Agency,Department of Health And Human Services,Baltimore,MD
 MEDICALCOUNTERMEASURES.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
-MEDICALRESERVECORPS.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 MEDICARE.GOV,Federal Agency,Department of Health And Human Services,Baltimore,MD
 MEDLINE.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
 MEDLINEPLUS.GOV,Federal Agency,Department of Health And Human Services,Bethesda,MD
@@ -473,7 +470,6 @@ CRIMESOLUTIONS.GOV,Federal Agency,Department of Justice,Washinton ,DC
 CRIMEVICTIMS.GOV,Federal Agency,Department of Justice,Potomac,MD
 CYBERCRIME.GOV,Federal Agency,Department of Justice,Washington,DC
 DEA.GOV,Federal Agency,Department of Justice,Rockville,MD
-DEADIVERSION.GOV,Federal Agency,Department of Justice,Potomac,MD
 DEAECOM.GOV,Federal Agency,Department of Justice,Potomac,MD
 DOJ.GOV,Federal Agency,Department of Justice,Potomac,MD
 DSAC.GOV,Federal Agency,Department of Justice,Potomac,MD
@@ -797,6 +793,7 @@ ENERGYSTAR.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 EPA.GOV,Federal Agency,Environmental Protection Agency,Research Triangle Park,NC
 FDMS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 FEDCENTER.GOV,Federal Agency,Environmental Protection Agency,Champaign,IL
+FOIAONLINE.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 FRTR.GOV,Federal Agency,Environmental Protection Agency,Omaha,NE
 GLNPO.GOV,Federal Agency,Environmental Protection Agency,Chicago,IL
 GREENGOV.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
@@ -1009,11 +1006,9 @@ UNITEDSTATES.GOV,Federal Agency,General Services Administration,Washington,DC
 US.GOV,Federal Agency,General Services Administration,Washington,DC
 USA.GOV,Federal Agency,General Services Administration,Washington,DC
 USAGOV.GOV,Federal Agency,General Services Administration,Washington,DC
-USCIRF.GOV,Federal Agency,General Services Administration,Washington,DC
 USGOVERNMENT.GOV,Federal Agency,General Services Administration,Washington,DC
 USIP.GOV,Federal Agency,General Services Administration,Washington,DC
 USSM.GOV,Federal Agency,General Services Administration,Washington,DC
-VEF.GOV,Federal Agency,General Services Administration,Arlington,VA
 VOTE.GOV,Federal Agency,General Services Administration,Washington,DC
 VOTEBYMAIL.GOV,Federal Agency,General Services Administration,SILVER SPRING,MD
 CONGRESSIONALDIRECTORY.GOV,Federal Agency,Government Publishing Office,Washington,DC
@@ -1033,7 +1028,6 @@ SENATECALENDAR.GOV,Federal Agency,Government Publishing Office,Washington,DC
 USCC.GOV,Federal Agency,Government Publishing Office,Washington,DC
 USCODE.GOV,Federal Agency,Government Publishing Office,Washington,DC
 USGOVERNMENTMANUAL.GOV,Federal Agency,Government Publishing Office,College Park,MD
-WELCOMETOUSA.GOV,Federal Agency,Government Publishing Office,Washington,DC
 RESTORETHEGULF.GOV,Federal Agency,Gulf Coast Ecosystem Restoration Council (GCERC),Silver Spring,MD
 TRUMAN.GOV,Federal Agency,Harry S. Truman Scholarship Foundation,Washington,DC
 IMLS.GOV,Federal Agency,Institute of Museum and Library Services,Washington,DC
@@ -1069,8 +1063,6 @@ LOCTPS.GOV,Federal Agency,Library of Congress,Washington,DC
 NATIVEAMERICANHERITAGEMONTH.GOV,Federal Agency,Library of Congress,Washington,DC
 READ.GOV,Federal Agency,Library of Congress,Washington,DC
 SECTION108.GOV,Federal Agency,Library of Congress,Washington,DC
-TEACHINGPRIMARYSOURCES.GOV,Federal Agency,Library of Congress,Washington,DC
-TEACHINGWITHPRIMARYSOURCES.GOV,Federal Agency,Library of Congress,Washington,DC
 THOMAS.GOV,Federal Agency,Library of Congress,Washington,DC
 TPS.GOV,Federal Agency,Library of Congress,Washington,DC
 UNITEDSTATESCONGRESS.GOV,Federal Agency,Library of Congress,Washington,DC
@@ -1281,6 +1273,7 @@ USCAPITOLPOLICE.GOV,Federal Agency,U.S. Capitol Police,Washington,DC
 USCP.GOV,Federal Agency,U.S. Capitol Police,Washington,DC
 CFA.GOV,Federal Agency,U.S. Commission of Fine Arts,Washington,DC
 USCCR.GOV,Federal Agency,U.S. Commission on Civil Rights,Washington,DC
+USCIRF.GOV,Federal Agency,U.S. Commission on International Religious Freedom,Washington,DC
 PEACECORPSOIG.GOV,Federal Agency,"U.S. Postal Service, Office of Inspector General",Washington,DC
 USPSOIG.GOV,Federal Agency,"U.S. Postal Service, Office of Inspector General",Arlington,VA
 USTDA.GOV,Federal Agency,U.S. Trade and Development Agency,Arlington,VA
@@ -1289,3 +1282,4 @@ USGCRP.GOV,Federal Agency,United Stated Global Change Research Program,Washingto
 HERITAGEABROAD.GOV,Federal Agency,US Commission for the Preservation of Americas Heritage Abroad,Washington,DC
 ICH.GOV,Federal Agency,US Interagency Council on Homelessness,washington,DC
 USICH.GOV,Federal Agency,US Interagency Council on Homelessness,Washington,DC
+VEF.GOV,Federal Agency,Vietnam Education Foundation,Arlington,VA
