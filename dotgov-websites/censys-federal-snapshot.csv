@@ -2939,8 +2939,6 @@ discoverreceiver.cbp.dhs.gov
 discoverreceiver.hq.dhs.gov
 discoverreceiver.ice.dhs.gov
 discoverreceiver.uscis.dhs.gov
-dns name=trainingprism-test.dhs.gov
-dns name=trainingprism.dhs.gov
 dp-int-exvip1.cbp.dhs.gov
 dp-int-exvip2.cbp.dhs.gov
 ds.cbp.dhs.gov
