@@ -16,7 +16,14 @@ To see the latest-and-greatest list, get on the GSA network (see [VPN informatio
 
 ## Updating the list
 
-From this directory, run the updating script. Requires Python 3, and being on the GSA network.
+Requires:
+
+* Being on the GSA network
+* cURL
+* Git
+* Python 3
+
+From this directory, run the updating script:
 
 ```sh
 ./update.sh
