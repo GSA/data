@@ -16,19 +16,8 @@ To see the latest-and-greatest list, get on the GSA network (see [VPN informatio
 
 ## Updating the list
 
-*Only applicable to GSA staff.*
+From this directory, run the updating script. Requires Python 3, and being on the GSA network.
 
-1. Visit [the canonical IT Standards list](https://ea.gsa.gov/#!/itstandards).
-1. Only show the `Standard Name`, `Description`, `Category`, `Status`, `Deployment Type`, and `Approval Expiration Date` columns.
-
-    ![column selection drop-down](columns.png)
-
-1. Export the list as a CSV.
-
-    ![export drop-down](export.png)
-
-1. From this directory, run the updating script.
-
-    ```sh
-    ./update.sh
-    ```
+```sh
+./update.sh
+```

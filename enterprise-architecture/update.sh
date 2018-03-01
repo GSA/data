@@ -10,7 +10,7 @@ git fetch origin
 git checkout origin/master
 git checkout -b $BRANCH
 
-mv ~/Downloads/tableExport.csv it-standards.csv
+python3 update.py
 
 read -p "You may want to 'diff' the list in another terminal window. Press enter to continue"
 
