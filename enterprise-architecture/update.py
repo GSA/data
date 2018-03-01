@@ -1,19 +1,10 @@
 import csv
 import json
-import ssl
-import urllib.request
+import sys
 
 
-# Python not detecting certificates on Mac by default - temporary workaround to disable certificate validation
-# https://stackoverflow.com/a/28048260/358804
-ctx = ssl.create_default_context()
-ctx.check_hostname = False
-ctx.verify_mode = ssl.CERT_NONE
-
-with urllib.request.urlopen('https://ea.gsa.gov/api/v0/itstandards', context=ctx) as req:
-    raw = req.read().decode()
-    data = json.loads(raw)
-
+raw = sys.stdin.read()
+data = json.loads(raw)
 data.sort(key=lambda k: k['Name'])
 
 with open('it-standards.csv', 'w') as csvfile:
@@ -30,3 +21,5 @@ with open('it-standards.csv', 'w') as csvfile:
             entry['DeploymentType'],
             entry['ApprovalExpirationDate'] or '-'
         ])
+
+print("it-standards.csv updated.")

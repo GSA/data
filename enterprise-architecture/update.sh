@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -e
+set -o pipefail
 set -x
 
 BRANCH=itsp-update-$(date "+%Y-%m-%d")
@@ -10,7 +11,7 @@ git fetch origin
 git checkout origin/master
 git checkout -b $BRANCH
 
-python3 update.py
+curl https://ea.gsa.gov/api/v0/itstandards | python3 update.py
 
 read -p "You may want to 'diff' the list in another terminal window. Press enter to continue"
 
