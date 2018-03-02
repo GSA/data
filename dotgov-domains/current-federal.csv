@@ -1,4 +1,4 @@
-Domain Name,Domain Type,Agency,City,State
+﻿Domain Name,Domain Type,Agency,City,State
 ACUS.GOV,Federal Agency,Administrative Conference of the United States,WASHINGTON,DC
 ACHP.GOV,Federal Agency,Advisory Council on Historic Preservation,Washington,DC
 PRESERVEAMERICA.GOV,Federal Agency,Advisory Council on Historic Preservation,Washington,DC
@@ -92,6 +92,7 @@ AFF.GOV,Federal Agency,Department of Agriculture,Boise,ID
 AG.GOV,Federal Agency,Department of Agriculture,Fort Collins,CO
 ARS-GRIN.GOV,Federal Agency,Department of Agriculture,Beltsville,MD
 ARSUSDA.GOV,Federal Agency,Department of Agriculture,Beltsville,MD
+ASKKAREN.GOV,Federal Agency,Department of Agriculture,Washington,DC
 BEFOODSAFE.GOV,Federal Agency,Department of Agriculture,Washington,DC
 BIOPREFERRED.GOV,Federal Agency,Department of Agriculture,Washington,DC
 BOSQUE.GOV,Federal Agency,Department of Agriculture,Albuquerque,NM
@@ -263,7 +264,6 @@ KAPL.GOV,Federal Agency,Department of Energy,Schenectady,NY
 LANL.GOV,Federal Agency,Department of Energy,Los Alamos,NM
 LBL.GOV,Federal Agency,Department of Energy,Berkeley,CA
 LLNL.GOV,Federal Agency,Department of Energy,Livermore,CA
-NCCRC.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
 NCCS.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
 NCRC.GOV,Federal Agency,Department of Energy,Oak Ridge,TN
 NERSC.GOV,Federal Agency,Department of Energy,Berkeley,CA
@@ -413,7 +413,6 @@ WOMENSHEALTH.GOV,Federal Agency,Department of Health And Human Services,Washingt
 YOUTH.GOV,Federal Agency,Department of Health And Human Services,Washington,DC
 BIOMETRICS.GOV,Federal Agency,Department of Homeland Security,Arlington,VA
 CBP.GOV,Federal Agency,Department of Homeland Security,Washington,DC
-CITIZENCORPS.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 CPNIREPORTING.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 DHS.GOV,Federal Agency,Department of Homeland Security,Washington,DC
 DISASTERASSISTANCE.GOV,Federal Agency,Department of Homeland Security,Bluemont,VA
@@ -621,7 +620,6 @@ NBC.GOV,Federal Agency,Department of the Interior,Denver,CO
 NEMI.GOV,Federal Agency,Department of the Interior,Middleton,WI
 NFPORS.GOV,Federal Agency,Department of the Interior,Washington,DC
 NIFC.GOV,Federal Agency,Department of the Interior,Boise,ID
-NOLAENVIRONMENTAL.GOV,Federal Agency,Department of the Interior,Lafayette,LA
 NPS.GOV,Federal Agency,Department of the Interior,WASHINGTON DC,DC
 ONHIR.GOV,Federal Agency,Department of the Interior,Flagstaff,AZ
 ONRR.GOV,Federal Agency,Department of the Interior,Herndon,VA
@@ -1007,7 +1005,6 @@ US.GOV,Federal Agency,General Services Administration,Washington,DC
 USA.GOV,Federal Agency,General Services Administration,Washington,DC
 USAGOV.GOV,Federal Agency,General Services Administration,Washington,DC
 USGOVERNMENT.GOV,Federal Agency,General Services Administration,Washington,DC
-USIP.GOV,Federal Agency,General Services Administration,Washington,DC
 USSM.GOV,Federal Agency,General Services Administration,Washington,DC
 VOTE.GOV,Federal Agency,General Services Administration,Washington,DC
 VOTEBYMAIL.GOV,Federal Agency,General Services Administration,SILVER SPRING,MD
@@ -1279,6 +1276,7 @@ USPSOIG.GOV,Federal Agency,"U.S. Postal Service, Office of Inspector General",Ar
 USTDA.GOV,Federal Agency,U.S. Trade and Development Agency,Arlington,VA
 GLOBALCHANGE.GOV,Federal Agency,United Stated Global Change Research Program,Washington,DC
 USGCRP.GOV,Federal Agency,United Stated Global Change Research Program,Washington,DC
+USIP.GOV,Federal Agency,United States Institute of Peace,Washington,DC
 HERITAGEABROAD.GOV,Federal Agency,US Commission for the Preservation of Americas Heritage Abroad,Washington,DC
 ICH.GOV,Federal Agency,US Interagency Council on Homelessness,washington,DC
 USICH.GOV,Federal Agency,US Interagency Council on Homelessness,Washington,DC
