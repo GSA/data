@@ -2,7 +2,6 @@
 
 set -e
 set -o pipefail
-set -x
 
 BRANCH=itsp-update-$(date "+%Y-%m-%d")
 REPO=$(git remote -v | grep "^origin.\+\(push\)" | awk '{print $2}' | perl -e 's/^(https:\/\/|git@)github.com[:\/](.+?)(\.git)?$/$2/' -pi)
@@ -15,7 +14,10 @@ curl https://ea.gsa.gov/api/v0/itstandards | python3 json_to_csv.py > it-standar
 
 echo "it-standards.csv updated."
 
-read -p "You may want to 'diff' the list in another terminal window. Press enter to continue"
+read -p "Next, you will be shown a diff of what's changed in CSV. Once you quit the reader, the changes will be committed. Press enter to continue.> "
+
+# https://stackoverflow.com/a/37181160/358804
+git diff --word-diff-regex="[^[:space:],]+"
 
 git commit -am "update IT Standards List"
 git push -u origin $BRANCH
