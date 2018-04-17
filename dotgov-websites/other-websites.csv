@@ -1,4 +1,6 @@
 Domain
+domains.dotgov.gov
+kms.dsac.gov
 iapps-ctep.ha.nih.gov
 www-03.eftps.gov
 www2a.glb.cdc.gov
@@ -12586,6 +12588,10 @@ youthhomelessness.acf.hhs.gov
 go.opic.gov
 irwin-console.doi.gov
 irwinoat-console.doi.gov
-northeastdiesel.org, EPA
-westcoastcollaborative.org, EPA
-usmint.com, Treasury
+northeastdiesel.org
+westcoastcollaborative.org
+usmint.com
+uat.nfpors.gov
+uag-uat.nfpors.gov
+uag-qa.nfpors.gov
+qa.nfpors.gov

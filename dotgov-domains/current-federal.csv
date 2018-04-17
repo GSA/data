@@ -739,6 +739,9 @@ OSIS.GOV,Federal Agency,Director of National Intelligence,Fort Meade,MD
 PIX.GOV,Federal Agency,Director of National Intelligence,Washington,DC
 QART.GOV,Federal Agency,Director of National Intelligence,Washington,DC
 UGOV.GOV,Federal Agency,Director of National Intelligence,Fort Meade,MD
+EISENHOWERMEMORIAL.GOV,Federal Agency,Dwight D. Eisenhower Memorial Commission,Washington,DC
+EAC.GOV,Federal Agency,Election Assistance Commission,Washington,DC
+VOTEBYMAIL.GOV,Federal Agency,Election Assistance Commission,Silver Spring,MD
 AIRNOW.GOV,Federal Agency,Environmental Protection Agency,Durham,NC
 CBI-EPA.GOV,Federal Agency,Environmental Protection Agency,Durham,NC
 E-ENTERPRISE.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
@@ -755,6 +758,7 @@ RELOCATEFEDS.GOV,Federal Agency,Environmental Protection Agency,Cincinnati,OH
 SUSTAINABILITY.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 URBANWATERS.GOV,Federal Agency,Environmental Protection Agency,Washington,DC
 EEOC.GOV,Federal Agency,Equal Employment Opportunity Commission,Washington,DC
+BEBEST.GOV,Federal Agency,Executive Office of the President,Washington,DC
 BUDGET.GOV,Federal Agency,Executive Office of the President,Washington,DC
 CODE.GOV,Federal Agency,Executive Office of the President,Washington,DC
 CRISISNEXTDOOR.GOV,Federal Agency,Executive Office of the President,Washington,DC
@@ -773,8 +777,6 @@ OSTP.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PAYMENTACCURACY.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PCI.GOV,Federal Agency,Executive Office of the President,Washington,DC
 PITC.GOV,Federal Agency,Executive Office of the President,Washington,DC
-PRESIDIO.GOV,Federal Agency,Executive Office of the President,San Francisco,CA
-PRESIDIOTRUST.GOV,Federal Agency,Executive Office of the President,San Francisco,CA
 USDIGITALSERVICE.GOV,Federal Agency,Executive Office of the President,Washington,DC
 USDS.GOV,Federal Agency,Executive Office of the President,Washington,DC
 USTR.GOV,Federal Agency,Executive Office of the President,Washington,DC
@@ -877,9 +879,7 @@ DIGITAL.GOV,Federal Agency,General Services Administration,Washington,DC
 DIGITALDASHBOARD.GOV,Federal Agency,General Services Administration,Washington,DC
 DIGITALGOV.GOV,Federal Agency,General Services Administration,Washington,DC
 DOTGOV.GOV,Federal Agency,General Services Administration,Fairfax,VA
-EAC.GOV,Federal Agency,General Services Administration,Washington,DC
 ECPIC.GOV,Federal Agency,General Services Administration,Washington,DC
-EISENHOWERMEMORIAL.GOV,Federal Agency,General Services Administration,Washington,DC
 ESRS.GOV,Federal Agency,General Services Administration,Arlington,VA
 EVERYKIDINAPARK.GOV,Federal Agency,General Services Administration,Washington,DC
 FACA.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -927,12 +927,10 @@ INFO.GOV,Federal Agency,General Services Administration,Washington,DC
 INNOVATION.GOV,Federal Agency,General Services Administration,Washington,DC
 KIDS.GOV,Federal Agency,General Services Administration,Washington,DC
 LOGIN.GOV,Federal Agency,General Services Administration,Washington,DC
-NBRC.GOV,Federal Agency,General Services Administration,Concord,NH
 NETWORX.GOV,Federal Agency,General Services Administration,Fairfax,VA
 NIC.GOV,Federal Agency,General Services Administration,Fairfax,VA
 OBPR.GOV,Federal Agency,General Services Administration,Washington,DC
 OVERSIGHTBOARDPR.GOV,Federal Agency,General Services Administration,Washington,DC
-PCLOB.GOV,Federal Agency,General Services Administration,Washington,DC
 PERFORMANCE.GOV,Federal Agency,General Services Administration,Washington,DC
 PIC.GOV,Federal Agency,General Services Administration,Washington,DC
 PIF.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -962,7 +960,6 @@ USAGOV.GOV,Federal Agency,General Services Administration,Washington,DC
 USGOVERNMENT.GOV,Federal Agency,General Services Administration,Washington,DC
 USSM.GOV,Federal Agency,General Services Administration,Washington,DC
 VOTE.GOV,Federal Agency,General Services Administration,Washington,DC
-VOTEBYMAIL.GOV,Federal Agency,General Services Administration,Silver Spring,MD
 CONGRESSIONALDIRECTORY.GOV,Federal Agency,Government Publishing Office,Washington,DC
 CONGRESSIONALRECORD.GOV,Federal Agency,Government Publishing Office,Washington,DC
 ECFR.GOV,Federal Agency,Government Publishing Office,Washington,DC
@@ -1078,6 +1075,7 @@ LPS.GOV,Federal Agency,National Security Agency,College Park,MD
 NTSB.GOV,Federal Agency,National Transportation Safety Board,Washington,DC
 ITRD.GOV,Federal Agency,Networking Information Technology Research and Development,Arlington,VA
 NITRD.GOV,Federal Agency,Networking Information Technology Research and Development,Arlington,VA
+NBRC.GOV,Federal Agency,Northern Border Regional Commission,Concord,NH
 NRC-GATEWAY.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 NRC.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 OSHRC.GOV,Federal Agency,Occupational Safety & Health Review Commission,Washington,DC
@@ -1109,6 +1107,9 @@ USASTAFFING.GOV,Federal Agency,Office of Personnel Management,Macon,GA
 OPIC.GOV,Federal Agency,Overseas Private Investment Corporation,Washington,DC
 PBGC.GOV,Federal Agency,Pension Benefit Guaranty Corporation,Washington,DC
 PRC.GOV,Federal Agency,Postal Regulatory Commission,Washington,DC
+PRESIDIO.GOV,Federal Agency,Presidio Trust,San Francisco,CA
+PRESIDIOTRUST.GOV,Federal Agency,Presidio Trust,San Francisco,CA
+PCLOB.GOV,Federal Agency,Privacy and Civil Liberties Oversight Board,Washington,DC
 RRB.GOV,Federal Agency,Railroad Retirement Board,Chicago,IL
 INVESTOR.GOV,Federal Agency,Securities and Exchange Commission,Washington,DC
 SEC.GOV,Federal Agency,Securities and Exchange Commission,Washington,DC
@@ -1216,7 +1217,6 @@ BEFOODSAFE.GOV,Federal Agency,U.S. Department of Agriculture,Washington,DC
 BIOPREFERRED.GOV,Federal Agency,U.S. Department of Agriculture,Washington,DC
 BOSQUE.GOV,Federal Agency,U.S. Department of Agriculture,Albuquerque,NM
 CHOOSEMYPLATE.GOV,Federal Agency,U.S. Department of Agriculture,Alexandria,VA
-COASTALAMERICA.GOV,Federal Agency,U.S. Department of Agriculture,Washington,DC
 DIETARYGUIDELINES.GOV,Federal Agency,U.S. Department of Agriculture,Alexandria,VA
 EMPOWHR.GOV,Federal Agency,U.S. Department of Agriculture,New Orleans,LA
 EXECSEC.GOV,Federal Agency,U.S. Department of Agriculture,Washington,DC
