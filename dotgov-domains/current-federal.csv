@@ -863,7 +863,6 @@ CAO.GOV,Federal Agency,General Services Administration,Washington,DC
 CBCA.GOV,Federal Agency,General Services Administration,Washington,DC
 CFDA.GOV,Federal Agency,General Services Administration,Washington,DC
 CFO.GOV,Federal Agency,General Services Administration,Washington,DC
-CFOC.GOV,Federal Agency,General Services Administration,Washington,DC
 CHALLENGE.GOV,Federal Agency,General Services Administration,Washington,DC
 CHALLENGES.GOV,Federal Agency,General Services Administration,Washington,DC
 CIO.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -930,7 +929,6 @@ LOGIN.GOV,Federal Agency,General Services Administration,Washington,DC
 NETWORX.GOV,Federal Agency,General Services Administration,Fairfax,VA
 NIC.GOV,Federal Agency,General Services Administration,Fairfax,VA
 OBPR.GOV,Federal Agency,General Services Administration,Washington,DC
-OVERSIGHTBOARDPR.GOV,Federal Agency,General Services Administration,Washington,DC
 PERFORMANCE.GOV,Federal Agency,General Services Administration,Washington,DC
 PIC.GOV,Federal Agency,General Services Administration,Washington,DC
 PIF.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -939,7 +937,6 @@ PKI.GOV,Federal Agency,General Services Administration,Washington,DC
 PLAINLANGUAGE.GOV,Federal Agency,General Services Administration,Washington,DC
 PPIRS.GOV,Federal Agency,General Services Administration,Washington,DC
 PRESIDENTIALINNOVATIONFELLOWS.GOV,Federal Agency,General Services Administration,Washington,DC
-PROMESA.GOV,Federal Agency,General Services Administration,Washington,DC
 PTT.GOV,Federal Agency,General Services Administration,Washington,DC
 REALESTATESALES.GOV,Federal Agency,General Services Administration,Washington,DC
 REALPROPERTYPROFILE.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -952,7 +949,6 @@ SBST.GOV,Federal Agency,General Services Administration,Washington,DC
 SEARCH.GOV,Federal Agency,General Services Administration,Washington,DC
 SECTION508.GOV,Federal Agency,General Services Administration,Washington,DC
 SFTOOL.GOV,Federal Agency,General Services Administration,Chicago,IL
-STRATEGICSOURCING.GOV,Federal Agency,General Services Administration,Arlington,VA
 UNITEDSTATES.GOV,Federal Agency,General Services Administration,Washington,DC
 US.GOV,Federal Agency,General Services Administration,Washington,DC
 USA.GOV,Federal Agency,General Services Administration,Washington,DC
@@ -1075,6 +1071,7 @@ LPS.GOV,Federal Agency,National Security Agency,College Park,MD
 NTSB.GOV,Federal Agency,National Transportation Safety Board,Washington,DC
 ITRD.GOV,Federal Agency,Networking Information Technology Research and Development,Arlington,VA
 NITRD.GOV,Federal Agency,Networking Information Technology Research and Development,Arlington,VA
+PROMESA.GOV,Federal Agency,Non-Federal Agency,San Juan,Puerto Rico
 NBRC.GOV,Federal Agency,Northern Border Regional Commission,Concord,NH
 NRC-GATEWAY.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
 NRC.GOV,Federal Agency,Nuclear Regulatory Commission,Rockville,MD
