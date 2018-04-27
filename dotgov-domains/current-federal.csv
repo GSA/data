@@ -8,14 +8,6 @@ NATIONALMALL.GOV,Federal Agency - Executive,American Battle Monuments Commission
 AMTRAKOIG.GOV,Federal Agency - Executive,AMTRAK,Washington,DC
 ARC.GOV,Federal Agency - Executive,Appalachian Regional Commission,Washington,DC
 ASC.GOV,Federal Agency - Executive,Appraisal Subcommittee,Washington,DC
-AOC.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-CAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-CAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-USBG.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-USCAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-USCAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-VISITTHECAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
-VISITTHECAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
 AFRH.GOV,Federal Agency - Executive,Armed Forces Retirement Home,Washington,DC
 GOLDWATERSCHOLARSHIP.GOV,Federal Agency - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,Springfield,VA
 BBG.GOV,Federal Agency - Executive,Broadcasting Board of Governors,Washington,DC
@@ -39,7 +31,6 @@ CAPNHQ.GOV,Federal Agency - Executive,Civil Air Patrol,Maxwell AFB,AL
 CFTC.GOV,Federal Agency - Executive,Commodity Futures Trading Commission,Washington,DC
 SMARTCHECK.GOV,Federal Agency - Executive,Commodity Futures Trading Commission,Washington,DC
 WHISTLEBLOWER.GOV,Federal Agency - Executive,Commodity Futures Trading Commission,Washington,DC
-COMPLIANCE.GOV,Federal Agency - Legislative,Congressional Office of Compliance,Washington,DC
 BCFP.GOV,Federal Agency - Executive,Consumer Financial Protection Bureau,Washington,DC
 CFPA.GOV,Federal Agency - Executive,Consumer Financial Protection Bureau,Washington,DC
 CFPB.GOV,Federal Agency - Executive,Consumer Financial Protection Bureau,Washington,DC
@@ -956,23 +947,6 @@ USAGOV.GOV,Federal Agency - Executive,General Services Administration,Washington
 USGOVERNMENT.GOV,Federal Agency - Executive,General Services Administration,Washington,DC
 USSM.GOV,Federal Agency - Executive,General Services Administration,Washington,DC
 VOTE.GOV,Federal Agency - Executive,General Services Administration,Washington,DC
-CONGRESSIONALDIRECTORY.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-CONGRESSIONALRECORD.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-ECFR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-FDLP.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-FDSYS.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-FEDERALREGISTER.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-FEDREG.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-GOVINFO.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-GPO.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-HOUSECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-OFR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-OPENWORLD.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-PRESIDENTIALDOCUMENTS.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-SENATECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-USCC.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-USCODE.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
-USGOVERNMENTMANUAL.GOV,Federal Agency - Legislative,Government Publishing Office,College Park,MD
 RESTORETHEGULF.GOV,Federal Agency - Executive,Gulf Coast Ecosystem Restoration Council,Silver Spring,MD
 TRUMAN.GOV,Federal Agency - Executive,Harry S. Truman Scholarship Foundation,Washington,DC
 IMLS.GOV,Federal Agency - Executive,Institute of Museum and Library Services,Washington,DC
@@ -981,39 +955,7 @@ JAMESMADISON.GOV,Federal Agency - Executive,James Madison Memorial Fellowship Fo
 JUSFC.GOV,Federal Agency - Executive,Japan-US Friendship Commision,Washington,DC
 KENNEDY-CENTER.GOV,Federal Agency - Executive,John F. Kennedy Center for Performing Arts,Washington,DC
 LSC.GOV,Federal Agency - Executive,Legal Services Corporation,Washington,DC
-AFRICANAMERICANHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-AMERICANMEMORY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-AMERICASLIBRARY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-AMERICASSTORY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-ASIANPACIFICHERITAGE.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-CONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-COPYRIGHT.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-CRB.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-CRS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-DIGITALPRESERVATION.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-DIGITIZATIONGUIDELINES.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-HISPANICHERITAGEMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-JEWISHHERITAGE.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-JEWISHHERITAGEMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LAW.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LCTL.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LIBRARYOFCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LIS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LITERACY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LOC.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-LOCTPS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-NATIVEAMERICANHERITAGEMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-READ.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-SECTION108.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-THOMAS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-TPS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-UNITEDSTATESCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-USCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-WDL.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
-WOMENSHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
 MMC.GOV,Federal Agency - Executive,Marine Mammal Commission,Bethesda,MD
-MACPAC.GOV,Federal Agency - Legislative,Medicaid and CHIP Payment and Access Commission,Washington,DC
-MEDPAC.GOV,Federal Agency - Legislative,Medical Payment Advisory Commission,Washington,DC
 MSPB.GOV,Federal Agency - Executive,Merit Systems Protection Board,Washington,DC
 MCC.GOV,Federal Agency - Executive,Millennium Challenge Corporation,Washington,DC
 MCCTEST.GOV,Federal Agency - Executive,Millennium Challenge Corporation,Washington,DC
@@ -1046,7 +988,6 @@ RECORDSMANAGEMENT.GOV,Federal Agency - Executive,National Archives and Records A
 WARTIMECONTRACTING.GOV,Federal Agency - Executive,National Archives and Records Administration,College Park,MD
 WEBHARVEST.GOV,Federal Agency - Executive,National Archives and Records Administration,College Park,MD
 NCPC.GOV,Federal Agency - Executive,National Capital Planning Commission,Washington,DC
-INSPIRE2SERVE.GOV,Federal Agency - Legislative,"National Commission on Military, National, and Public Service",Arlington,VA
 NCD.GOV,Federal Agency - Executive,National Council on Disability,Washington,DC
 MYCREDITUNION.GOV,Federal Agency - Executive,National Credit Union Administration,Alexandria,VA
 NCUA.GOV,Federal Agency - Executive,National Credit Union Administration,Alexandria,VA
@@ -1121,59 +1062,11 @@ SOCIALSECURITY.GOV,Federal Agency - Executive,Social Security Administration,Bal
 SSA.GOV,Federal Agency - Executive,Social Security Administration,Baltimore,MD
 SSAB.GOV,Federal Agency - Executive,Social Security Advisory Board,Washington,DC
 SJI.GOV,Federal Agency - Executive,State Justice Institute,Reston,VA
-STENNIS.GOV,Federal Agency - Legislative,Stennis Center for Public Service,Starkville,MS
 STB.GOV,Federal Agency - Executive,Surface Transportation Board,Washington,DC
 TVA.GOV,Federal Agency - Executive,Tennessee Valley Authority,Knoxville,TN
 TVAOIG.GOV,Federal Agency - Executive,Tennessee Valley Authority,Knoxville,TN
 TSC.GOV,Federal Agency - Executive,Terrorist Screening Center,Washington,DC
 PTF.GOV,Federal Agency - Executive,The Intelligence Community,Washington,DC
-CBO.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-CBONEWS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-CECC.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-CHINA-COMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-CHINACOMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,MD
-CITIZENCOSPONSORS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-CITIZENS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-COSPONSOR.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-CSCE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-DEMOCRATICLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-DEMOCRATICWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-DEMOCRATS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-DEMS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-ESECLAB.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-FASAB.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-GAO.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-GAONET.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-GOP.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-GOPLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSECOMMUNICATIONS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSED.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSEDEMOCRATS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSEDEMS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSELIVE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-HOUSENEWSLETTERS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-JCT.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-LISTENSTOYOU.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-MAJORITYLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-MAJORITYWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-PDBCECC.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-PPDCECC.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-REPUBLICANS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-SEN.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-SENATE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-SPEAKER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-TAXREFORM.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-TMDBHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-USHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-USHR.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
-SC-US.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
-SCINET-TEST.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
-SCINET.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
-SCUS.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
-SUPREME-COURT.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
-SUPREMECOURT.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
-SUPREMECOURTUS.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
 WORLDWAR1CENTENNIAL.GOV,Federal Agency - Executive,The United States World War One Centennial Commission,Washington,DC
 CHILDRENINADVERSITY.GOV,Federal Agency - Executive,U.S. Agency for International Development,Washington,DC
 DFAFACTS.GOV,Federal Agency - Executive,U.S. Agency for International Development,Washington,DC
@@ -1183,28 +1076,10 @@ NEGLECTEDDISEASES.GOV,Federal Agency - Executive,U.S. Agency for International D
 OFDA.GOV,Federal Agency - Executive,U.S. Agency for International Development,Washington,DC
 PMI.GOV,Federal Agency - Executive,U.S. Agency for International Development,Washington,DC
 USAID.GOV,Federal Agency - Executive,U.S. Agency for International Development,Washington,DC
-USCAPITOLPOLICE.GOV,Federal Agency - Legislative,U.S. Capitol Police,Washington,DC
-USCP.GOV,Federal Agency - Legislative,U.S. Capitol Police,Washington,DC
 HERITAGEABROAD.GOV,Federal Agency - Executive,U.S. Commission for the Preservation of Americas Heritage Abroad,Washington,DC
 CFA.GOV,Federal Agency - Executive,U.S. Commission of Fine Arts,Washington,DC
 USCCR.GOV,Federal Agency - Executive,U.S. Commission on Civil Rights,Washington,DC
 USCIRF.GOV,Federal Agency - Executive,U.S. Commission on International Religious Freedom,Washington,DC
-BANKRUPTCY.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-CAVC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-FEDERALCOURTS.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-FEDERALPROBATION.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-FEDERALRULES.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-FJC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-JUDICIALCONFERENCE.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-NMCOURT.FED.US,Federal Agency - Judicial,U.S. Courts,Albuquerque,NM
-PACER.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USBANKRUPTCY.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USCAVC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USCOURTS.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USPROBATION.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USSC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
-USTAXCOURT.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
 AFF.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Boise,ID
 AG.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Fort Collins,CO
 ARS-GRIN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Beltsville,MD
@@ -1276,3 +1151,128 @@ PEACECORPSOIG.GOV,Federal Agency - Executive,"United States Postal Service, Offi
 USPSOIG.GOV,Federal Agency - Executive,"United States Postal Service, Office of Inspector General",Arlington,VA
 USTDA.GOV,Federal Agency - Executive,United States Trade and Development Agency,Arlington,VA
 VEF.GOV,Federal Agency - Executive,Vietnam Education Foundation,Arlington,VA
+SC-US.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+SCINET-TEST.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+SCINET.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+SCUS.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+SUPREME-COURT.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+SUPREMECOURT.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+SUPREMECOURTUS.GOV,Federal Agency - Judicial,The Supreme Court,Washington,DC
+BANKRUPTCY.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+CAVC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+FEDERALCOURTS.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+FEDERALPROBATION.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+FEDERALRULES.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+FJC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+JUDICIALCONFERENCE.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+NMCOURT.FED.US,Federal Agency - Judicial,U.S. Courts,Albuquerque,NM
+PACER.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USBANKRUPTCY.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USCAVC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USCOURTS.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USPROBATION.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USSC.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+USTAXCOURT.GOV,Federal Agency - Judicial,U.S. Courts,Washington,DC
+AOC.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+CAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+CAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+USBG.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+USCAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+USCAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+VISITTHECAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+VISITTHECAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Washington,DC
+COMPLIANCE.GOV,Federal Agency - Legislative,Congressional Office of Compliance,Washington,DC
+CONGRESSIONALDIRECTORY.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+CONGRESSIONALRECORD.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+ECFR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+FDLP.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+FDSYS.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+FEDERALREGISTER.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+FEDREG.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+GOVINFO.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+GPO.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+HOUSECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+OFR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+OPENWORLD.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+PRESIDENTIALDOCUMENTS.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+SENATECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+USCC.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+USCODE.GOV,Federal Agency - Legislative,Government Publishing Office,Washington,DC
+USGOVERNMENTMANUAL.GOV,Federal Agency - Legislative,Government Publishing Office,College Park,MD
+AFRICANAMERICANHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+AMERICANMEMORY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+AMERICASLIBRARY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+AMERICASSTORY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+ASIANPACIFICHERITAGE.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+CONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+COPYRIGHT.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+CRB.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+CRS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+DIGITALPRESERVATION.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+DIGITIZATIONGUIDELINES.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+HISPANICHERITAGEMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+JEWISHHERITAGE.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+JEWISHHERITAGEMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LAW.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LCTL.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LIBRARYOFCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LIS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LITERACY.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LOC.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+LOCTPS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+NATIVEAMERICANHERITAGEMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+READ.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+SECTION108.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+THOMAS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+TPS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+UNITEDSTATESCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+USCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+WDL.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+WOMENSHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Washington,DC
+MACPAC.GOV,Federal Agency - Legislative,Medicaid and CHIP Payment and Access Commission,Washington,DC
+MEDPAC.GOV,Federal Agency - Legislative,Medical Payment Advisory Commission,Washington,DC
+INSPIRE2SERVE.GOV,Federal Agency - Legislative,"National Commission on Military, National, and Public Service",Arlington,VA
+STENNIS.GOV,Federal Agency - Legislative,Stennis Center for Public Service,Starkville,MS
+CBO.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+CBONEWS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+CECC.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+CHINA-COMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+CHINACOMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,MD
+CITIZENCOSPONSORS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+CITIZENS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+COSPONSOR.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+CSCE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+DEMOCRATICLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+DEMOCRATICWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+DEMOCRATS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+DEMS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+ESECLAB.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+FASAB.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+GAO.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+GAONET.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+GOP.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+GOPLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSECOMMUNICATIONS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSED.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSEDEMOCRATS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSEDEMS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSELIVE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+HOUSENEWSLETTERS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+JCT.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+LISTENSTOYOU.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+MAJORITYLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+MAJORITYWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+PDBCECC.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+PPDCECC.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+REPUBLICANS.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+SEN.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+SENATE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+SPEAKER.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+TAXREFORM.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+TMDBHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+USHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+USHR.GOV,Federal Agency - Legislative,The Legislative Branch,Washington,DC
+USCAPITOLPOLICE.GOV,Federal Agency - Legislative,U.S. Capitol Police,Washington,DC
+USCP.GOV,Federal Agency - Legislative,U.S. Capitol Police,Washington,DC
