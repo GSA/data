@@ -16,6 +16,10 @@ To see the latest-and-greatest list, get on the GSA network (see [VPN informatio
 
 ## Updating the list
 
+First, clone this repository with Git / [GitHub Desktop](https://desktop.github.com/). Then, follow either the scripted or manual steps.
+
+### Script
+
 Requires:
 
 * Being on the GSA network
@@ -28,3 +32,18 @@ From this directory, run the updating script:
 ```sh
 ./update.sh
 ```
+
+### Manual
+
+1. Visit [the canonical IT Standards list](https://ea.gsa.gov/#!/itstandards).
+1. Only show the `Standard Name`, `Description`, `Category`, `Status`, `Deployment Type`, and `Approval Expiration Date` columns.
+
+    ![column selection drop-down](columns.png)
+
+1. Export the list as a CSV.
+
+    ![export drop-down](export.png)
+
+1. Save/rename the file as `it-standards.csv` in this directory.
+1. [Commit the changes.](https://services.github.com/on-demand/github-desktop/add-commits-github-desktop)
+1. [Send a pull request.](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop)
