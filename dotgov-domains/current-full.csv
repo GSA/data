@@ -4,6 +4,7 @@ ABERDEENWA.GOV,City,Non-Federal Agency,City of Aberdeen,Aberdeen,WA
 ABILENETX.GOV,City,Non-Federal Agency,City of Abilene,Abilene,TX
 ABINGDON-VA.GOV,City,Non-Federal Agency,Town of Abingdon,Abingdon,VA
 ABINGTONMA.GOV,City,Non-Federal Agency,Town of Abington,Abington,MA
+ABINGTONPA.GOV,City,Non-Federal Agency,Abington Township,Abington,PA
 ABSECONNJ.GOV,City,Non-Federal Agency,City of Absecon,Absecon,NJ
 ACCESSPRINCETONNJ.GOV,City,Non-Federal Agency,Princeton,Princeton,NJ
 ACTON-MA.GOV,City,Non-Federal Agency,"Town of Acton, Massachusetts",Acton,MA
@@ -246,7 +247,6 @@ BREWSTER-MA.GOV,City,Non-Federal Agency,Town of Brewster,Brewster,MA
 BREWSTERVILLAGE-NY.GOV,City,Non-Federal Agency,Brewster of Village,Brewster,NY
 BRICKTOWNSHIP-NJ.GOV,City,Non-Federal Agency,Township of Brick,Brick,NJ
 BRIDGEPORTCT.GOV,City,Non-Federal Agency,City of Bridgeport,Bridgeport,CT
-BRIDGEPORTWV.GOV,City,Non-Federal Agency,City of Bridgeport,Bridgeport,WV
 BRIDGEVIEW-IL.GOV,City,Non-Federal Agency,Village of Bridgeview,Bridgeview,IL
 BRIDGEWATERNJ.GOV,City,Non-Federal Agency,Bridgewater Township,Bridgewater,NJ
 BRIGHTONCO.GOV,City,Non-Federal Agency,City of Brighton,Brighton,CO
@@ -588,6 +588,7 @@ CONCRETEWA.GOV,City,Non-Federal Agency,Town of Concrete,Concrete,WA
 CONNEAUTOHIO.GOV,City,Non-Federal Agency,City of Conneaut,Conneaut,OH
 CONNERSVILLEIN.GOV,City,Non-Federal Agency,City of Connersville,Connersville,IN
 CONOVERNC.GOV,City,Non-Federal Agency,City of Conover,Conover,NC
+CONWAYARKANSAS.GOV,City,Non-Federal Agency,"City of Conway, Arkansas",Conway,AR
 CONYERSGA.GOV,City,Non-Federal Agency,City of Conyers,Conyers,GA
 COOKEVILLE-TN.GOV,City,Non-Federal Agency,"City of Cookeville, Tennessee",Cookeville,TN
 COONRAPIDSMN.GOV,City,Non-Federal Agency,City of Coon Rapids,Coon Rapids,MN
@@ -971,6 +972,7 @@ GREENSBORO-NC.GOV,City,Non-Federal Agency,City of Greensboro,Greensboro,NC
 GREENSBOROGA.GOV,City,Non-Federal Agency,City of Greensboro,Greensboro,GA
 GREENVILLENC.GOV,City,Non-Federal Agency,"City of Greenville, NC",Greenville,NC
 GREENVILLESC.GOV,City,Non-Federal Agency,City of Greenville,Greenville,SC
+GREENWICHCT.GOV,City,Non-Federal Agency,Town of Greenwich,Greenwich,CT
 GRESHAMOREGON.GOV,City,Non-Federal Agency,City of Gresham,Gresham,OR
 GREYFOREST-TX.GOV,City,Non-Federal Agency,City of Grey Forest,Grey Forest,TX
 GRIMESIOWA.GOV,City,Non-Federal Agency,City of Grimes,Grimes,IA
@@ -1062,6 +1064,7 @@ HIGHPOINTNC.GOV,City,Non-Federal Agency,City of High Point,High Point,NC
 HILLIARDOHIO.GOV,City,Non-Federal Agency,City of Hilliard,Hilliard,OH
 HILLSBORO-OREGON.GOV,City,Non-Federal Agency,CITY OF HILLSBORO,HILLSBORO,OR
 HILLSBOROUGHNC.GOV,City,Non-Federal Agency,Town of Hillsborough,Hillsborough,NC
+HILLSBOROVA.GOV,City,Non-Federal Agency,Town of Hillsboro,Hillsboro,VA
 HILTONHEADISLANDSC.GOV,City,Non-Federal Agency,Town of Hilton Head Island,Hilton Head Island,SC
 HINGHAM-MA.GOV,City,Non-Federal Agency,Town of Hingham,Hingham,MA
 HIRAM-GA.GOV,City,Non-Federal Agency,City of Hiram,Hiram,GA
@@ -1239,6 +1242,7 @@ LAUDERHILLFL.GOV,City,Non-Federal Agency,City of Lauderhill,Lauderhill,FL
 LAVERGNETN.GOV,City,Non-Federal Agency,City of La Vergne,La Vergne,TN
 LAVERNIA-TX.GOV,City,Non-Federal Agency,"City of La Vernia, Texas",La Vernia,TX
 LAWRENCEBURGTN.GOV,City,Non-Federal Agency,City of Lawrenceburg,Lawrenceburg,TN
+LAWRENCEPA.GOV,City,Non-Federal Agency,Lawrence Township Board of Supervisors,Clearfield,PA
 LAWTONMI.GOV,City,Non-Federal Agency,Village of Lawton,Lawton,MI
 LAWTONOK.GOV,City,Non-Federal Agency,City of Lawton,Lawton,OK
 LBTS-FL.GOV,City,Non-Federal Agency,TOWN OF LAUDERDALE-BY-THE-SEA,Lauderdale-By-The-Sea,FL
@@ -1791,6 +1795,7 @@ PORTARTHURTX.GOV,City,Non-Federal Agency,City of Port Arthur,Port Arthur,TX
 PORTCLINTON-OH.GOV,City,Non-Federal Agency,City of Port Clinton,Port Clinton,OH
 PORTERVILLE-CA.GOV,City,Non-Federal Agency,City of Porterville,Porterville,CA
 PORTERVILLECA.GOV,City,Non-Federal Agency,City of Porterville,Porterville,CA
+PORTLAND.GOV,City,Non-Federal Agency,City of Portland,Portland,OR
 PORTLANDMAINE.GOV,City,Non-Federal Agency,"City of Portland, Maine",Portland,ME
 PORTLANDOREGON.GOV,City,Non-Federal Agency,City of Portland,Portland,OR
 PORTLANDTX.GOV,City,Non-Federal Agency,City of Portland,Portland,TX
@@ -1850,7 +1855,6 @@ RENO.GOV,City,Non-Federal Agency,City of Reno,Reno,NV
 RENONV.GOV,City,Non-Federal Agency,City of Reno,Reno,NV
 RENSSELAERNY.GOV,City,Non-Federal Agency,"City of Renssealaer, NY",Rensselaer,NY
 RENTONWA.GOV,City,Non-Federal Agency,City of Renton,Renton,WA
-RHINEBECK-NY.GOV,City,Non-Federal Agency,"Rhinebeck, New York",Rhinebeck,NY
 RHINEBECKNY.GOV,City,Non-Federal Agency,Town of Rhinebeck,Rhinebeck,NY
 RIALTOCA.GOV,City,Non-Federal Agency,City of Rialto,Rialto,CA
 RICETX.GOV,City,Non-Federal Agency,City of Rice,Rice,TX
@@ -3286,13 +3290,11 @@ PENTAGON.GOV,Federal Agency - Executive,Department of Defense,American Forces In
 SITEIDIQ.GOV,Federal Agency - Executive,Department of Defense,Defense Intelligence Agency,Arlington,VA
 TSWG.GOV,Federal Agency - Executive,Department of Defense,Technical Support Working Group,Arlington,VA
 USANDC.GOV,Federal Agency - Executive,Department of Defense,AFTAC/LSCSS,Patrick AFB,FL
-AAPI.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 BUDGETLOB.GOV,Federal Agency - Executive,Department of Education,Department of Education,Washington,DC
 CHILDSTATS.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 COLLEGENAVIGATOR.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 ED.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 EDPUBS.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington ,DC
-EDUCATION.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 FAFSA.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 FSAPUBS.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
 G5.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC
@@ -3597,6 +3599,7 @@ USERRA.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of 
 USMARSHALS.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD
 VCF.GOV,Federal Agency - Executive,Department of Justice,U. S. Department of Justice,Washington,DC
 VEHICLEHISTORY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD
+APPRENTICESHIP.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC
 BENEFITS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 BLS.GOV,Federal Agency - Executive,Department of Labor,Bureau of Labor Statistics,Washington,DC
 DISABILITY.GOV,Federal Agency - Executive,Department of Labor,Office of Disability Employment Policy,Washington,DC
@@ -4392,6 +4395,7 @@ USHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Repr
 USHR.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC
 USCAPITOLPOLICE.GOV,Federal Agency - Legislative,U.S. Capitol Police,U.S. Capitol Police,Washington,DC
 USCP.GOV,Federal Agency - Legislative,U.S. Capitol Police,United States Capitol Police,Washington,DC
+DRBC.GOV,Interstate Agency,Delaware River Basin Commission,Delaware River Basin Commission,West Trenton,NJ
 WMSC.GOV,Interstate Agency,Metrorail Safety Commission,Metrorail Safety Commission,Washington,DC
 MTC.GOV,Interstate Agency,Multistate Tax Commission,Multistate Tax Commission,Washington,DC
 PACIFICFLYWAY.GOV,Interstate Agency,Pacific Flyway Council,Pacific Flyway Council,Vancouver,WA
@@ -5507,6 +5511,7 @@ SUNBIZFLORIDA.GOV,State/Local Govt,Non-Federal Agency,Florida Department of Stat
 SUNRISEFLORIDA.GOV,State/Local Govt,Non-Federal Agency,City of Sunrise,Sunrise,FL
 SUPREMECOURTOFOHIO.GOV,State/Local Govt,Non-Federal Agency,"State of Ohio, Office of IT",Columbus,OH
 SWEETHOMEALABAMA.GOV,State/Local Govt,Non-Federal Agency,Alabama Tourism Department,Montgomery,AL
+SWEETHOMEOR.GOV,State/Local Govt,Non-Federal Agency,City of Sweet Home,Sweet Home,OR
 TALENTFOUNDCO.GOV,State/Local Govt,Non-Federal Agency,Colorado Dept of Labor and Employment,Denvwr,CO
 TEACHIOWA.GOV,State/Local Govt,Non-Federal Agency,State of Iowa - OCIO,Des Moines,IA
 TEAMGA.GOV,State/Local Govt,Non-Federal Agency,State Personnel Administration,Atlanta,GA
