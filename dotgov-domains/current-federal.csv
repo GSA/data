@@ -382,7 +382,7 @@ SAFETYACT.GOV,Federal Agency - Executive,Department of Homeland Security,Science
 SECRETSERVICE.GOV,Federal Agency - Executive,Department of Homeland Security,United States Secret Service   ,Washington,DC
 TSA.GOV,Federal Agency - Executive,Department of Homeland Security,Transportation Security Administration,Arlington,VA
 US-CERT.GOV,Federal Agency - Executive,Department of Homeland Security,US-CERT,Washington,DC
-USCG.GOV,Federal Agency - Executive,Department of Homeland Security,U. S. Coast Guard,Alexandria,VA
+USCG.GOV,Federal Agency - Executive,Department of Homeland Security,U. S. Coast Guard TISCOM,Alexandria,VA
 USCIS.GOV,Federal Agency - Executive,Department of Homeland Security,USCIS,Washington,DC
 USSS.GOV,Federal Agency - Executive,Department of Homeland Security,United States Secret Service,Washington,DC
 DISASTERHOUSING.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC
@@ -472,6 +472,7 @@ USMARSHALS.GOV,Federal Agency - Executive,Department of Justice,Department of Ju
 VCF.GOV,Federal Agency - Executive,Department of Justice,U. S. Department of Justice,Washington,DC
 VEHICLEHISTORY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD
 APPRENTICESHIP.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC
+APPRENTICESHIPS.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC
 BENEFITS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 BLS.GOV,Federal Agency - Executive,Department of Labor,Bureau of Labor Statistics,Washington,DC
 DISABILITY.GOV,Federal Agency - Executive,Department of Labor,Office of Disability Employment Policy,Washington,DC
@@ -842,7 +843,6 @@ UCE.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commis
 ACCESSIBILITY.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 ACQUISITION.GOV,Federal Agency - Executive,General Services Administration,Integrated Acquisition Environment,Arlington,VA
 AFADVANTAGE.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC
-APP.GOV,Federal Agency - Executive,General Services Administration,Presidential Innovation Fellows,Washington,DC
 APPS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 BUSINESSUSA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Innovative Technologies,Washington,DC
 BUYACCESSIBLE.GOV,Federal Agency - Executive,General Services Administration,Electronic Government and Technology,Washington,DC
@@ -910,7 +910,6 @@ KIDS.GOV,Federal Agency - Executive,General Services Administration,Federal Citi
 LOGIN.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 NETWORX.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Fairfax,VA
 NIC.GOV,Federal Agency - Executive,General Services Administration,GSA,Fairfax,VA
-OBPR.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC
 PERFORMANCE.GOV,Federal Agency - Executive,General Services Administration,GSA - Office of Citizen Services Innovative Technologies - OSCIT,Washington,DC
 PIC.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 PIF.GOV,Federal Agency - Executive,General Services Administration,General Service Administration,Washington,DC
