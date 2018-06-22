@@ -397,7 +397,6 @@ CINCINNATIOHIO.GOV,City,Non-Federal Agency,City of Cincinnati,Cincinnati,OH
 CITYKANKAKEE-IL.GOV,City,Non-Federal Agency,CITY OF KANKAKEE IL,KANKAKEE,IL
 CITYOFADAMS-WI.GOV,City,Non-Federal Agency,City of Adams,Adams,WI
 CITYOFAIKENSC.GOV,City,Non-Federal Agency,City of Aiken,Aiken,SC
-CITYOFALAMEDACA.GOV,City,Non-Federal Agency,City of Alameda,Alameda,CA
 CITYOFALBIONMI.GOV,City,Non-Federal Agency,city of albion,albion,MI
 CITYOFALCOA-TN.GOV,City,Non-Federal Agency,City of Alcoa,Alcoa,TN
 CITYOFALGOODTN.GOV,City,Non-Federal Agency,City of Algood,Algood,TN
@@ -537,7 +536,7 @@ CLAYTONNC.GOV,City,Non-Federal Agency,Town of Clayton,Clayton,NC
 CLEARLAKE-WI.GOV,City,Non-Federal Agency,Village of Clear Lake,Clear Lake,WI
 CLEARLAKESHORES-TX.GOV,City,Non-Federal Agency,City of Clear Lake Shores TX,Clear Lake Shores,TX
 CLEARSPRINGMD.GOV,City,Non-Federal Agency,Town of  Clear,Clear Spring,MD
-CLERMONTFL.GOV,City,Non-Federal Agency,City of Clermont,Clermont,FM
+CLERMONTFL.GOV,City,Non-Federal Agency,City of Clermont,Clermont,FL
 CLEVELAND-OH.GOV,City,Non-Federal Agency,City of Cleveland,Cleveland,OH
 CLEVELANDOHIO.GOV,City,Non-Federal Agency,City of Cleveland,Cleveland,OH
 CLEVELANDTN.GOV,City,Non-Federal Agency,"City of Cleveland, Tennessee",Cleveland,TN
@@ -620,6 +619,7 @@ COVINGTON-OH.GOV,City,Non-Federal Agency,VILLAGE OF COVINGTON,COVINGTON ,OH
 COVINGTONKY.GOV,City,Non-Federal Agency,City of Covington,Covington,KY
 COVINGTONWA.GOV,City,Non-Federal Agency,"City of Covington, Wash.",Covington,WA
 CRANBERRYISLES-ME.GOV,City,Non-Federal Agency,"Town of Cranberry Isles, Maine",Islesford,ME
+CRANSTONFIRERI.GOV,City,Non-Federal Agency,Cranston Fire Dept.,Cranston,RI
 CRAWFORDSVILLE-IN.GOV,City,Non-Federal Agency,City of Crawfordsville,Crawfordsville,IN
 CREDITRIVER-MN.GOV,City,Non-Federal Agency,Credit River Township,Prior Lake,MN
 CRESTONIOWA.GOV,City,Non-Federal Agency,City of Creston Iowa,Creston,IA
@@ -638,6 +638,7 @@ CUMMINGTON-MA.GOV,City,Non-Federal Agency,Town of Cummington,Cummington,MA
 CUTLERBAY-FL.GOV,City,Non-Federal Agency,Town of Cutler Bay,Cutler Bay,FL
 DACULAGA.GOV,City,Non-Federal Agency,"City of Dacula, GA",Dacula,GA
 DAHLONEGA-GA.GOV,City,Non-Federal Agency,City of Dahlonega,Dahlonega,GA
+DAHLONEGA.GOV,City,Non-Federal Agency,City of Dahlonega,Dahlonega,GA
 DALHARTTX.GOV,City,Non-Federal Agency,CITY OF DALHART,Dalhart,TX
 DALLAS-GA.GOV,City,Non-Federal Agency,"City of Dallas, Georgia",Dallas,GA
 DALLASCITYHALL-TX.GOV,City,Non-Federal Agency,City of Dallas,Dallas,TX
@@ -1547,6 +1548,7 @@ NAZARETHBOROUGHPA.GOV,City,Non-Federal Agency,Borough of Nazareth,Nazareth,PA
 NBCA.GOV,City,Non-Federal Agency,City of Newport Beach,Newport Beach,CA
 NEBRASKACITYNE.GOV,City,Non-Federal Agency,"City of Nebraska City, Nebraska",Nebraska City,NE
 NEEDHAMMA.GOV,City,Non-Federal Agency,TOWN OF NEEDHAM,NEEDHAM,MA
+NELSONVILLENY.GOV,City,Non-Federal Agency,Village of Nelsonville,Nelsonville,NY
 NEVADACITYCA.GOV,City,Non-Federal Agency,City of Nevada City,Nevada City,CA
 NEVADAMO.GOV,City,Non-Federal Agency,City of Nevada,Nevada,MO
 NEWARKDE.GOV,City,Non-Federal Agency,City of Newark,Newark,DE
@@ -1740,7 +1742,6 @@ PFLUGERVILLETX.GOV,City,Non-Federal Agency,City of Pflugerville,Pflugerville,TX
 PFTX.GOV,City,Non-Federal Agency,City of pflugerville,City of Pflugerville,TX
 PHARR-TX.GOV,City,Non-Federal Agency,City of Pharr,Pharr,TX
 PHILA.GOV,City,Non-Federal Agency,Mayor's Office of Information Services,Philadelphia,PA
-PHILIPSBURGMT.GOV,City,Non-Federal Agency,Town of Philipsburg,Philipsburg,MT
 PHILLIPSTON-MA.GOV,City,Non-Federal Agency,The Town Of Phillipston,Phillipston,MA
 PHILOMATHOREGON.GOV,City,Non-Federal Agency,City of Philomath,Philomath,OR
 PHOENIX.GOV,City,Non-Federal Agency,City Of Phoenix,Phoenix,AZ
@@ -1905,6 +1906,7 @@ ROGERSMN.GOV,City,Non-Federal Agency,City of Rogers,Rogers,MN
 ROLESVILLENC.GOV,City,Non-Federal Agency,Town of Rolesville,Rolesville,NC
 ROLLINGHILLSESTATES-CA.GOV,City,Non-Federal Agency,City of Rolling Hills Estates,Rolling Hills Estates,CA
 ROLLINGHILLSESTATESCA.GOV,City,Non-Federal Agency,City of Rolling Hills Estates,Rolling Hills Estates,CA
+ROLLINGWOODTX.GOV,City,Non-Federal Agency,City of Rollingwood,Rollingwood,TX
 ROME-NY.GOV,City,Non-Federal Agency,"City of Rome, NY",Rome,NY
 ROMI.GOV,City,Non-Federal Agency,City of Royal Oak,Royal Oak,MI
 ROSENBERGTX.GOV,City,Non-Federal Agency,City of Rosenberg,Rosenberg,TX
@@ -2453,6 +2455,7 @@ WINDHAMNH.GOV,City,Non-Federal Agency,Town of Windham,Windham,NH
 WINDSOR-VA.GOV,City,Non-Federal Agency,"Town of Windsor, Virginia",Windsor,VA
 WINDSORWI.GOV,City,Non-Federal Agency,Village of Windsor,DeForest,WI
 WINNECONNEWI.GOV,City,Non-Federal Agency,Village of Winneconne,Winneconne,WI
+WINOOSKIVT.GOV,City,Non-Federal Agency,City of Winooski,Winooski,VT
 WINSLOW-ME.GOV,City,Non-Federal Agency,Town of Winslow,Winslow,ME
 WINSLOWAZ.GOV,City,Non-Federal Agency,City Of Winslow,Winslow,AZ
 WINTERGARDEN-FL.GOV,City,Non-Federal Agency,City of Winter Garden,Winter Garden,FL
@@ -2488,6 +2491,7 @@ YUKONOK.GOV,City,Non-Federal Agency,City of Yukon,Yukon,OK
 YUMAAZ.GOV,City,Non-Federal Agency,City of Yuma,Yuma,AZ
 ZILWAUKEEMICHIGAN.GOV,City,Non-Federal Agency,City Of Zilwaukee ,Zilwaukee,MI
 ZIONSVILLE-IN.GOV,City,Non-Federal Agency,Town of Zionsville,Zionsville,IN
+CHICAGO.GOV,City,Non-Federal Agency,City of Chicago,Chicago,IL
 ADAMSCOUNTYMS.GOV,County,Non-Federal Agency,Adams County Board of Supervisors,Natchez,MS
 ADAMSCOUNTYOH.GOV,County,Non-Federal Agency,Adams County Commissioners,West Union,OH
 AIKENCOUNTYSC.GOV,County,Non-Federal Agency,Aiken County Government,Aiken,SC
@@ -2773,6 +2777,7 @@ HOWARDCOUNTYIN.GOV,County,Non-Federal Agency,Howard County,Kokomo,IN
 HOWARDCOUNTYMARYLAND.GOV,County,Non-Federal Agency,Howard County Government,Ellicott City,MD
 HOWARDCOUNTYMD.GOV,County,Non-Federal Agency,Howard County Maryland Government,Ellicott City,MD
 HOWARDCOUNTYTX.GOV,County,Non-Federal Agency,Howard County Texas,Big Spring,TX
+HUDSONCOUNTYNJ.GOV,County,Non-Federal Agency,Hudson County Executive's Office,Jersey City,NJ
 HURONCOUNTY-OH.GOV,County,Non-Federal Agency,Huron County Commissioners,Norwalk,OH
 HYDECOUNTYNC.GOV,County,Non-Federal Agency,Hyde County Local Govt.,Swanquarter,NC
 ICATCO.GOV,County,Non-Federal Agency,Catawba County Government,Newton,NC
@@ -3510,7 +3515,7 @@ SAFETYACT.GOV,Federal Agency - Executive,Department of Homeland Security,Science
 SECRETSERVICE.GOV,Federal Agency - Executive,Department of Homeland Security,United States Secret Service   ,Washington,DC
 TSA.GOV,Federal Agency - Executive,Department of Homeland Security,Transportation Security Administration,Arlington,VA
 US-CERT.GOV,Federal Agency - Executive,Department of Homeland Security,US-CERT,Washington,DC
-USCG.GOV,Federal Agency - Executive,Department of Homeland Security,U. S. Coast Guard,Alexandria,VA
+USCG.GOV,Federal Agency - Executive,Department of Homeland Security,U. S. Coast Guard TISCOM,Alexandria,VA
 USCIS.GOV,Federal Agency - Executive,Department of Homeland Security,USCIS,Washington,DC
 USSS.GOV,Federal Agency - Executive,Department of Homeland Security,United States Secret Service,Washington,DC
 DISASTERHOUSING.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC
@@ -3600,6 +3605,7 @@ USMARSHALS.GOV,Federal Agency - Executive,Department of Justice,Department of Ju
 VCF.GOV,Federal Agency - Executive,Department of Justice,U. S. Department of Justice,Washington,DC
 VEHICLEHISTORY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD
 APPRENTICESHIP.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC
+APPRENTICESHIPS.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC
 BENEFITS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 BLS.GOV,Federal Agency - Executive,Department of Labor,Bureau of Labor Statistics,Washington,DC
 DISABILITY.GOV,Federal Agency - Executive,Department of Labor,Office of Disability Employment Policy,Washington,DC
@@ -3970,7 +3976,6 @@ UCE.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commis
 ACCESSIBILITY.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 ACQUISITION.GOV,Federal Agency - Executive,General Services Administration,Integrated Acquisition Environment,Arlington,VA
 AFADVANTAGE.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC
-APP.GOV,Federal Agency - Executive,General Services Administration,Presidential Innovation Fellows,Washington,DC
 APPS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 BUSINESSUSA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Innovative Technologies,Washington,DC
 BUYACCESSIBLE.GOV,Federal Agency - Executive,General Services Administration,Electronic Government and Technology,Washington,DC
@@ -4038,7 +4043,6 @@ KIDS.GOV,Federal Agency - Executive,General Services Administration,Federal Citi
 LOGIN.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 NETWORX.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Fairfax,VA
 NIC.GOV,Federal Agency - Executive,General Services Administration,GSA,Fairfax,VA
-OBPR.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC
 PERFORMANCE.GOV,Federal Agency - Executive,General Services Administration,GSA - Office of Citizen Services Innovative Technologies - OSCIT,Washington,DC
 PIC.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC
 PIF.GOV,Federal Agency - Executive,General Services Administration,General Service Administration,Washington,DC
@@ -4431,6 +4435,7 @@ CHICKASAWJUDICIAL-NSN.GOV,Native Sovereign Nation,Indian Affairs,the Chickasaw N
 CHICKASAWLEGISLATURE-NSN.GOV,Native Sovereign Nation,Indian Affairs,the Chickasaw Nation,Ada,OK
 CHICKASAWNATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,the Chickasaw Nation,Ada,OK
 CHICKASAWTRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,the Chickasaw Nation,Ada,OK
+CHILKAT-NSN.GOV,Native Sovereign Nation,Indian Affairs,Chilkat Indian Village Tribal Government,Haines,AK
 CHILKOOT-NSN.GOV,Native Sovereign Nation,Indian Affairs,Chilkoot Indian Association,Haines,AK
 CHIPPEWACREE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Chippewa Cree Tribe,Box Elder,MT
 CHITIMACHA.GOV,Native Sovereign Nation,Indian Affairs,Chitimacha Tribe of Louisiana,Charenton,LA
@@ -4443,6 +4448,7 @@ CRIT-NSN.GOV,Native Sovereign Nation,Indian Affairs,Colorado River Indian Tribes
 CRITFC-NSN.GOV,Native Sovereign Nation,Indian Affairs,Columbia River Inter-Tribal Fish Commission,Portland,OR
 CROW-NSN.GOV,Native Sovereign Nation,Indian Affairs,Crow Nation Executive Branch,Crow Agency,MT
 CRST-NSN.GOV,Native Sovereign Nation,Indian Affairs,CHEYENNE RIVER SIOUX TRIBE,EAGLE BUTTE,SD
+DINEH-NSN.GOV,Native Sovereign Nation,Indian Affairs,Navajo Nation,Window Rock,AZ
 EKLUTNA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Native Village of Eklutna,Chugiak,AK
 ELYSHOSHONETRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Ely Shoshone Tribe,Ely,NV
 ESTOO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Eastern Shawnee Tribe of Oklahoma,Wyandotte,OK
@@ -4476,6 +4482,7 @@ LAGUNA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Pueblo of Laguna,Laguna,NM
 LAGUNAPUEBLO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Pueblo of Laguna,Laguna,NM
 LAJOLLA-NSN.GOV,Native Sovereign Nation,Indian Affairs,La Jolla Band of Luiseno Indians,Pauma Valley,CA
 LCO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Lac Courte Oreilles Tribal Government ,Hayward,WI
+LRBOI-NSN.GOV,Native Sovereign Nation,Indian Affairs,Little River Band of Ottawa Indians Tribal Government ,Manistee,MI
 LTBBODAWA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Little Traverse Bay Bands of Odawa Indians,Harbor Springs,MI
 LUMMI-NSN.GOV,Native Sovereign Nation,Indian Affairs,Lummi Indian Business Council,Bellingham,WA
 MASHANTUCKETPEQUOT-NSN.GOV,Native Sovereign Nation,Indian Affairs,The Mashantucket Pequot Tribal Nation,Mashantucket,CT
@@ -4494,6 +4501,7 @@ MORONGO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Morongo Band of Mission I
 MPTN-NSN.GOV,Native Sovereign Nation,Indian Affairs,The Mashantucket Pequot Tribal Nation,Mashantucket,CT
 MUSCOGEENATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,Muscogee(Creek)Nation,Okmulgee,OK
 MWTRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Mashpee Wampanoag Tribe,Mashpee,MA
+NAVAJO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Navajo Nation,Window Rock,AZ
 NCIHA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Northern Cirlce Indian Housing Authority,Ukiah,CA
 NFR-NSN.GOV,Native Sovereign Nation,Indian Affairs,North Fork Rancheria,North Fork,CA
 NFRIHA-NSN.GOV,Native Sovereign Nation,Indian Affairs,North Fork Rancheria,North Fork,CA
@@ -4569,13 +4577,9 @@ WILTONRANCHERIA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Wilton Rancheria,
 WYANDOTTE-NATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,Wyandotte Nation,Wyandotte,OK
 YAKAMAFISH-NSN.GOV,Native Sovereign Nation,Indian Affairs,Yakama Nation Fisheries Resource Management,Toppenish,WA
 YAKAMANATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,Confederated Tribes and Bands of the Yakama Nation,Toppenish,WA
+YDSP-NSN.GOV,Native Sovereign Nation,Indian Affairs,Ysleta Del Sur Pueblo,El Pas,TX
 YOCHADEHE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Yocha Dehe Wintun Nation,Brooks,CA
 YPT-NSN.GOV,Native Sovereign Nation,Indian Affairs,Yerington Paiute Tribe,Yerington,NV
-CHILKAT-NSN.GOV,Native Sovereign Nation,Non-Federal Agency,Chilkat Indian Village Tribal Government,Haines,AK
-DINEH-NSN.GOV,Native Sovereign Nation,Non-Federal Agency,Navajo Nation,Window Rock,AZ
-LRBOI-NSN.GOV,Native Sovereign Nation,Non-Federal Agency,Little River Band of Ottawa Indians Tribal Government ,Manistee,MI
-NAVAJO-NSN.GOV,Native Sovereign Nation,Non-Federal Agency,Navajo Nation,Window Rock,AZ
-YDSP-NSN.GOV,Native Sovereign Nation,Non-Federal Agency,Ysleta Del Sur Pueblo,El Pas,TX
 511TX.GOV,State/Local Govt,Non-Federal Agency,Tx. Dept. of Transportation,Austin,TX
 511WI.GOV,State/Local Govt,Non-Federal Agency,Wisconsin Department of Transportation,Madison,WI
 ABLETN.GOV,State/Local Govt,Non-Federal Agency,Office for Information Resources,Nashville,TN
