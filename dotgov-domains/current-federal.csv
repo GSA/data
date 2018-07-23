@@ -502,7 +502,6 @@ FOREIGNASSISTANCE.GOV,Federal Agency - Executive,Department of State,U.S. Depart
 FSGB.GOV,Federal Agency - Executive,Department of State,Foreign Service Grievance Board,Washington,DC
 IAWG.GOV,Federal Agency - Executive,Department of State,Dept of State,Washington,DC
 IBWC.GOV,Federal Agency - Executive,Department of State,International Boundary and Water Commission,El Paso,TX
-ICASS.GOV,Federal Agency - Executive,Department of State,Dept of State,Washington,DC
 OSAC.GOV,Federal Agency - Executive,Department of State,Dept. of State,Washington,DC
 PEPFAR.GOV,Federal Agency - Executive,Department of State,Dept of State,Washington,DC
 PREPRODFAN.GOV,Federal Agency - Executive,Department of State,US Department of State,Washington,DC
@@ -936,6 +935,18 @@ USAGOV.GOV,Federal Agency - Executive,General Services Administration,Office of 
 USGOVERNMENT.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC
 USSM.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC
 VOTE.GOV,Federal Agency - Executive,General Services Administration,"Office of Citizen Services and Innovative Technologies, GSA",Washington,DC
+ATA.GOV,Federal Agency - Executive,GOV Domain OPS,Gov Domain OPS,Washington,DC
+ECFC.GOV,Federal Agency - Executive,GOV Domain OPS,OGP  - General Services Administration,Washington,DC
+ERPO.GOV,Federal Agency - Executive,GOV Domain OPS,GSA - Office of Governmentwide Policy,Washington,DC
+FRAHO.GOV,Federal Agency - Executive,GOV Domain OPS,Gov Domain Ops,Washington,DC
+JPO.GOV,Federal Agency - Executive,GOV Domain OPS,GSA Office of Governmentwide Policy,Washington,DC
+NRPO.GOV,Federal Agency - Executive,GOV Domain OPS,GSA - Office of Governmentwide Policy,Washington,DC
+OSDLS.GOV,Federal Agency - Executive,GOV Domain OPS,GOV Domain OPS,Washington,DC
+OWC.GOV,Federal Agency - Executive,GOV Domain OPS,GSA - Office of Governmentwide Policy,Washington,DC
+PSD.GOV,Federal Agency - Executive,GOV Domain OPS,GSA Office of Governmentwide Policy,Washington,DC
+PSUP.GOV,Federal Agency - Executive,GOV Domain OPS,GSA - Office of Governmentwide Policy,Washington,DC
+PUBSERVICES.GOV,Federal Agency - Executive,GOV Domain OPS,OGP - General Services Administration,Washington,DC
+RPO.GOV,Federal Agency - Executive,GOV Domain OPS,GSA Office of Governmentwide Policy,Washington,DC
 RESTORETHEGULF.GOV,Federal Agency - Executive,Gulf Coast Ecosystem Restoration Council,National Oceanic and Atmospheric Administration (NOAA),Silver Spring,MD
 TRUMAN.GOV,Federal Agency - Executive,Harry S. Truman Scholarship Foundation,Harry S. Truman Scholarship Foundation,Washington,DC
 IMLS.GOV,Federal Agency - Executive,Institute of Museum and Library Services,IMLS,Washington,DC
