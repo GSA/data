@@ -12,6 +12,7 @@ AFRH.GOV,Federal Agency - Executive,Armed Forces Retirement Home,Armed Forces Re
 GOLDWATERSCHOLARSHIP.GOV,Federal Agency - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,Barry Goldwater Scholarship and Excellence in Education Foundation,Springfield,VA
 BBG.GOV,Federal Agency - Executive,Broadcasting Board of Governors,IBB/VOA/BBG,Washington,DC
 IBB.GOV,Federal Agency - Executive,Broadcasting Board of Governors,BBG,Washington,DC
+USAGM.GOV,Federal Agency - Executive,Broadcasting Board of Governors,Broadcasting Board of Governors,Washington,DC
 VOA.GOV,Federal Agency - Executive,Broadcasting Board of Governors,VOA,Washington,DC
 CIA.GOV,Federal Agency - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC
 DF.GOV,Federal Agency - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC
@@ -58,7 +59,6 @@ CNS.GOV,Federal Agency - Executive,Corporation for National & Community Service,
 MENTOR.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National & Community Service,Washington,DC
 MLKDAY.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National and Community Service,Washington,DC
 NATIONALSERVICE.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National & Community Service,Washington,DC
-NATIONALSERVICERESOURCES.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National & Community Service,Washington,DC
 PRESIDENTIALSERVICEAWARDS.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National & Community Service,Washington,DC
 SENIORCORPS.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National and Community Service,Washington,DC
 SERVE.GOV,Federal Agency - Executive,Corporation for National & Community Service,Corporation for National and Community Service,Washington,DC
@@ -485,7 +485,6 @@ HIREVETS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,
 JOBCORPS.GOV,Federal Agency - Executive,Department of Labor,Job Corps National Data Center,Austin,TX
 LABOR.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 MSHA.GOV,Federal Agency - Executive,Department of Labor,Mine Safety and Health Administration (MSHA),Arlington,VA
-MYNEXTMOVE.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 OSHA.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 TRAININGPROVIDERRESULTS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC
 UNIONREPORTS.GOV,Federal Agency - Executive,Department of Labor,Employments Standards Administration,Washington,DC
@@ -744,6 +743,7 @@ RELOCATEFEDS.GOV,Federal Agency - Executive,Environmental Protection Agency,Fede
 SUSTAINABILITY.GOV,Federal Agency - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC
 URBANWATERS.GOV,Federal Agency - Executive,Environmental Protection Agency,U.S. EPA ,Washington,DC
 EEOC.GOV,Federal Agency - Executive,Equal Employment Opportunity Commission,U. S. Equal Employment Opportunity Commission,Washington,DC
+AI.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC
 BEBEST.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC
 BUDGET.GOV,Federal Agency - Executive,Executive Office of the President,Office of Management and Budget,Washington,DC
 CODE.GOV,Federal Agency - Executive,Executive Office of the President,Office of the Federal Chief Information Officer,Washington,DC
@@ -1202,7 +1202,6 @@ USGOVERNMENTMANUAL.GOV,Federal Agency - Legislative,Government Publishing Office
 AFRICANAMERICANHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 AMERICANMEMORY.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 AMERICASLIBRARY.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
-AMERICASSTORY.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 ASIANPACIFICHERITAGE.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 CONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 COPYRIGHT.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
