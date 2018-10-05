@@ -26,7 +26,7 @@ TTIC.GOV,Federal Agency - Executive,Central Intelligence Agency,National Counter
 UCIA.GOV,Federal Agency - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC
 CSB.GOV,Federal Agency - Executive,Chemical Safety Board,U.S. Chemical Safety and Hazard Investigation Board,Washington,DC
 SAFETYVIDEOS.GOV,Federal Agency - Executive,Chemical Safety Board,U.S. Chemical Safety and Hazard Investigation Board,Washington,DC
-CAP.GOV,Federal Agency - Executive,Civil Air Patrol,"CIVIL AIR PATROL, USAF AUX.",Birmingham,MI
+CAP.GOV,Federal Agency - Executive,Civil Air Patrol,"CIVIL AIR PATROL, USAF AUX.",Maxwell AFB,AL
 CAPNHQ.GOV,Federal Agency - Executive,Civil Air Patrol,Civil Air Patrol,Maxwell AFB,AL
 CFTC.GOV,Federal Agency - Executive,Commodity Futures Trading Commission,U.S. Commodity Futures Trading Commission,Washington,DC
 SMARTCHECK.GOV,Federal Agency - Executive,Commodity Futures Trading Commission,Commodity Futures Trading Commission,Washington,DC
@@ -215,7 +215,6 @@ NREL.GOV,Federal Agency - Executive,Department of Energy,National Renewable Ener
 NRELHUB.GOV,Federal Agency - Executive,Department of Energy,National Renewable Energy Laboratory,Golden,CO
 NTRC.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Knoxville,TN
 NUCLEAR.GOV,Federal Agency - Executive,Department of Energy,US Department of Energy,Washington,DC
-NWTRB.GOV,Federal Agency - Executive,Department of Energy,Nuclear Waste Technical Review Board,Arlington,VA
 ORAU.GOV,Federal Agency - Executive,Department of Energy,ORAU,Oak Ridge,TN
 ORNL.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN
 OSTI.GOV,Federal Agency - Executive,Department of Energy,OSTI,Oak Ridge,TN
@@ -865,7 +864,7 @@ FACA.GOV,Federal Agency - Executive,General Services Administration,Committee Ma
 FACADATABASE.GOV,Federal Agency - Executive,General Services Administration,Committee Management Secretariat,Washington,DC
 FAI.GOV,Federal Agency - Executive,General Services Administration,FAI,Washington,DC
 FAPIIS.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC
-FAQ.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC
+FBF.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC
 FBO.GOV,Federal Agency - Executive,General Services Administration,GSA/CAO/OAS,Arlington,VA
 FED.US,Federal Agency - Executive,General Services Administration,GSA,Washington,DC
 FEDBIZOPPS.GOV,Federal Agency - Executive,General Services Administration,GSA/OCAO/OAS,Arlington,VA
@@ -926,7 +925,6 @@ UNITEDSTATES.GOV,Federal Agency - Executive,General Services Administration,"OCS
 US.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC
 USA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC
 USAGOV.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC
-USGOVERNMENT.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC
 USSM.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC
 VOTE.GOV,Federal Agency - Executive,General Services Administration,"Office of Citizen Services and Innovative Technologies, GSA",Washington,DC
 ATA.GOV,Federal Agency - Executive,GOV Domain OPS,Gov Domain OPS,Washington,DC
@@ -1116,6 +1114,7 @@ USDAPII.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Office of 
 WILDFIRE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group,Boise,ID
 WOODSY.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC
 WOODSYOWL.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC
+NWTRB.GOV,Federal Agency - Executive,U.S. Nuclear Waste Technical Review Board,Nuclear Waste Technical Review Board,Arlington,VA
 OSC.GOV,Federal Agency - Executive,U.S. Office of Special Counsel,US Office of Special Counsel,Washington,DC
 OSCNET.GOV,Federal Agency - Executive,U.S. Office of Special Counsel,U. S. Office of Special Counsel,Washington,DC
 PEACECORPS.GOV,Federal Agency - Executive,U.S. Peace Corps,Peace Corps,Washington,DC
@@ -1220,7 +1219,6 @@ THOMAS.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,
 TPS.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 UNITEDSTATESCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 USCONGRESS.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
-WDL.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 WOMENSHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
 MACPAC.GOV,Federal Agency - Legislative,Medicaid and CHIP Payment and Access Commission,Medicaid and CHIP Payment and Access Commission,Washington,DC
 MEDPAC.GOV,Federal Agency - Legislative,Medical Payment Advisory Commission,Medicare Payment Advisory Commission,Washington,DC
