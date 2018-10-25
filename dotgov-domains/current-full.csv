@@ -745,6 +745,7 @@ EASTONMD.GOV,City,Non-Federal Agency,Town of Easton,Easton,MD
 EASTORANGE-NJ.GOV,City,Non-Federal Agency,City Of East ORange,East ORange,NJ
 EASTPALESTINE-OH.GOV,City,Non-Federal Agency,City of East Palestine,East Palestine,OH
 EASTPEORIA-IL.GOV,City,Non-Federal Agency,City of East Peoria,East Peoria,IL
+EASTPOINTEMI.GOV,City,Non-Federal Agency,City of Eastpointe,Eastpointe,MI
 EASTPORT-ME.GOV,City,Non-Federal Agency,Town of Eastport,Eastport,ME
 EASTRIDGETN.GOV,City,Non-Federal Agency,City of East Ridge,East Ridge,TN
 EASTTROYWI.GOV,City,Non-Federal Agency,Village of East Troy,East Troy,WI
@@ -1264,7 +1265,6 @@ LAWTONMI.GOV,City,Non-Federal Agency,Village of Lawton,Lawton,MI
 LAWTONOK.GOV,City,Non-Federal Agency,City of Lawton,Lawton,OK
 LBTS-FL.GOV,City,Non-Federal Agency,TOWN OF LAUDERDALE-BY-THE-SEA,Lauderdale-By-The-Sea,FL
 LEADVILLE-CO.GOV,City,Non-Federal Agency,City of Leadville,Leadville,CO
-LEAGUECITY-TX.GOV,City,Non-Federal Agency,City of League City,League City,TX
 LEAGUECITYTX.GOV,City,Non-Federal Agency,City of League City,League City,TX
 LEANDERTX.GOV,City,Non-Federal Agency,City of Leander,Leander,TX
 LEBANONCT.GOV,City,Non-Federal Agency,Town of Lebanon,Lebanon,CT
@@ -1519,7 +1519,6 @@ MORTON-IL.GOV,City,Non-Federal Agency,"City of Morton, IL",Morton,IL
 MOULTONBOROUGHNH.GOV,City,Non-Federal Agency,Town of Moultonborough,Moultonborough,NH
 MOUNTAINAIRNM.GOV,City,Non-Federal Agency,Town of Mountainair,Mountainair,NM
 MOUNTAINHOUSECA.GOV,City,Non-Federal Agency,Mountain House Community Services District,Mountain House,CA
-MOUNTAINPARK-GA.GOV,City,Non-Federal Agency,City of Mountain Park,Mountain Park,GA
 MOUNTAINVIEW.GOV,City,Non-Federal Agency,City of Mountain View,Mountain View,CA
 MOUNTCARMELTN.GOV,City,Non-Federal Agency,Town of Mount Carmel,Mount Carmel,TN
 MOUNTKISCONY.GOV,City,Non-Federal Agency,Village of Mount Kisco,Mount Kisco,NY
@@ -2137,7 +2136,6 @@ STOW-MA.GOV,City,Non-Federal Agency,"Town of Stow, Massachusetts",Stow,MA
 STOWEVT.GOV,City,Non-Federal Agency,TOWN OF STOWE,Stowe,VT
 STPAUL.GOV,City,Non-Federal Agency,City of St Paul,Saint Paul,MN
 STPAULSNC.GOV,City,Non-Federal Agency,Town of St Pauls,St. Pauls,NC
-STPETE-FL.GOV,City,Non-Federal Agency,City of St. Petersburg,St. Petersburg,FL
 STRATHAMNH.GOV,City,Non-Federal Agency,Town of Stratham,Stratham,NH
 STURGIS-SD.GOV,City,Non-Federal Agency,City of Sturgis,Sturgis,SD
 STURGISMI.GOV,City,Non-Federal Agency,City of Sturgis,Sturgis,MI
@@ -2147,6 +2145,7 @@ SUFFERNNY.GOV,City,Non-Federal Agency,Village of Suffern,Suffern,NY
 SUGARCITYIDAHO.GOV,City,Non-Federal Agency,"City of Sugar City, Idaho",Sugar City,ID
 SUGARGROVEIL.GOV,City,Non-Federal Agency,Village of Sugar Grove,Sugar Grove,IL
 SUGARLANDTX.GOV,City,Non-Federal Agency,City of Sugar Land,Sugar Land,TX
+SUMMERFIELDNC.GOV,City,Non-Federal Agency,"Town of Summerfield, NC",Summerfield,NC
 SUMMERVILLESC.GOV,City,Non-Federal Agency,Town of Summerville,Summerville,SC
 SUMNERWA.GOV,City,Non-Federal Agency,City of Sumner,Sumner,WA
 SUMTERSC.GOV,City,Non-Federal Agency,City of Sumter,Sumter,SC
@@ -2249,7 +2248,6 @@ TOWNOFPENNINGTONVA.GOV,City,Non-Federal Agency,Town of Pennington Gap,Pennington
 TOWNOFPOUGHKEEPSIE-NY.GOV,City,Non-Federal Agency,Town of Poughkeepsie,POUGHKEEPSIE,NY
 TOWNOFRAMAPO-NY.GOV,City,Non-Federal Agency,Town of Ramapo,Suffern,NY
 TOWNOFRIVERHEADNY.GOV,City,Non-Federal Agency,Town of Riverhead,Riverhead,NY
-TOWNOFROBERSONVILLE-NC.GOV,City,Non-Federal Agency,"VC3, Inc",Robersonville,NC
 TOWNOFSHIELDS-WI.GOV,City,Non-Federal Agency,Town of Shields,Montello,WI
 TOWNOFSMYRNA-TN.GOV,City,Non-Federal Agency,Town of Smyrna,Smyrna,TN
 TOWNOFSURFSIDEFL.GOV,City,Non-Federal Agency,Town of Surfside,Surfside,FL
@@ -3868,6 +3866,7 @@ STRONGPORTS.GOV,Federal Agency - Executive,Department of Transportation,Departme
 TFHRC.GOV,Federal Agency - Executive,Department of Transportation,Turner Fairbank Highway Research Center,Mclean,VA
 TRAFFICSAFETYMARKETING.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC
 TRANSPORTATION.GOV,Federal Agency - Executive,Department of Transportation,U.S. Department of Transportation,Washington,DC
+EHR.GOV,Federal Agency - Executive,Department of Veterans Affairs,Department of Veterans Affairs,Washington,DC
 VA.GOV,Federal Agency - Executive,Department of Veterans Affairs,Department of Veterans Affairs,Washington,DC
 VETBIZ.GOV,Federal Agency - Executive,Department of Veterans Affairs,Center for Veterans Enterprise (00VE),Washington,DC
 VETS.GOV,Federal Agency - Executive,Department of Veterans Affairs,U.S. Department of Veterans Affairs,Washington,DC
@@ -4137,7 +4136,6 @@ FRC.GOV,Federal Agency - Executive,National Archives and Records Administration,
 GEORGEWBUSHLIBRARY.GOV,Federal Agency - Executive,National Archives and Records Administration,NARA,College Park,MD
 HISTORY.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD
 JIMMYCARTERLIBRARY.GOV,Federal Agency - Executive,National Archives and Records Administration,Jimmy Carter Library & Museum,College Park,MD
-NARA-AT-WORK.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD
 NARA.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD
 NIXONLIBRARY.GOV,Federal Agency - Executive,National Archives and Records Administration,NPOL,College Park,MD
 OBAMALIBRARY.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD
@@ -4257,7 +4255,6 @@ FARMERS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,"USDA, Off
 FOODSAFETYJOBS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS/OCIO,Washington,DC
 FORESTSANDRANGELANDS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,US Forest Service,Washington,DC
 FS.FED.US,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service,Washington,DC
-GREEN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Service,Washington,DC
 ICBEMP.GOV,Federal Agency - Executive,U.S. Department of Agriculture,US Forest Service- Pacific Northwest Research Station,Portland,OR
 INVASIVESPECIESINFO.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/ARS/NAL,Beltsville,MD
 IPM.GOV,Federal Agency - Executive,U.S. Department of Agriculture,CSREES,Washington,DC
@@ -4358,7 +4355,6 @@ HOUSECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,Unit
 OFR.GOV,Federal Agency - Legislative,Government Publishing Office,US Government Publishing Office,Washington,DC
 PRESIDENTIALDOCUMENTS.GOV,Federal Agency - Legislative,Government Publishing Office,U.S. Government Publishing Office,Washington,DC
 SENATECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,Government Publishing Office,Washington,DC
-USCC.GOV,Federal Agency - Legislative,Government Publishing Office,U.S. - China Economic and Security Review Commission,Washington,DC
 USCODE.GOV,Federal Agency - Legislative,Government Publishing Office,United States Government Publishing Office,Washington,DC
 USGOVERNMENTMANUAL.GOV,Federal Agency - Legislative,Government Publishing Office,Office of Federal Register (NF),College Park,MD
 AFRICANAMERICANHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Library of Congress,Washington,DC
@@ -4436,10 +4432,13 @@ USHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Repr
 USHR.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC
 USCAPITOLPOLICE.GOV,Federal Agency - Legislative,U.S. Capitol Police,U.S. Capitol Police,Washington,DC
 USCP.GOV,Federal Agency - Legislative,U.S. Capitol Police,United States Capitol Police,Washington,DC
+USCC.GOV,Federal Agency - Legislative,U.S.-China Economic and Security Review Commission,U.S. - China Economic and Security Review Commission,Washington,DC
+DELCOPA.GOV,Interstate Agency,Non-Federal Agency,Delaware County Courthouse and Government Center,Media,PA
 CAL-ITP.GOV,Interstate Agency,Non-Federal Agency,Capitol Corridor Joint Powers Authority,Oakland,CA
 CALIFORNIAINTEGRATEDTRAVEL.GOV,Interstate Agency,Non-Federal Agency,Capitol Corridor Joint Powers Authority,Oakland,CA
 CALIFORNIAPASS.GOV,Interstate Agency,Non-Federal Agency,Capitol Corridor Joint Powers Authority,Oakland,CA
 CHICAGOELECTIONS.GOV,Interstate Agency,Non-Federal Agency,Board of Election Commissioners for the City of Chicago,Chicago,IL
+DETCOG.GOV,Interstate Agency,Non-Federal Agency,Deep East Texas Council of Governments,Jasper,TX
 DRBC.GOV,Interstate Agency,Non-Federal Agency,Delaware River Basin Commission,West Trenton,NJ
 EMSCOMPACT.GOV,Interstate Agency,Non-Federal Agency,Interstate Commission for EMS Personnel Practice,Mechanicsburg,PA
 MTC.GOV,Interstate Agency,Non-Federal Agency,Multistate Tax Commission,Washington,DC
@@ -4447,6 +4446,7 @@ PACIFICFLYWAY.GOV,Interstate Agency,Non-Federal Agency,Pacific Flyway Council,Va
 PANYNJ.GOV,Interstate Agency,Non-Federal Agency,The Port Authority of New York and New Jersey,New York,NY
 UCR.GOV,Interstate Agency,Non-Federal Agency,Unified Carrier Registration Plan,Atlanta,GA
 WMSC.GOV,Interstate Agency,Non-Federal Agency,Metrorail Safety Commission,Washington,DC
+ZEROWASTESONOMA.GOV,Interstate Agency,Non-Federal Agency,Sonoma County Waste Management Agency,Santa Rosa,CA
 29PALMSBOMI-NSN.GOV,Native Sovereign Nation,Indian Affairs,Twenty-Nine Palms Band of Mission Indians,Coachella,CA
 29PALMSGAMING-NSN.GOV,Native Sovereign Nation,Indian Affairs,Twenty-Nine Palms Band of Mission Indians,Coachella,CA
 ABSENTEESHAWNEETRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Absentee Shawnee Tribe of Indians of Oklahoma,Shawnee,OK
@@ -4462,7 +4462,6 @@ BOISFORTE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Bois Forte Reservation 
 BRB-NSN.GOV,Native Sovereign Nation,Indian Affairs,BEAR RIVER BAND OF THE ROHNERVILLE RANCHERIA,LOLETA,CA
 BURNSPAIUTE-NSN.GOV,Native Sovereign Nation,Indian Affairs,BURNS PAIUTE TRIBE,Burns,OR
 CABAZONINDIANS-NSN.GOV,Native Sovereign Nation,Indian Affairs,Cabazon Band of Mission Indians,Indio,CA
-CADDONATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,Caddo Nation,Binger,OK
 CAHTOTRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Catho Tribe,Laytonville,CA
 CAMPO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Campo Kumeyaay Nation,Campo,CA
 CAYUGANATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,Cayuga Nation,Seneca Falls ,NY
@@ -4571,6 +4570,7 @@ POKAGONBAND-NSN.GOV,Native Sovereign Nation,Indian Affairs,Pokagon Band of Potaw
 POL-NSN.GOV,Native Sovereign Nation,Indian Affairs,Pueblo of Laguna,Laguna,NM
 PUYALLUPTRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Puyallup Tribe of Indians,Tacoma,WA
 QCV-NSN.GOV,Native Sovereign Nation,Indian Affairs,The Tulalip Tribes of Washington,Tulalip,WA
+QTRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Qawalangin Tribe of Unalaska,Unalaska,AK
 QVIR-NSN.GOV,Native Sovereign Nation,Indian Affairs,Quartz Valley Indian Reservation,Fort jones,CA
 RAMONA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Ramona Band of Cahuilla Mission Indians,Anza,CA
 REDCLIFF-NSN.GOV,Native Sovereign Nation,Indian Affairs,Red Cliff Band of Lake Superior Chippewa,Bayfield,WI
@@ -4827,6 +4827,7 @@ BLNC.GOV,State/Local Govt,Non-Federal Agency,North Carolina Department of Commer
 BLOOMINGGROVE-NY.GOV,State/Local Govt,Non-Federal Agency,TOWN OF BLOOMING GROVE,BLOOMING GROVE,NY
 BOATIDAHO.GOV,State/Local Govt,Non-Federal Agency,State of Idaho,Boise,ID
 BOIMI.GOV,State/Local Govt,Non-Federal Agency,Department of Technology Management Budget,Lansing,MI
+BRIDGEWATER-CT.GOV,State/Local Govt,Non-Federal Agency,Town of Bridgewater CT,Bridgewater,CT
 BUSINESS4WV.GOV,State/Local Govt,Non-Federal Agency,State of West Virginia,Charleston,WV
 BUYNJBONDS.GOV,State/Local Govt,Non-Federal Agency,NJ Department of Treasury,Trenton,NJ
 BUYSTATEOFTNSURPLUS.GOV,State/Local Govt,Non-Federal Agency,State of Tennessee ,Nashville,TN
@@ -4843,6 +4844,7 @@ CHIAMASS.GOV,State/Local Govt,Non-Federal Agency,Center for Health Information a
 CHILDCARENJ.GOV,State/Local Govt,Non-Federal Agency,Department of Human Services Division of Family Development,Trenton,NJ
 CHOOSEIDAHO.GOV,State/Local Govt,Non-Federal Agency,State of Idaho Office of the CIO,Boise,ID
 CLAIMITTN.GOV,State/Local Govt,Non-Federal Agency,State of Tennessee,Nashville,TN
+CLINTON-ME.GOV,State/Local Govt,Non-Federal Agency,TOWN OF CLINTON,CLINTON,ME
 CMSPLANFLORIDA.GOV,State/Local Govt,Non-Federal Agency,Florida Department of Health,TALLAHASSEE,FL
 CO.GOV,State/Local Govt,Non-Federal Agency,"Colorado, Governor's Office of Information Technology",Denver,CO
 COAG.GOV,State/Local Govt,Non-Federal Agency,Colorado Dept. of Law,Denver,CO
@@ -5107,7 +5109,6 @@ KANSAS.GOV,State/Local Govt,Non-Federal Agency,"State of Kansas, DISC",Topeka,KS
 KANSASCOMMERCE.GOV,State/Local Govt,Non-Federal Agency,Kansas Department of Commerce,Topeka,KS
 KANSASEMPLOYER.GOV,State/Local Govt,Non-Federal Agency,Kansas Deptment of Labor,Topeka,KS
 KANSASMONEY.GOV,State/Local Govt,Non-Federal Agency,Office of the Kansas Securities Commissioner,Topeka,KS
-KANSASREADY.GOV,State/Local Govt,Non-Federal Agency,State of Kansas,Topeka,KS
 KANSASTAG.GOV,State/Local Govt,Non-Federal Agency,The Adjutant General's Department,Topeka,KS
 KDHEKS.GOV,State/Local Govt,Non-Federal Agency,Kansas Department of Health and Environment,Topeka,KS
 KENTUCKY.GOV,State/Local Govt,Non-Federal Agency,Commonwealth of Kentucky,Frankfort,KY
@@ -5180,6 +5181,7 @@ MICH.GOV,State/Local Govt,Non-Federal Agency,State of Michigan,Lansing,MI
 MICHIGAN.GOV,State/Local Govt,Non-Federal Agency,State of Michigan,Lansing,MI
 MICHIGANIDC.GOV,State/Local Govt,Non-Federal Agency,Michigan Indigent Defense Commission,Lansing,MI
 MIDDLEBURGHEIGHTS-OH.GOV,State/Local Govt,Non-Federal Agency,Marketing Directions Inc.,Westlake,OH
+MIEOG.GOV,State/Local Govt,Non-Federal Agency,State of Michigan,Lansing,MI
 MILLENNIUMBULKEISWA.GOV,State/Local Govt,Non-Federal Agency,Washington State Department of Ecology,Lacey,WA
 MILTON-FREEWATER-OR.GOV,State/Local Govt,Non-Federal Agency,City of Milton-Freewater,Milton-Freewater,OR
 MINNESOTA.GOV,State/Local Govt,Non-Federal Agency,"State of Minnesota, Office of Enterprise Technology",St. Paul,MN
@@ -5407,7 +5409,6 @@ OHIORED.GOV,State/Local Govt,Non-Federal Agency,State of Ohio,Columbus,OH
 OHIOSECRETARYOFSTATE.GOV,State/Local Govt,Non-Federal Agency,State of Ohio,Columbus,OH
 OHIOSENATE.GOV,State/Local Govt,Non-Federal Agency,Ohio Legislative Information Systems,Columbus,OH
 OHIOSUPREMECOURT.GOV,State/Local Govt,Non-Federal Agency,"State of Ohio, Office of IT",Columbus,OH
-OHIOTAXAMNESTY.GOV,State/Local Govt,Non-Federal Agency,State of Ohio,Columbus,OH
 OHIOTHIRDFRONTIER.GOV,State/Local Govt,Non-Federal Agency,State of Ohio,Columbus,OH
 OHIOTPES.GOV,State/Local Govt,Non-Federal Agency,State Of Ohio,Columbus,OH
 OHIOTREASURER.GOV,State/Local Govt,Non-Federal Agency,Ohio Department of Administrative Services OIT SDD ,Columbus,OH
