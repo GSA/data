@@ -19,6 +19,7 @@ AHOSKIENC.GOV,City,Non-Federal Agency,Town of Ahoskie,Ahoskie,NC
 AKRONOHIO.GOV,City,Non-Federal Agency,"City of Akron, Ohio",Akron,OH
 ALAMEDACA.GOV,City,Non-Federal Agency,City of Alameda,Alameda,CA
 ALAMOHEIGHTSTX.GOV,City,Non-Federal Agency,City of Alamo Heights,Alamo Heights,TX
+ALBANYGA.GOV,City,Non-Federal Agency,City of Albany,Albany,GA
 ALBANYNY.GOV,City,Non-Federal Agency,City of Albany,Albany,NY
 ALBEMARLENC.GOV,City,Non-Federal Agency,City of Albemarle,Albemarle,NC
 ALBUQUERQUE-NM.GOV,City,Non-Federal Agency,City of Albuquerque ,Albuquerque,NM
@@ -255,6 +256,7 @@ BRIDGEWATERNJ.GOV,City,Non-Federal Agency,Bridgewater Township,Bridgewater,NJ
 BRIGHTONCO.GOV,City,Non-Federal Agency,City of Brighton,Brighton,CO
 BRIMFIELDOHIO.GOV,City,Non-Federal Agency,Brimfield Township,Kent,OH
 BRISTOLCT.GOV,City,Non-Federal Agency,City of Bristol,Bristol,CT
+BRISTOLRI.GOV,City,Non-Federal Agency,Town of Bristol,Bristol,RI
 BRLA.GOV,City,Non-Federal Agency,City of Baton Rouge / Parish of East Baton Rouge,Baton Rouge,LA
 BROADVIEW-IL.GOV,City,Non-Federal Agency,Village of Broadview,Broadview,IL
 BROCKTON-MA.GOV,City,Non-Federal Agency,City of Brockton,Brockton,MA
@@ -429,7 +431,6 @@ CITYOFDALTON-GA.GOV,City,Non-Federal Agency,Dalton City Information Technology O
 CITYOFDEERLODGEMT.GOV,City,Non-Federal Agency,City Of Deer Lodge,Deer Lodge,MT
 CITYOFDOUGLASGA.GOV,City,Non-Federal Agency,City of Douglas,Douglas,GA
 CITYOFDUNBARWV.GOV,City,Non-Federal Agency,City of Dunbar,Dunbar,WV
-CITYOFDUPONTWA.GOV,City,Non-Federal Agency,City of Dupont,DuPont,WA
 CITYOFEUDORAKS.GOV,City,Non-Federal Agency,City of Eudora,Eudora,KS
 CITYOFFARGO-ND.GOV,City,Non-Federal Agency,City of Fargo,Fargo,ND
 CITYOFFARMERSVILLE-CA.GOV,City,Non-Federal Agency,City of Farmersville,Farmersville,CA
@@ -696,6 +697,7 @@ DONALDOREGON.GOV,City,Non-Federal Agency,City of Donald ,Donald,OR
 DONALDSONVILLE-LA.GOV,City,Non-Federal Agency,City of Donaldsonville,Donaldsonville,LA
 DORAL-FL.GOV,City,Non-Federal Agency,City of Doral IT Department,Doral,FL
 DORALPD-FL.GOV,City,Non-Federal Agency,City of Doral,Doral,FL
+DOUGLAS-MA.GOV,City,Non-Federal Agency,Town of Douglas,Douglas,MA
 DOUGLASAZ.GOV,City,Non-Federal Agency,City of Douglas,Douglas,AZ
 DOUGLASVILLEGA.GOV,City,Non-Federal Agency,City of Douglasville,Douglasville,GA
 DRACUTMA.GOV,City,Non-Federal Agency,Town of Dracut,Dracut,MA
@@ -724,7 +726,6 @@ DUVALLWA.GOV,City,Non-Federal Agency,City of Duvall,Duvall,WA
 DYERSBURGTN.GOV,City,Non-Federal Agency,City of Dyersburg,Dyersburg,TN
 EAGARAZ.GOV,City,Non-Federal Agency,Town of Eagar,Eagar,AZ
 EAGLE-WI.GOV,City,Non-Federal Agency,Village of Eagle,Eagle,WI
-EAGLELAKE-TX.GOV,City,Non-Federal Agency,City of Eagle Lake,Eagle Lake,TX
 EAGLENE.GOV,City,Non-Federal Agency,Village of Eagle,Eagle,NE
 EASTBOROUGH-KS.GOV,City,Non-Federal Agency,City of Eastborough,Eastborough,KS
 EASTCOVENTRY-PA.GOV,City,Non-Federal Agency,East Coventry Township,Pottstown,PA
@@ -935,6 +936,7 @@ GILBERTAZ.GOV,City,Non-Federal Agency,Town of Gilbert,Gilbert,AZ
 GILLETTEWY.GOV,City,Non-Federal Agency,City of Gillette,Gillette,WY
 GIRARDKANSAS.GOV,City,Non-Federal Agency,"City of Girard, Kansas",Girard,KS
 GLASTONBURY-CT.GOV,City,Non-Federal Agency,"Town of Glastonbury, CT",Glastonbury,CT
+GLENCOVENY.GOV,City,Non-Federal Agency,City of Glen Cove,Glen Cove,NY
 GLENDALE-WI.GOV,City,Non-Federal Agency,"City of Glendale, Wisconsin",Glendale,WI
 GLENDALEAZ.GOV,City,Non-Federal Agency,"City of Glendale, Arizona",Glendale,AZ
 GLENDALECA.GOV,City,Non-Federal Agency,City of Glendale,Glendale,CA
@@ -965,6 +967,7 @@ GRANGERIOWA.GOV,City,Non-Federal Agency,City of Granger,Granger,IA
 GRANITEFALLSWA.GOV,City,Non-Federal Agency,City of Granite Falls,Granite Falls,WA
 GRANITEQUARRYNC.GOV,City,Non-Federal Agency,Town of Granite Quarry,Granite Quarry ,NC
 GRANTFORKIL.GOV,City,Non-Federal Agency,Village of Grantfork,Highland,IL
+GRANTSNM.GOV,City,Non-Federal Agency,City of Grants,Grants,NM
 GRANTSPASSOREGON.GOV,City,Non-Federal Agency,City of Grants Pass,Grants Pass,OR
 GRANTSVILLEUT.GOV,City,Non-Federal Agency,Grantsville City Corporation,Grantsville,UT
 GRAPEVINETEXAS.GOV,City,Non-Federal Agency,City of Grapevine,Grapevine,TX
@@ -1035,6 +1038,7 @@ HARRISON-NY.GOV,City,Non-Federal Agency,Town Of Harrison,Harrison,NY
 HARRISONBURGVA.GOV,City,Non-Federal Agency,City of Harrisonburg,Harrisonburg,VA
 HARRISONOH.GOV,City,Non-Federal Agency,City of Harrison,Harrison,OH
 HARRISONOHIO.GOV,City,Non-Federal Agency,City of Harrison,Harrison,OH
+HARRISONPDNY.GOV,City,Non-Federal Agency,Harrison Police Department,Harrison,NY
 HARRISONTWP-PA.GOV,City,Non-Federal Agency,Harrison Township,Natrona Heights,PA
 HARTFORD.GOV,City,Non-Federal Agency,Metro Hartford Information Services,Hartford,CT
 HARTSVILLESC.GOV,City,Non-Federal Agency,City of Hartsville,Hartsville,SC
@@ -1053,6 +1057,7 @@ HAZLEHURSTGA.GOV,City,Non-Federal Agency,City of Hazlehurst,Hazlehurst,GA
 HCTX.GOV,City,Non-Federal Agency,city of Haltom City,Haltom City,TX
 HEADOFTHEHARBORNY.GOV,City,Non-Federal Agency,Village of Head of the Harbor,Saint James,NY
 HEATHOHIO.GOV,City,Non-Federal Agency,"City of Heath, Ohio",Heath,OH
+HEBERUT.GOV,City,Non-Federal Agency,Heber City Corporation,Heber City,UT
 HEDWIGTX.GOV,City,Non-Federal Agency,Hedwig Village,Houston,TX
 HELENAMT.GOV,City,Non-Federal Agency,City of Helena,Helena,MT
 HELOTES-TX.GOV,City,Non-Federal Agency,City Of Helotes,Helotes,TX
@@ -1146,6 +1151,7 @@ IRONTONMO.GOV,City,Non-Federal Agency,City of Ironton,Ironton,MO
 IRVINECA.GOV,City,Non-Federal Agency,City of Irvine,Irvine,CA
 IRVINGTONNY.GOV,City,Non-Federal Agency,Village of Irvington,Irvington,NY
 IRWINDALECA.GOV,City,Non-Federal Agency,City of Irwindale,Irwindale,CA
+ISLANDLAKEIL.GOV,City,Non-Federal Agency,Village of Island Lake,Island Lake,IL
 ISLIP-NY.GOV,City,Non-Federal Agency,Town of Islip,Islip,NY
 ISLIPNY.GOV,City,Non-Federal Agency,Town of Islip,Islip,NY
 ISLIPTOWN-NY.GOV,City,Non-Federal Agency,Town of Islip,Islip,NY
@@ -1209,6 +1215,7 @@ KNOXVILLEIA.GOV,City,Non-Federal Agency,City of Knoxville,Knoxville,IA
 KNOXVILLEIOWA.GOV,City,Non-Federal Agency,City of Knoxville,Knoxville,IA
 KNOXVILLETN.GOV,City,Non-Federal Agency,City of Knoxville,Knoxville,TN
 KUNAID.GOV,City,Non-Federal Agency,City of Kuna,Kuna,ID
+LACEYWA.GOV,City,Non-Federal Agency,City of Lacey,Lacey,WA
 LACKAWANNANY.GOV,City,Non-Federal Agency,LMK Computer Systems,Lackawanna,NY
 LACKAWAXENTOWNSHIPPA.GOV,City,Non-Federal Agency,Lackawaxen Township,Hawley,PA
 LACONIANH.GOV,City,Non-Federal Agency,City of Laconia,Laconia,NH
@@ -1499,6 +1506,7 @@ MONROEMI.GOV,City,Non-Federal Agency,City of Monroe,Monroe,MI
 MONROETWP-OH.GOV,City,Non-Federal Agency,Monroe Township,Bethel,OH
 MONROEVILLEAL.GOV,City,Non-Federal Agency,CITY OF MONROEVILLE,Monroeville,AL
 MONROEWA.GOV,City,Non-Federal Agency,City of Monroe,Monroe,WA
+MONSON-MA.GOV,City,Non-Federal Agency,Town of Monson,Monson,MA
 MONTAGUE-MA.GOV,City,Non-Federal Agency,Town of Montague,Turners Falls,MA
 MONTEREYMA.GOV,City,Non-Federal Agency,Town of Monterey,Monterey,MA
 MONTGOMERYAL.GOV,City,Non-Federal Agency,City of Montgomery,Montgomery,AL
@@ -1520,6 +1528,7 @@ MOULTONBOROUGHNH.GOV,City,Non-Federal Agency,Town of Moultonborough,Moultonborou
 MOUNTAINAIRNM.GOV,City,Non-Federal Agency,Town of Mountainair,Mountainair,NM
 MOUNTAINHOUSECA.GOV,City,Non-Federal Agency,Mountain House Community Services District,Mountain House,CA
 MOUNTAINVIEW.GOV,City,Non-Federal Agency,City of Mountain View,Mountain View,CA
+MOUNTAIRYMD.GOV,City,Non-Federal Agency,Town of Mount Airy,Mount Airy,MD
 MOUNTCARMELTN.GOV,City,Non-Federal Agency,Town of Mount Carmel,Mount Carmel,TN
 MOUNTKISCONY.GOV,City,Non-Federal Agency,Village of Mount Kisco,Mount Kisco,NY
 MOUNTPOCONO-PA.GOV,City,Non-Federal Agency,Mount Pocono Borough,Mount Pocono,PA
@@ -2167,6 +2176,7 @@ SYRACUSEKS.GOV,City,Non-Federal Agency,City of Syracuse,Syracuse,KS
 TAKOMAPARKMD.GOV,City,Non-Federal Agency,City of Takoma Park,Takoma Park,MD
 TALLAPOOSAGA.GOV,City,Non-Federal Agency,City Of Tallapoosa,Tallapoosa,GA
 TALLASSEE-AL.GOV,City,Non-Federal Agency,KMS-Inc,Millbrook,AL
+TALLASSEEAL.GOV,City,Non-Federal Agency,City of Tallassee,Tallassee,AL
 TALLULAH-LA.GOV,City,Non-Federal Agency,City Of Tallulah,Tallulah,LA
 TALLULAHFALLSGA.GOV,City,Non-Federal Agency,Town of Tallulah Falls,Tallulah Falls,GA
 TAMACITYIA.GOV,City,Non-Federal Agency,City of Tama,Tama,IA
@@ -2198,6 +2208,7 @@ TIPPCITYOHIO.GOV,City,Non-Federal Agency,City of Tipp City,Tipp City,OH
 TISBURYMA.GOV,City,Non-Federal Agency,Town of Tisbury,Tisbury,MA
 TOBYHANNATOWNSHIPPA.GOV,City,Non-Federal Agency,Tobyhanna Township,Pocono Pines,PA
 TOBYHANNATWPPA.GOV,City,Non-Federal Agency,Tobyhanna Township,Pocono Pines,PA
+TODDMISSIONTX.GOV,City,Non-Federal Agency,City of Todd Mission,Todd Mission,TX
 TOLEDOIOWA.GOV,City,Non-Federal Agency,CITY OF TOLEDO,TOLEDO,IA
 TOLLAND-MA.GOV,City,Non-Federal Agency,Town of Tolland Massachusetts,Tolland,MA
 TOMBALLTX.GOV,City,Non-Federal Agency,City of Tomball,Tomball,TX
@@ -2248,6 +2259,7 @@ TOWNOFPENNINGTONVA.GOV,City,Non-Federal Agency,Town of Pennington Gap,Pennington
 TOWNOFPOUGHKEEPSIE-NY.GOV,City,Non-Federal Agency,Town of Poughkeepsie,POUGHKEEPSIE,NY
 TOWNOFRAMAPO-NY.GOV,City,Non-Federal Agency,Town of Ramapo,Suffern,NY
 TOWNOFRIVERHEADNY.GOV,City,Non-Federal Agency,Town of Riverhead,Riverhead,NY
+TOWNOFRUTHNC.GOV,City,Non-Federal Agency,Town of Ruth,Rutherfordton,NC
 TOWNOFSHIELDS-WI.GOV,City,Non-Federal Agency,Town of Shields,Montello,WI
 TOWNOFSMYRNA-TN.GOV,City,Non-Federal Agency,Town of Smyrna,Smyrna,TN
 TOWNOFSURFSIDEFL.GOV,City,Non-Federal Agency,Town of Surfside,Surfside,FL
@@ -2768,6 +2780,7 @@ GREENVILLECOUNTYSC.GOV,County,Non-Federal Agency,County of Greenville,Greenville
 GREENWOODCOUNTY-SC.GOV,County,Non-Federal Agency,Greenwood County,Greenwood,SC
 GREENWOODSC.GOV,County,Non-Federal Agency,Greenwood County,Greenwood,SC
 GRIGGSCOUNTYND.GOV,County,Non-Federal Agency,State of ND,Bismarck,ND
+GRIMESCOUNTYTEXAS.GOV,County,Non-Federal Agency,Grimes County,Anderson,TX
 GUILFORDCOUNTYNC.GOV,County,Non-Federal Agency,Guilford County,Greensboro,NC
 GULFCOUNTY-FL.GOV,County,Non-Federal Agency,Gulf County Board of County Commissioners,Port St. Joe,FL
 GWINNETTCOUNTYGA.GOV,County,Non-Federal Agency,Gwinnett County Board of Commissioners,Lawrenceville,GA
@@ -2866,6 +2879,7 @@ LIMESTONECOUNTY-AL.GOV,County,Non-Federal Agency,Limestone County Commission,Ath
 LIMESTONECOUNTYEMA-AL.GOV,County,Non-Federal Agency,Limestone County Emergency Management Agency,Athens,AL
 LINCOLNCOUNTYNM.GOV,County,Non-Federal Agency,Lincoln County,Carrizozo,NM
 LINCOLNCOUNTYNV.GOV,County,Non-Federal Agency,"Lincoln County, Nevada",Pioche,NV
+LINCOLNCOUNTYTN.GOV,County,Non-Federal Agency,"Lincoln County, TN",Fayetteville,TN
 LIVINGSTONCOUNTYIL.GOV,County,Non-Federal Agency,Livingston County,Pontiac,IL
 LIVINGSTONPARISHLA.GOV,County,Non-Federal Agency,Livingston Parish Government,Livingston,LA
 LOGANCOUNTYCO.GOV,County,Non-Federal Agency,Logan County Assessors,Sterling,CO
@@ -3147,6 +3161,7 @@ WHITECOUNTYGA.GOV,County,Non-Federal Agency,White County Board of Commissioners,
 WHITECOUNTYTN.GOV,County,Non-Federal Agency,White County Tennessee,Sparta,TN
 WHITEPINECOUNTYNV.GOV,County,Non-Federal Agency,White Pine County,Ely,NV
 WILLIAMSONCOUNTY-TN.GOV,County,Non-Federal Agency,Williamson County Tennessee Government,Franklin,TN
+WILLIAMSONCOUNTYEMA-IL.GOV,County,Non-Federal Agency,Williamson County Emergency Management Agency,Marion,IL
 WILLIAMSONCOUNTYIL.GOV,County,Non-Federal Agency,Williamson County Government,Marion,IL
 WILSONCOUNTYTN.GOV,County,Non-Federal Agency,Wilson County Government,Lebanon,TN
 WILSONCOUNTYTX.GOV,County,Non-Federal Agency,County of Wilson,Floresville,TX
@@ -3576,7 +3591,6 @@ DEA.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,R
 DEAECOM.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Potomac,MD
 DOJ.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD
 DSAC.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, BI, Domestic Security Alliance Council (DSAC)",Potomac,MD
-EGUARDIAN.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Federal Bureau of Investigation",Washington,DC
 ELDERJUSTICE.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Washington,DC
 EPIC.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD
 FARA.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Criminal Division",Potomac,MD
@@ -3624,7 +3638,6 @@ SCRA.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Jus
 SERVICEMEMBERS.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Civil Rights Division",Potomac,MD
 SMART.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs (OJP)",Washington,DC
 STOPFRAUD.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD
-TECHTRACK.GOV,Federal Agency - Executive,Department of Justice,FBI/DOJ,Arlington,VA
 TRIBALJUSTICEANDSAFETY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD
 UCRDATATOOL.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Washington,DC
 UNICOR.GOV,Federal Agency - Executive,Department of Justice,Unicor,Washington,DC
@@ -3918,7 +3931,6 @@ GREATAGAIN.GOV,Federal Agency - Executive,Executive Office of the President,EOP,
 ITDASHBOARD.GOV,Federal Agency - Executive,Executive Office of the President,Office of Citizen Services and Innovative Technologies,Washington,DC
 MAX.GOV,Federal Agency - Executive,Executive Office of the President,"Office of Management and Budget, Budget Review Division",Washington,DC
 NEPA.GOV,Federal Agency - Executive,Executive Office of the President,Council on Environmental Quality,Washington,DC
-NOTALONE.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC
 OMB.GOV,Federal Agency - Executive,Executive Office of the President,EOP,Washington,DC
 ONDCP.GOV,Federal Agency - Executive,Executive Office of the President,Office of National Drug Control Policy,Washington,DC
 OSTP.GOV,Federal Agency - Executive,Executive Office of the President,Office of Science and Technology Policy - White House,Washington,DC
@@ -4051,7 +4063,6 @@ FPKI.GOV,Federal Agency - Executive,General Services Administration,"GSA, Office
 FRPG.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC
 FSD.GOV,Federal Agency - Executive,General Services Administration,"Office of the Chief Acquisition Officer, Office of Acquisition Systems",Arlington,VA
 FSRS.GOV,Federal Agency - Executive,General Services Administration,GSA Acquisition Systems Division,Crystal City,VA
-GOBIERNO.GOV,Federal Agency - Executive,General Services Administration,FirstGov.gov,Washington,DC
 GOBIERNOUSA.GOV,Federal Agency - Executive,General Services Administration,FirstGov.gov,Washington,DC
 GOVSALES.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Arlington,VA
 GSA.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC
@@ -4657,7 +4668,6 @@ ALAPPEALS.GOV,State/Local Govt,Non-Federal Agency,State of Alabama Supreme Court
 ALASAFE.GOV,State/Local Govt,Non-Federal Agency,Alabama Law Enforcement Agency,Montgomery,AL
 ALASKA.GOV,State/Local Govt,Non-Federal Agency,State of Alaska,Juneau,AK
 ALASKACARE.GOV,State/Local Govt,Non-Federal Agency,State of Alaska - Division of Retirement & Benefits,Juneau,AK
-ALBANYGA.GOV,State/Local Govt,Non-Federal Agency,City of Albany,Albany,GA
 ALCONSERVATIONDISTRICTS.GOV,State/Local Govt,Non-Federal Agency,Alabama Soil & Water Conservation Committee,Montgomery,AL
 ALDOI.GOV,State/Local Govt,Non-Federal Agency,Alabama Department of Insurance,Montgomery,AL
 ALEA.GOV,State/Local Govt,Non-Federal Agency,Alabama Law Enforcement Agency,Montgomery,AL
@@ -4793,7 +4803,6 @@ AZRRA.GOV,State/Local Govt,Non-Federal Agency,AZ Radiation Regulatory Agency,Pho
 AZRUCO.GOV,State/Local Govt,Non-Federal Agency,Arizona Residential Utility Consumer Office,Phoenix,AZ
 AZSAL.GOV,State/Local Govt,Non-Federal Agency,Arizona Department of Agricluture,Phoenix,AZ
 AZSENATE.GOV,State/Local Govt,Non-Federal Agency,Arizona Senate,Phoenix,AZ
-AZSF.GOV,State/Local Govt,Non-Federal Agency,State of Arizona,Phoenix,AZ
 AZSFB.GOV,State/Local Govt,Non-Federal Agency,Arizona School Facilities Board,Phoenix,AZ
 AZSHARE.GOV,State/Local Govt,Non-Federal Agency,Arizona Department of Health Services,Phoenix,AZ
 AZSOS.GOV,State/Local Govt,Non-Federal Agency,Arizona Secretary of State,Phoenix,AZ
@@ -4998,6 +5007,7 @@ GEORGIA.GOV,State/Local Govt,Non-Federal Agency,Georgia Technology Authority,Atl
 GEORGIACOURTS.GOV,State/Local Govt,Non-Federal Agency,Administrative Office of the Courts of Georgia,Atlanta,GA
 GETCOVEREDILLINOIS.GOV,State/Local Govt,Non-Federal Agency,"Office of the Governor, Illinois Health Insurance Marketplace",Chicago,IL
 GETKANSASBENEFITS.GOV,State/Local Govt,Non-Federal Agency,Kansas Department of Labor,Topeka,KS
+GETLEANFLORIDA.GOV,State/Local Govt,Non-Federal Agency,Florida Department of Financial Services,Tallahassee,FL
 GETREADYHAWAII.GOV,State/Local Govt,Non-Federal Agency,Hawaii Emergency Management Agency,Honolulu,HI
 GISSERVICEMT.GOV,State/Local Govt,Non-Federal Agency,Montana State Library,Helena,MT
 GISTESTSERVICEMT.GOV,State/Local Govt,Non-Federal Agency,Montana State Library,Helena,MT
@@ -5198,7 +5208,6 @@ MO.GOV,State/Local Govt,Non-Federal Agency,State of Missouri,Jefferson City,MO
 MOAPPED.GOV,State/Local Govt,Non-Federal Agency,Missouri Court of Appeals,St. Louis,MO
 MODOT.GOV,State/Local Govt,Non-Federal Agency,Missouri Department of Transporation,Jefferson City,MO
 MONCKSCORNERSC.GOV,State/Local Govt,Non-Federal Agency,TOWN OF MONCKS CORNER,MONCKS CORNER,SC
-MONSON-MA.GOV,State/Local Govt,Non-Federal Agency,Town of Monson,Monson,MA
 MONTANA.GOV,State/Local Govt,Non-Federal Agency,State of Montana,Helena,MT
 MONTANAFRAUD.GOV,State/Local Govt,Non-Federal Agency,"Department of Administration, State of Montana",Helena,MT
 MONTANARESPONSE.GOV,State/Local Govt,Non-Federal Agency,Montana Department of Justice,Helena,MT
@@ -5434,6 +5443,7 @@ OPENMYFLORIDABUSINESS.GOV,State/Local Govt,Non-Federal Agency,Florida Department
 OPENOHIO.GOV,State/Local Govt,Non-Federal Agency,State of Ohio,Columbus,OH
 OR-MEDICAID.GOV,State/Local Govt,Non-Federal Agency,State of Oregon,Salem,OR
 OR.GOV,State/Local Govt,Non-Federal Agency,Oregon State Data Center,Salem,OR
+ORALERT.GOV,State/Local Govt,Non-Federal Agency,State of Oregon,Salem,OR
 ORANGEBEACHAL.GOV,State/Local Govt,Non-Federal Agency,City of Orange Beach,Orange Beach,AL
 OREGON.GOV,State/Local Govt,Non-Federal Agency,State of Oregon,Salem,OR
 OREGONATTORNEYGENERAL.GOV,State/Local Govt,Non-Federal Agency,Oregon Department of Justice,Salem,OR
@@ -5446,7 +5456,6 @@ OREGONFORESTRY.GOV,State/Local Govt,Non-Federal Agency,Oregon State Data Center,
 OREGONHEALTHCARE.GOV,State/Local Govt,Non-Federal Agency,Enterprise Technology Services,Salem,OR
 OREGONHOMEOWNERSUPPORT.GOV,State/Local Govt,Non-Federal Agency,Oregon State Data Center,Salem,OR
 OREGONLEGISLATURE.GOV,State/Local Govt,Non-Federal Agency,Oregon State Data Center,Salem,OR
-OREGONMARINERESERVES.GOV,State/Local Govt,Non-Federal Agency,Oregon State Data Center,Salem,OR
 OREGONMETRO.GOV,State/Local Govt,Non-Federal Agency,Metro,Portland,OR
 OREGONSAVES.GOV,State/Local Govt,Non-Federal Agency,State of Oregon,Salem,OR
 OREGONSTUDENTAID.GOV,State/Local Govt,Non-Federal Agency,Oregon State Data Center,Salem,OR
@@ -5670,7 +5679,6 @@ VISITNEBRASKA.GOV,State/Local Govt,Non-Federal Agency,State Of Nebraska,Lincoln,
 VISITNH.GOV,State/Local Govt,Non-Federal Agency,Dept. of Resources and Economic Dev. - State of NH,Concord,NH
 VISITWYO.GOV,State/Local Govt,Non-Federal Agency,State of Wyoming ,Cheyenne,WY
 VISITWYOMING.GOV,State/Local Govt,Non-Federal Agency,State of Wyoming,Cheyenne,WY
-VITEMA.GOV,State/Local Govt,Non-Federal Agency,Virgin Islands Territorial Emergency Management,St. Thomas,VI
 VIVOTE.GOV,State/Local Govt,Non-Federal Agency,Election System of the Virgin Islands,St Croix,VI
 VOLUNTEERLOUISIANA.GOV,State/Local Govt,Non-Federal Agency,"Department of Culture, Recreation and Tourism",Baton Rouge,LA
 VOTETEXAS.GOV,State/Local Govt,Non-Federal Agency,Texas Secretary of State,Austin,TX
