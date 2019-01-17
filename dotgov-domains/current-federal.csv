@@ -129,7 +129,7 @@ USPTO.GOV,Federal Agency - Executive,Department of Commerce,USPTO,Washington,DC,
 WDOL.GOV,Federal Agency - Executive,Department of Commerce,National Technical Information Service,Alexandria,VA,(blank)
 WEATHER.GOV,Federal Agency - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,(blank)
 XD.GOV,Federal Agency - Executive,Department of Commerce,Bureau of the Census,Suitland,MD,(blank)
-ADLNET.GOV,Federal Agency - Executive,Department of Defense,Advanced Distributed Learning Initiative,Washington,DC,(blank)
+ADLNET.GOV,Federal Agency - Executive,Department of Defense,Advanced Distributed Learning Initiative,Washington,DC,cybersecurity@adlnet.gov
 AFTAC.GOV,Federal Agency - Executive,Department of Defense,AFTAC,Patrick AFB,FL,(blank)
 ALTUSANDC.GOV,Federal Agency - Executive,Department of Defense,aftac,Patrick AFB,FL,(blank)
 BRAC.GOV,Federal Agency - Executive,Department of Defense,"OUSD(AT&L) Information Technology Management, eBusiness Center",Alexandria,VA,(blank)
@@ -828,13 +828,14 @@ PROTECCIONDELCONSUMIDOR.GOV,Federal Agency - Executive,Federal Trade Commission,
 ROBODEIDENTIDAD.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 SENTINEL.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 UCE.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
-18F.GOV,Federal Agency - Executive,General Services Administration,18F,Washington,DC,(blank)
+18F.GOV,Federal Agency - Executive,General Services Administration,18F,Washington,DC,tts-vulnerability-reports@gsa.gov
 ACCESSIBILITY.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 ACQUISITION.GOV,Federal Agency - Executive,General Services Administration,Integrated Acquisition Environment,Arlington,VA,(blank)
 AFADVANTAGE.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC,(blank)
 APPS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 BUSINESSUSA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Innovative Technologies,Washington,DC,(blank)
 BUYACCESSIBLE.GOV,Federal Agency - Executive,General Services Administration,Electronic Government and Technology,Washington,DC,(blank)
+BUYAMERICAN.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 CAO.GOV,Federal Agency - Executive,General Services Administration,GSA-Interagency Management Division,Washington,DC,(blank)
 CBCA.GOV,Federal Agency - Executive,General Services Administration,Civilian Board of Contract Appeals,Washington,DC,(blank)
 CFDA.GOV,Federal Agency - Executive,General Services Administration,Federal Assistance Catalog,Washington,DC,(blank)
@@ -843,9 +844,9 @@ CHALLENGE.GOV,Federal Agency - Executive,General Services Administration,Office 
 CHALLENGES.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services,Washington,DC,(blank)
 CIO.GOV,Federal Agency - Executive,General Services Administration,Chief Information Officers Council,Washington,DC,(blank)
 CITIZENSCIENCE.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
-CLOUD.GOV,Federal Agency - Executive,General Services Administration,18F | GSA,Washington,DC,(blank)
-COMPUTERSFORLEARNING.GOV,Federal Agency - Executive,General Services Administration,Federal Supply Service,Arlington,VA,(blank)
-CONNECT.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
+CLOUD.GOV,Federal Agency - Executive,General Services Administration,18F | GSA,Washington,DC,tts-vulnerability-reports@gsa.gov
+COMPUTERSFORLEARNING.GOV,Federal Agency - Executive,General Services Administration,Federal Supply Service,Arlington,VA,ITServiceDesk@gsa.gov
+CONNECT.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,tts-vulnerability-reports@gsa.gov
 CONSUMERACTION.GOV,Federal Agency - Executive,General Services Administration,Federal Citizen Information Center/OCSC,Washington,DC,(blank)
 CONTRACTDIRECTORY.GOV,Federal Agency - Executive,General Services Administration,GSA Office of Acquisition Systems,Arlington,VA,(blank)
 CPARS.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,(blank)
@@ -856,7 +857,7 @@ DIGITALGOV.GOV,Federal Agency - Executive,General Services Administration,Office
 DOTGOV.GOV,Federal Agency - Executive,General Services Administration,GSA,Fairfax,VA,(blank)
 ECPIC.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,(blank)
 ESRS.GOV,Federal Agency - Executive,General Services Administration,Office Of Acquisition Systems,Arlington,VA,(blank)
-EVERYKIDINAPARK.GOV,Federal Agency - Executive,General Services Administration, 18F,Washington,DC,(blank)
+EVERYKIDINAPARK.GOV,Federal Agency - Executive,General Services Administration, 18F,Washington,DC,tts-vulnerability-reports@gsa.gov
 FACA.GOV,Federal Agency - Executive,General Services Administration,Committee Management Secretariat,Washington,DC,(blank)
 FACADATABASE.GOV,Federal Agency - Executive,General Services Administration,Committee Management Secretariat,Washington,DC,(blank)
 FAI.GOV,Federal Agency - Executive,General Services Administration,FAI,Washington,DC,(blank)
@@ -881,21 +882,21 @@ FRPG.GOV,Federal Agency - Executive,General Services Administration,US General S
 FSD.GOV,Federal Agency - Executive,General Services Administration,"Office of the Chief Acquisition Officer, Office of Acquisition Systems",Arlington,VA,(blank)
 FSRS.GOV,Federal Agency - Executive,General Services Administration,GSA Acquisition Systems Division,Crystal City,VA,(blank)
 GOBIERNOUSA.GOV,Federal Agency - Executive,General Services Administration,FirstGov.gov,Washington,DC,(blank)
-GOVSALES.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Arlington,VA,(blank)
+GOVSALES.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Arlington,VA,ITServiceDesk@gsa.gov
 GSA.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,(blank)
 GSAADVANTAGE.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC,(blank)
-GSAAUCTIONS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
+GSAAUCTIONS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,ITServiceDesk@gsa.gov
 GSAIG.GOV,Federal Agency - Executive,General Services Administration,GSA Office of Inspector General,Washington,DC,(blank)
 GSATEST1.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,(blank)
 GSATEST2.GOV,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,(blank)
-GSAXCESS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Arlington,VA,(blank)
+GSAXCESS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Arlington,VA,ITServiceDesk@gsa.gov
 HOWTO.GOV,Federal Agency - Executive,General Services Administration,OCSIT,Washington,DC,(blank)
-IDENTITYSANDBOX.GOV,Federal Agency - Executive,General Services Administration,18F,Washington,DC,(blank)
+IDENTITYSANDBOX.GOV,Federal Agency - Executive,General Services Administration,18F,Washington,DC,tts-vulnerability-reports@gsa.gov
 IDMANAGEMENT.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 INFO.GOV,Federal Agency - Executive,General Services Administration,Federal Citizen Information Center/OCSC,Washington,DC,(blank)
 INNOVATION.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 KIDS.GOV,Federal Agency - Executive,General Services Administration,Federal Citizen Information Center/OCSC,Washington,DC,(blank)
-LOGIN.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
+LOGIN.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,tts-vulnerability-reports@gsa.gov
 NIC.GOV,Federal Agency - Executive,General Services Administration,GSA,Fairfax,VA,(blank)
 PERFORMANCE.GOV,Federal Agency - Executive,General Services Administration,GSA - Office of Citizen Services Innovative Technologies - OSCIT,Washington,DC,(blank)
 PIC.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
@@ -912,8 +913,8 @@ REGINFO.GOV,Federal Agency - Executive,General Services Administration,Regulator
 REPORTING.GOV,Federal Agency - Executive,General Services Administration,GSA Office of Government-wide Policy,Washington,DC,(blank)
 ROCIS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 SAM.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Arlington,VA,(blank)
-SANDBOX.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washinton,DC,(blank)
-SBST.GOV,Federal Agency - Executive,General Services Administration,"Office of Evaluation Sciences, Office of Governmentwide Policy",Washington,DC,(blank)
+SANDBOX.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washinton,DC,tts-vulnerability-reports@gsa.gov
+SBST.GOV,Federal Agency - Executive,General Services Administration,"Office of Evaluation Sciences, Office of Governmentwide Policy",Washington,DC,tts-vulnerability-reports@gsa.gov
 SEARCH.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 SECTION508.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 SFTOOL.GOV,Federal Agency - Executive,General Services Administration,"GSA, OGP, Office of Federal High-Performance Green Buildings",Chicago,IL,(blank)
@@ -922,7 +923,7 @@ US.GOV,Federal Agency - Executive,General Services Administration,Office of Citi
 USA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC,(blank)
 USAGOV.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC,(blank)
 USSM.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC,(blank)
-VOTE.GOV,Federal Agency - Executive,General Services Administration,"Office of Citizen Services and Innovative Technologies, GSA",Washington,DC,(blank)
+VOTE.GOV,Federal Agency - Executive,General Services Administration,"Office of Citizen Services and Innovative Technologies, GSA",Washington,DC,tts-vulnerability-reports@gsa.gov
 ATA.GOV,Federal Agency - Executive,GOV Domain OPS,Gov Domain OPS,Washington,DC,(blank)
 ECFC.GOV,Federal Agency - Executive,GOV Domain OPS,OGP  - General Services Administration,Washington,DC,(blank)
 ERPO.GOV,Federal Agency - Executive,GOV Domain OPS,GSA - Office of Governmentwide Policy,Washington,DC,(blank)
@@ -1002,7 +1003,7 @@ NITRD.GOV,Federal Agency - Executive,Networking Information Technology Research 
 PROMESA.GOV,Federal Agency - Executive,Non-Federal Agency,Financial Oversight and Management Board for Puerto Rico,San Juan,Puerto Rico,(blank)
 NBRC.GOV,Federal Agency - Executive,Northern Border Regional Commission,Northern Border Regional Commission,Concord,NH,(blank)
 NRC-GATEWAY.GOV,Federal Agency - Executive,Nuclear Regulatory Commission,U.S. Nuclear Regulatory Commission,Rockville,MD,SOC_Alerts@nrc.gov
-NRC.GOV,Federal Agency - Executive,Nuclear Regulatory Commission,Nuclear Regulatory Commission,Rockville,MD,(blank)
+NRC.GOV,Federal Agency - Executive,Nuclear Regulatory Commission,Nuclear Regulatory Commission,Rockville,MD,soc_alerts@nrc.gov
 OSHRC.GOV,Federal Agency - Executive,Occupational Safety & Health Review Commission,Occupational Safety & Health Review Commission,Washington,DC,(blank)
 INTEGRITY.GOV,Federal Agency - Executive,Office of Government Ethics,Office of Government Ethics,Washington,DC,(blank)
 OGE.GOV,Federal Agency - Executive,Office of Government Ethics,Office of Government Ethics,Washington,DC,(blank)
@@ -1169,7 +1170,6 @@ USCAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of
 USCAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,(blank)
 VISITTHECAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,(blank)
 VISITTHECAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,(blank)
-COMPLIANCE.GOV,Federal Agency - Legislative,Congressional Office of Compliance,Congressional Office of Compliance,Washington,DC,(blank)
 CONGRESSIONALDIRECTORY.GOV,Federal Agency - Legislative,Government Publishing Office,Government Publishing Office,Washington,DC,(blank)
 CONGRESSIONALRECORD.GOV,Federal Agency - Legislative,Government Publishing Office,Government Publishing Office,Washington,DC,(blank)
 ECFR.GOV,Federal Agency - Legislative,Government Publishing Office,US Government Publishing Office,Washington,DC,(blank)
@@ -1216,6 +1216,9 @@ WOMENSHISTORYMONTH.GOV,Federal Agency - Legislative,Library of Congress,Library 
 MACPAC.GOV,Federal Agency - Legislative,Medicaid and CHIP Payment and Access Commission,Medicaid and CHIP Payment and Access Commission,Washington,DC,(blank)
 MEDPAC.GOV,Federal Agency - Legislative,Medical Payment Advisory Commission,Medicare Payment Advisory Commission,Washington,DC,(blank)
 INSPIRE2SERVE.GOV,Federal Agency - Legislative,"National Commission on Military, National, and Public Service","National Commission on Military, National, and Public Service",Arlington,VA,(blank)
+COMPLIANCE.GOV,Federal Agency - Legislative,Office of Congressional Workplace Rights,Congressional Office of Compliance,Washington,DC,(blank)
+CWR.GOV,Federal Agency - Legislative,Office of Congressional Workplace Rights,Office of Congressional Workplace Rights,Washington,DC,ravi.medicherla@compliance.gov
+OCWR.GOV,Federal Agency - Legislative,Office of Congressional Workplace Rights,Office of Congressional Workplace Rights,Washington,DC,ravi.medicherla@compliance.gov
 OPENWORLD.GOV,Federal Agency - Legislative,Open World Leadership Center,The Open World Leadership Center,Washington,DC,(blank)
 STENNIS.GOV,Federal Agency - Legislative,Stennis Center for Public Service,John C. Stennis Center for Public Service,Starkville,MS,(blank)
 CBO.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional Budget Office,Washington,DC,John.Makings@cbo.gov
@@ -1237,6 +1240,7 @@ GAO.GOV,Federal Agency - Legislative,The Legislative Branch,Government Accountab
 GAONET.GOV,Federal Agency - Legislative,The Legislative Branch,US Government Accountability Office,Washington,DC,(blank)
 GOP.GOV,Federal Agency - Legislative,The Legislative Branch,House Republican Conference,Washington,DC,(blank)
 GOPLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Office of the House Republican Leader,Washington,DC,(blank)
+GOPWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 HOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 HOUSECOMMUNICATIONS.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 HOUSED.GOV,Federal Agency - Legislative,The Legislative Branch,US  House of Representatives,Washington,DC,(blank)
@@ -1248,9 +1252,12 @@ JCT.GOV,Federal Agency - Legislative,The Legislative Branch,"The Joint Committee
 LISTENSTOYOU.GOV,Federal Agency - Legislative,The Legislative Branch,United States House of Reps,Washington,DC,(blank)
 MAJORITYLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,Office of the Majority Leader,Washington,DC,(blank)
 MAJORITYWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Office of the Majority Whip,Washington,DC,(blank)
+MINORITYWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 PDBCECC.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional-Executive Commission on China,Washington,DC,(blank)
 PPDCECC.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional-Executive Commission on China,Washington,DC,(blank)
+REPUBLICANLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 REPUBLICANS.GOV,Federal Agency - Legislative,The Legislative Branch,House Republican Conference,Washington,DC,(blank)
+REPUBLICANWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 SEN.GOV,Federal Agency - Legislative,The Legislative Branch,US Senate,Washington,DC,(blank)
 SENATE.GOV,Federal Agency - Legislative,The Legislative Branch,US Senate,Washington,DC,(blank)
 SPEAKER.GOV,Federal Agency - Legislative,The Legislative Branch,Office of the Speaker,Washington,DC,(blank)
