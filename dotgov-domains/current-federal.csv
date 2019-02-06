@@ -2,7 +2,7 @@ Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email
 ACUS.GOV,Federal Agency - Executive,Administrative Conference of the United States,ADMINISTRATIVE CONFERENCE OF THE UNITED STATES,Washington,DC,(blank)
 ACHP.GOV,Federal Agency - Executive,Advisory Council on Historic Preservation,ACHP,Washington,DC,(blank)
 PRESERVEAMERICA.GOV,Federal Agency - Executive,Advisory Council on Historic Preservation,ACHP,Washington,DC,(blank)
-ABMC.GOV,Federal Agency - Executive,American Battle Monuments Commission,American Battle Monuments Commission,Arlington,VA,(blank)
+ABMC.GOV,Federal Agency - Executive,American Battle Monuments Commission,American Battle Monuments Commission,Arlington,VA,itsec@abmc.gov
 ABMCSCHOLAR.GOV,Federal Agency - Executive,American Battle Monuments Commission,American Battle Monuments Commission,Arlington,VA,(blank)
 NATIONALMALL.GOV,Federal Agency - Executive,American Battle Monuments Commission,American Battle Monuments Commission,Arlington,VA,(blank)
 AMTRAKOIG.GOV,Federal Agency - Executive,AMTRAK,Amtrak Office of Inspector General,Washington,DC,(blank)
@@ -79,30 +79,30 @@ DENALI.GOV,Federal Agency - Executive,Denali Commission,Denali Commission,Anchor
 FEA.GOV,Federal Agency - Executive,Denali Commission,Alaska Federal Executive Association ,Anchorage,AK,(blank)
 2020CENSUS.GOV,Federal Agency - Executive,Department of Commerce,U.S. Census Bureau,Suitland,MD,(blank)
 AP.GOV,Federal Agency - Executive,Department of Commerce,TCD / BIS / Dept of Commerce,Washington,DC,(blank)
-AVIATIONWEATHER.GOV,Federal Agency - Executive,Department of Commerce,National Weather Service,Silver Spring,MD,(blank)
+AVIATIONWEATHER.GOV,Federal Agency - Executive,Department of Commerce,National Weather Service,Silver Spring,MD,security@noaa.gov
 BEA.GOV,Federal Agency - Executive,Department of Commerce,Bureau of Economic Analysis,Suitland,MD,(blank)
 BLDRDOC.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology (NIST),Boulder,CO,siirt@nist.gov
 BUYUSA.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
 CENSUS.GOV,Federal Agency - Executive,Department of Commerce,U.S. Census Bureau,Suitland,MD,(blank)
 CEP.GOV,Federal Agency - Executive,Department of Commerce,U.S. Census Bureau,Suitland,MD,(blank)
 CIVILRIGHTSUSA.GOV,Federal Agency - Executive,Department of Commerce,US Commission on Civil Rights,Washington,DC,(blank)
-CLIMATE.GOV,Federal Agency - Executive,Department of Commerce,NWS/OPS33,Silver Spring,MD,(blank)
+CLIMATE.GOV,Federal Agency - Executive,Department of Commerce,NWS/OPS33,Silver Spring,MD,security@noaa.gov
 COMMERCE.GOV,Federal Agency - Executive,Department of Commerce,Depatment of Commerce,Washington,DC,(blank)
 DIGITALLITERACY.GOV,Federal Agency - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,(blank)
 DNSOPS.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,proj-had@nist.gov
 DOC.GOV,Federal Agency - Executive,Department of Commerce,Office of the Chief Information Officer,Washington,DC,(blank)
-DROUGHT.GOV,Federal Agency - Executive,Department of Commerce,NOAA/NCDC,Asheville,NC,(blank)
-EARTHSYSTEMPREDICTION.GOV,Federal Agency - Executive,Department of Commerce,Office of Weather and Air Quality,Silver Spring,MD,(blank)
+DROUGHT.GOV,Federal Agency - Executive,Department of Commerce,NOAA/NCDC,Asheville,NC,security@noaa.gov
+EARTHSYSTEMPREDICTION.GOV,Federal Agency - Executive,Department of Commerce,Office of Weather and Air Quality,Silver Spring,MD,security@noaa.gov
 EDA.GOV,Federal Agency - Executive,Department of Commerce,ECONOMIC DEVELOPMENT ADMINISTRATION,Washington,DC,(blank)
 ESA.GOV,Federal Agency - Executive,Department of Commerce,ESA,Washington,DC,(blank)
 EXPORT.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
 FIRSTNET.GOV,Federal Agency - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,(blank)
-FISHWATCH.GOV,Federal Agency - Executive,Department of Commerce,NOAA Fisheries,Silver Spring,MD,(blank)
+FISHWATCH.GOV,Federal Agency - Executive,Department of Commerce,NOAA Fisheries,Silver Spring,MD,security@noaa.gov
 GOES-R.GOV,Federal Agency - Executive,Department of Commerce,NASA GSFC,Greenbelt,MD,(blank)
-GPS.GOV,Federal Agency - Executive,Department of Commerce,National Executive Committee for Space-Based PNT,Washington,DC,(blank)
-HURRICANES.GOV,Federal Agency - Executive,Department of Commerce,NOAA/National Hurricane Center,Miami,FL,(blank)
+GPS.GOV,Federal Agency - Executive,Department of Commerce,National Executive Committee for Space-Based PNT,Washington,DC,security@noaa.gov
+HURRICANES.GOV,Federal Agency - Executive,Department of Commerce,NOAA/National Hurricane Center,Miami,FL,security@noaa.gov
 MANUFACTURING.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology (NIST),Washington,DC,siirt@nist.gov
-MARINECADASTRE.GOV,Federal Agency - Executive,Department of Commerce,NOAA Coastal Services Center,Charleston,SC,(blank)
+MARINECADASTRE.GOV,Federal Agency - Executive,Department of Commerce,NOAA Coastal Services Center,Charleston,SC,security@noaa.gov
 MBDA.GOV,Federal Agency - Executive,Department of Commerce,MBDA (Minority Business Development Agency),Washington,DC,(blank)
 MGI.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards & Technology,Gaithersburg,MD,siirt@nist.gov
 NEHRP.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov
@@ -111,23 +111,23 @@ NOAA.GOV,Federal Agency - Executive,Department of Commerce,National Oceanic and 
 NTIA.GOV,Federal Agency - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,(blank)
 NTIS.GOV,Federal Agency - Executive,Department of Commerce,National Technical Information Service,Alexandria,VA,(blank)
 NWIRP.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards & Technology,Gaithersburg,MD,siirt@nist.gov
-OFCM.GOV,Federal Agency - Executive,Department of Commerce,Office of the Federal Coordinator for Meteorolgy,Silver Spring,MD,(blank)
-PAPAHANAUMOKUAKEA.GOV,Federal Agency - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,(blank)
+OFCM.GOV,Federal Agency - Executive,Department of Commerce,Office of the Federal Coordinator for Meteorolgy,Silver Spring,MD,security@noaa.gov
+PAPAHANAUMOKUAKEA.GOV,Federal Agency - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,security@noaa.gov
 PRIVACYSHIELD.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
 PSCR.GOV,Federal Agency - Executive,Department of Commerce,Institute for Telecommunication Sciences,Boulder,CO,siirt@nist.gov
-SDR.GOV,Federal Agency - Executive,Department of Commerce,National Science and Technology Council,Washington,DC,(blank)
+SDR.GOV,Federal Agency - Executive,Department of Commerce,National Science and Technology Council,Washington,DC,security@noaa.gov
 SELECTUSA.GOV,Federal Agency - Executive,Department of Commerce,Department of Commerce,Washington,DC,(blank)
-SPACEWEATHER.GOV,Federal Agency - Executive,Department of Commerce,Space Environment Center W/NP9,Boulder,CO,(blank)
+SPACEWEATHER.GOV,Federal Agency - Executive,Department of Commerce,Space Environment Center W/NP9,Boulder,CO,security@noaa.gov
 SPECTRUM.GOV,Federal Agency - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,(blank)
 STANDARDS.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology (NIST),Gaithersburg,MD,siirt@nist.gov
 STOPFAKES.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
 SWORM.GOV,Federal Agency - Executive,Department of Commerce,NOAA/Space Weather Prediction Center,Boulder,CO,security@noaa.gov
 TIME.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology (NIST),Boulder,CO,siirt@nist.gov
 TRADE.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
-TSUNAMI.GOV,Federal Agency - Executive,Department of Commerce,West Coast & Alaska Tsunami Warning Center,Palmer,AK,(blank)
+TSUNAMI.GOV,Federal Agency - Executive,Department of Commerce,West Coast & Alaska Tsunami Warning Center,Palmer,AK,security@noaa.gov
 USPTO.GOV,Federal Agency - Executive,Department of Commerce,USPTO,Washington,DC,C32@uspto.gov
 WDOL.GOV,Federal Agency - Executive,Department of Commerce,National Technical Information Service,Alexandria,VA,(blank)
-WEATHER.GOV,Federal Agency - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,(blank)
+WEATHER.GOV,Federal Agency - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,security@noaa.gov
 XD.GOV,Federal Agency - Executive,Department of Commerce,Bureau of the Census,Suitland,MD,(blank)
 ADLNET.GOV,Federal Agency - Executive,Department of Defense,Advanced Distributed Learning Initiative,Washington,DC,cybersecurity@adlnet.gov
 AFTAC.GOV,Federal Agency - Executive,Department of Defense,AFTAC,Patrick AFB,FL,(blank)
@@ -141,7 +141,7 @@ CTTSO.GOV,Federal Agency - Executive,Department of Defense,Combating Terrorism T
 DC3ON.GOV,Federal Agency - Executive,Department of Defense,Defense Cyber Crime Center,Linthicum,MD,(blank)
 DEFENSE.GOV,Federal Agency - Executive,Department of Defense,Defense Media Activity,Fort Meade,MD,pubwebhd@defense.gov
 DOD.GOV,Federal Agency - Executive,Department of Defense,American Forces Information Service,Fort Meade,MD,pubwebhd@defense.gov
-EACLEARINGHOUSE.GOV,Federal Agency - Executive,Department of Defense,Office of Economic Adjustment,Arlington,VA,(blank)
+EACLEARINGHOUSE.GOV,Federal Agency - Executive,Department of Defense,Office of Economic Adjustment,Arlington,VA,tara.a.butler4.civ@mail.mil
 ERDC.GOV,Federal Agency - Executive,Department of Defense,Engineer Research and Development Center,Vicksburg,MS,(blank)
 FVAP.GOV,Federal Agency - Executive,Department of Defense,Federal Voting Assistance Program,Alexandria,VA,(blank)
 IAD.GOV,Federal Agency - Executive,Department of Defense,National Security Agency,Fort Meade,MD,(blank)
@@ -175,7 +175,7 @@ NAGB.GOV,Federal Agency - Executive,Department of Education,U.S. Department of E
 NATIONSREPORTCARD.GOV,Federal Agency - Executive,Department of Education,"National Center for Education Statistics, Assessment Division",Washington,DC,(blank)
 STUDENTAID.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education (ED),Washington,DC,(blank)
 STUDENTLOANS.GOV,Federal Agency - Executive,Department of Education,U.S. Department of Education,Washington,DC,(blank)
-AMESLAB.GOV,Federal Agency - Executive,Department of Energy,Ames Laboratory,Ames,IA,(blank)
+AMESLAB.GOV,Federal Agency - Executive,Department of Energy,Ames Laboratory,Ames,IA,networks@ameslab.gov
 ANL.GOV,Federal Agency - Executive,Department of Energy,Argonne National Laboratory,Argonne,IL,(blank)
 ARM.GOV,Federal Agency - Executive,Department of Energy,Battelle Pacific Northwest National Laboratory,Richland,WA,(blank)
 BIOMASSBOARD.GOV,Federal Agency - Executive,Department of Energy,EERE,Washington,DC,(blank)
@@ -195,10 +195,10 @@ ENERGYSAVER.GOV,Federal Agency - Executive,Department of Energy,Department of En
 ENERGYSAVERS.GOV,Federal Agency - Executive,Department of Energy,Department of Energy,Washington,DC,(blank)
 FNAL.GOV,Federal Agency - Executive,Department of Energy,Fermi National Accelerator Laboratory,Batavia,IL,(blank)
 FUELECONOMY.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,(blank)
-HANFORD.GOV,Federal Agency - Executive,Department of Energy,"Mission Support Alliance, LLC",Richland,WA,(blank)
-HIGHPERFORMANCEBUILDINGS.GOV,Federal Agency - Executive,Department of Energy,"US DOE, EERE",Golden,CO,(blank)
-HOMEENERGYSCORE.GOV,Federal Agency - Executive,Department of Energy,Office of Energy Efficiency & Renewable Energy,Washington,DC,(blank)
-HYDROGEN.GOV,Federal Agency - Executive,Department of Energy,Research and Special Programs Administration / Volpe,Washington,DC,(blank)
+HANFORD.GOV,Federal Agency - Executive,Department of Energy,"Mission Support Alliance, LLC",Richland,WA,jason_r_dandridge@rl.gov
+HIGHPERFORMANCEBUILDINGS.GOV,Federal Agency - Executive,Department of Energy,"US DOE, EERE",Golden,CO,DL-EEREActioNetWebTeam@ee.doe.gov
+HOMEENERGYSCORE.GOV,Federal Agency - Executive,Department of Energy,Office of Energy Efficiency & Renewable Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov
+HYDROGEN.GOV,Federal Agency - Executive,Department of Energy,Research and Special Programs Administration / Volpe,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov
 INEL.GOV,Federal Agency - Executive,Department of Energy,Idaho National Laboratory,Idaho Falls,ID,(blank)
 INL.GOV,Federal Agency - Executive,Department of Energy,Idaho National Laboratory,Idaho Falls,ID,(blank)
 ISOTOPE.GOV,Federal Agency - Executive,Department of Energy,The National Isotope Development Center ,Oak Ridge,TN,(blank)
@@ -221,21 +221,21 @@ OSTI.GOV,Federal Agency - Executive,Department of Energy,OSTI,Oak Ridge,TN,cyber
 PNL.GOV,Federal Agency - Executive,Department of Energy,Pacific Northwest National Laboratory,Richland,WA,(blank)
 PNNL.GOV,Federal Agency - Executive,Department of Energy,Pacific Northwest National Laboratory,Richland,WA,(blank)
 PPPL.GOV,Federal Agency - Executive,Department of Energy,Princeton Plasma Physics Lab,Princeton,NJ,(blank)
-PPPO.GOV,Federal Agency - Executive,Department of Energy,Portsmouth/Paducah Project Office,Lexington,KY,(blank)
-RL.GOV,Federal Agency - Executive,Department of Energy,"Mission Support Alliance, LLC",Richland,WA,(blank)
+PPPO.GOV,Federal Agency - Executive,Department of Energy,Portsmouth/Paducah Project Office,Lexington,KY,csnotifications@pppo.gov
+RL.GOV,Federal Agency - Executive,Department of Energy,"Mission Support Alliance, LLC",Richland,WA,jason_r_dandridge@rl.gov
 SALMONRECOVERY.GOV,Federal Agency - Executive,Department of Energy,Bonneville Power Administration,Portland,OR,(blank)
-SANDIA.GOV,Federal Agency - Executive,Department of Energy,Sandia National Laboratories,Albuquerque,NM,(blank)
+SANDIA.GOV,Federal Agency - Executive,Department of Energy,Sandia National Laboratories,Albuquerque,NM,abuse@sandia.gov
 SCIDAC.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,(blank)
 SCIENCE.GOV,Federal Agency - Executive,Department of Energy,OSTI,Oak Ridge,TN,(blank)
-SMARTGRID.GOV,Federal Agency - Executive,Department of Energy,Office of Electricity Delivery and Energy Reliability,Washington,DC,dlsdi@nrel.gov
+SMARTGRID.GOV,Federal Agency - Executive,Department of Energy,Office of Electricity Delivery and Energy Reliability,Washington,DC,aws.master@nrel.gov
 SNS.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,(blank)
 SOLARDECATHLON.GOV,Federal Agency - Executive,Department of Energy,Office of Energy Efficiency &  Renewable Energy ,Washington,DC,(blank)
-SRS.GOV,Federal Agency - Executive,Department of Energy,Savannah River Nuclear Solutions (SRNS),Aiken,SC,(blank)
+SRS.GOV,Federal Agency - Executive,Department of Energy,Savannah River Nuclear Solutions (SRNS),Aiken,SC,william.arnold@srs.gov
 SWPA.GOV,Federal Agency - Executive,Department of Energy,Southwestern Power Administration,Tulsa,OK,CyberSecurityTeam@swpa.gov
 UNNPP.GOV,Federal Agency - Executive,Department of Energy,"Bechtel Bettis, Inc.",West Mifflin,PA,(blank)
 UNRPNET.GOV,Federal Agency - Executive,Department of Energy,Department of Energy,Washington,DC,(blank)
-WAPA.GOV,Federal Agency - Executive,Department of Energy,Western Area Power Administration,Lakewood,CO,(blank)
-YMP.GOV,Federal Agency - Executive,Department of Energy,Office of Civilian Radioactive Waste Management (OCRWM),Las Vegas,NV,(blank)
+WAPA.GOV,Federal Agency - Executive,Department of Energy,Western Area Power Administration,Lakewood,CO,ITNetwork@wapa.gov
+YMP.GOV,Federal Agency - Executive,Department of Energy,Office of Civilian Radioactive Waste Management (OCRWM),Las Vegas,NV,cybersoc@lm.doe.gov
 ACF.GOV,Federal Agency - Executive,Department of Health and Human Services,Health and Human Services,Washington,DC,(blank)
 ACL.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,(blank)
 AFTERSCHOOL.GOV,Federal Agency - Executive,Department of Health and Human Services,Health and Human Services,Washington,DC,(blank)
@@ -436,7 +436,7 @@ NAMUS.GOV,Federal Agency - Executive,Department of Justice,"U. S. Department of 
 NATIONALGANGCENTER.GOV,Federal Agency - Executive,Department of Justice,Institute for Intergovernmental Research,Tallahassee,FL,(blank)
 NCIRC.GOV,Federal Agency - Executive,Department of Justice,Institute for Intergovernemental Research,Tallahassee,FL,(blank)
 NCJRS.GOV,Federal Agency - Executive,Department of Justice,United States Department of Justice,Potomac,MD,(blank)
-NICIC.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Washington,DC,(blank)
+NICIC.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Washington,DC,webmaster@nicic.gov
 NICSEZCHECKFBI.GOV,Federal Agency - Executive,Department of Justice,Federal Bureu of Investigation,Washington,DC,(blank)
 NIJ.GOV,Federal Agency - Executive,Department of Justice,Office of Justice Programs ,Washington,DC,(blank)
 NMVTIS.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, OJP",Washington,DC,(blank)
@@ -509,7 +509,7 @@ ACWI.GOV,Federal Agency - Executive,Department of the Interior,Advisory Committe
 ALASKACENTERS.GOV,Federal Agency - Executive,Department of the Interior,National Park Service,Washington,DC,(blank)
 ANSTASKFORCE.GOV,Federal Agency - Executive,Department of the Interior,Aquatic Nuisance Species Task Force,Arlington,VA,(blank)
 BIA.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Indian Affairs,Reston,VA,(blank)
-BLM.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management - Main Domain,Denver,CO,(blank)
+BLM.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management - Main Domain,Denver,CO,blm_it_security@blm.gov
 BOEM.GOV,Federal Agency - Executive,Department of the Interior,Minerals Management Service,Herndon,VA,(blank)
 BOEMRE.GOV,Federal Agency - Executive,Department of the Interior,US Department of the Interior,Washington,DC,(blank)
 BOR.GOV,Federal Agency - Executive,Department of the Interior,Bureau Of Reclamation,Denver,CO,(blank)
@@ -522,10 +522,10 @@ EARTHQUAKE.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geolog
 EVERGLADESRESTORATION.GOV,Federal Agency - Executive,Department of the Interior,Department of the Interior,Davie,FL,(blank)
 FCG.GOV,Federal Agency - Executive,Department of the Interior,Interior Business Center,Denver,CO,(blank)
 FGDC.GOV,Federal Agency - Executive,Department of the Interior,U. S. Geological Survey,Reston,VA,(blank)
-FIRECODE.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management,Boise,ID,(blank)
-FIRELEADERSHIP.GOV,Federal Agency - Executive,Department of the Interior,Department of the Interior,Boise,ID,(blank)
+FIRECODE.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management,Boise,ID,blm_it_security@blm.gov
+FIRELEADERSHIP.GOV,Federal Agency - Executive,Department of the Interior,Department of the Interior,Boise,ID,blm_it_security@blm.gov
 FIRENET.GOV,Federal Agency - Executive,Department of the Interior,National Wildfire Coordinating Group,Boise,ID,(blank)
-FIRESCIENCE.GOV,Federal Agency - Executive,Department of the Interior,Joint Fire Science Program,Boise,ID,(blank)
+FIRESCIENCE.GOV,Federal Agency - Executive,Department of the Interior,Joint Fire Science Program,Boise,ID,blm_it_security@blm.gov
 FWS.GOV,Federal Agency - Executive,Department of the Interior,U.S. Fish and Wildlife Service,Lakewood,CO,(blank)
 GCDAMP.GOV,Federal Agency - Executive,Department of the Interior,Bureau Of Reclamation,Denver,CO,(blank)
 GCMRC.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geological Survey,Flagstaff,AZ,(blank)
@@ -552,9 +552,9 @@ NATIVEONESTOP.GOV,Federal Agency - Executive,Department of the Interior,Bureau o
 NBC.GOV,Federal Agency - Executive,Department of the Interior,National Business Center,Denver,CO,(blank)
 NEMI.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geological Survey,Middleton,WI,(blank)
 NFPORS.GOV,Federal Agency - Executive,Department of the Interior,National Fire Plan Operations & Reporting System,Washington,DC,(blank)
-NIFC.GOV,Federal Agency - Executive,Department of the Interior,National Interagency Fire Center,Boise,ID,(blank)
+NIFC.GOV,Federal Agency - Executive,Department of the Interior,National Interagency Fire Center,Boise,ID,blm_it_security@blm.gov
 NPS.GOV,Federal Agency - Executive,Department of the Interior,National Park Service,Washington,DC,(blank)
-ONHIR.GOV,Federal Agency - Executive,Department of the Interior,Office of Navajo and Hopi Indian Relocation,Flagstaff,AZ,(blank)
+ONHIR.GOV,Federal Agency - Executive,Department of the Interior,Office of Navajo and Hopi Indian Relocation,Flagstaff,AZ,support@flagstaffit.com
 ONRR.GOV,Federal Agency - Executive,Department of the Interior,Minerals Management Service,Herndon,VA,(blank)
 OSM.GOV,Federal Agency - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,(blank)
 OSMRE.GOV,Federal Agency - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,(blank)
@@ -564,7 +564,6 @@ RIVERS.GOV,Federal Agency - Executive,Department of the Interior,DOI - U.S. Fish
 SAFECOM.GOV,Federal Agency - Executive,Department of the Interior,Aviation Management Directorate,Boise,ID,(blank)
 SCIENCEBASE.GOV,Federal Agency - Executive,Department of the Interior,USGS/Denver Federal Center,Denver,CO,jllong@usgs.gov
 SIERRAWILD.GOV,Federal Agency - Executive,Department of the Interior,Yosemite National Park,Yosemite,CA,(blank)
-SNAP.GOV,Federal Agency - Executive,Department of the Interior,National Park Service,Washington,DC,(blank)
 USBR.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Reclamation,Denver,CO,(blank)
 USGS.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov
 UTAHFIREINFO.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management - Utah Fire Info Domain,Denver,CO,(blank)
@@ -684,12 +683,12 @@ FAASAFETY.GOV,Federal Agency - Executive,Department of Transportation,FAASTeam,W
 JCCBI.GOV,Federal Agency - Executive,Department of Transportation,DOT/FAA/MMAC.AMi400,Oklahoma City,OK,(blank)
 MDA.GOV,Federal Agency - Executive,Department of Transportation,U.S. Department of Transportation Maritime Administration,Washington,DC,(blank)
 NHTSA.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,(blank)
-PROTECTYOURMOVE.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,(blank)
+PROTECTYOURMOVE.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,FMCSASecurity@dot.gov
 SAFECAR.GOV,Federal Agency - Executive,Department of Transportation,OCIO,Washington,DC,(blank)
 SAFEOCS.GOV,Federal Agency - Executive,Department of Transportation,Bureau of Transportation Statistics,Washington,DC,(blank)
 SAFERCAR.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,(blank)
 SAFERTRUCK.GOV,Federal Agency - Executive,Department of Transportation,DOT NHTSA,Washington,DC,(blank)
-SHARETHEROADSAFELY.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,(blank)
+SHARETHEROADSAFELY.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,FMCSASecurity@dot.gov
 SMARTERSKIES.GOV,Federal Agency - Executive,Department of Transportation,US Dept of Transportation,Washington,DC,(blank)
 STRONGPORTS.GOV,Federal Agency - Executive,Department of Transportation,Department of Transportation - MAritime Administration,Washington,DC,(blank)
 TFHRC.GOV,Federal Agency - Executive,Department of Transportation,Turner Fairbank Highway Research Center,Mclean,VA,(blank)
@@ -777,7 +776,7 @@ FDICIG.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Fede
 FDICOIG.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Washington,DC,(blank)
 FDICSEGURO.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,(blank)
 MYFDIC.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,(blank)
-FEC.GOV,Federal Agency - Executive,Federal Election Commission,Federal Election Commission,Washington,DC,(blank)
+FEC.GOV,Federal Agency - Executive,Federal Election Commission,Federal Election Commission,Washington,DC,FECSec@fec.gov
 FERC.GOV,Federal Agency - Executive,Federal Energy Regulatory Commission,Federal Energy Regulatory Commission,Washington,DC,fercsoc@ferc.gov
 FERCALT.GOV,Federal Agency - Executive,Federal Energy Regulatory Commission,Federal Energy Regulatory Commission,Washington,DC,fercsoc@ferc.gov
 FHFA.GOV,Federal Agency - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency,Washington,DC,(blank)
@@ -800,11 +799,11 @@ FRB.GOV,Federal Agency - Executive,Federal Reserve Board of Governors,Federal Re
 FRS.GOV,Federal Agency - Executive,Federal Reserve Board of Governors,Department of Commerce,Washington,DC,(blank)
 NEWMONEY.GOV,Federal Agency - Executive,Federal Reserve Board of Governors,Federal Reserve Board,Washington,DC,(blank)
 USCURRENCY.GOV,Federal Agency - Executive,Federal Reserve Board of Governors,Federal Reserve Board,Washington,DC,(blank)
-EXPLORETSP.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investment Board,Washington,DC,(blank)
-FRTIB.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investment Board,Washington,DC,(blank)
-FRTIBTEST.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investement Board,Washigton,DC,(blank)
-TSP.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investment Board,Washington,DC,(blank)
-TSPTEST.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investement Board,Washington,DC,(blank)
+EXPLORETSP.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investment Board,Washington,DC,abuse@tsp.gov
+FRTIB.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investment Board,Washington,DC,abuse@tsp.gov
+FRTIBTEST.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investement Board,Washigton,DC,abuse@tsp.gov
+TSP.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investment Board,Washington,DC,abuse@tsp.gov
+TSPTEST.GOV,Federal Agency - Executive,Federal Retirement Thrift Investment Board,Federal Retirement Thrift Investement Board,Washington,DC,abuse@tsp.gov
 ADMONGO.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 ALERTAENLINEA.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 ANNUALCREDITREPORT.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
@@ -822,7 +821,6 @@ HSR.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commis
 IDENTITYTHEFT.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 IDTHEFT.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 MILITARYCONSUMER.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
-NCPW.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 ONGUARDONLINE.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 PROTECCIONDELCONSUMIDOR.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
 ROBODEIDENTIDAD.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,(blank)
@@ -918,7 +916,6 @@ SBST.GOV,Federal Agency - Executive,General Services Administration,"Office of E
 SEARCH.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 SECTION508.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 SFTOOL.GOV,Federal Agency - Executive,General Services Administration,"GSA, OGP, Office of Federal High-Performance Green Buildings",Chicago,IL,(blank)
-UNITEDSTATES.GOV,Federal Agency - Executive,General Services Administration,"OCSC, Federal Citizen Information Center (XCC)",Washington,DC,(blank)
 US.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC,(blank)
 USA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC,(blank)
 USAGOV.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Communications,Washington,DC,(blank)
@@ -940,7 +937,7 @@ ORWIGSBURG.GOV,Federal Agency - Executive,gov Helpdesk,Borough of Orwigsburg,Orw
 RESTORETHEGULF.GOV,Federal Agency - Executive,Gulf Coast Ecosystem Restoration Council,National Oceanic and Atmospheric Administration (NOAA),Silver Spring,MD,security@noaa.gov
 TRUMAN.GOV,Federal Agency - Executive,Harry S. Truman Scholarship Foundation,Harry S. Truman Scholarship Foundation,Washington,DC,(blank)
 IMLS.GOV,Federal Agency - Executive,Institute of Museum and Library Services,IMLS,Washington,DC,(blank)
-IAF.GOV,Federal Agency - Executive,Inter-American Foundation,Inter-American Foundation,Washington,DC,(blank)
+IAF.GOV,Federal Agency - Executive,Inter-American Foundation,Inter-American Foundation,Washington,DC,iafhelpdesk@iaf.gov
 JAMESMADISON.GOV,Federal Agency - Executive,James Madison Memorial Fellowship Foundation,James Madison Memorial Fellowship Foundation,Alexandria,VA,(blank)
 JUSFC.GOV,Federal Agency - Executive,Japan-US Friendship Commision,Japan-US Friendship Commission,Washington,DC,(blank)
 KENNEDY-CENTER.GOV,Federal Agency - Executive,John F. Kennedy Center for Performing Arts,John F Kennedy Center for Performing Arts,Washington,DC,(blank)
@@ -990,10 +987,10 @@ NMB.GOV,Federal Agency - Executive,National Mediation Board,National Mediation B
 NANO.GOV,Federal Agency - Executive,National Nanotechnology Coordination Office,National Nanotechnology Coordination Office,Arlington,VA,(blank)
 NNSS.GOV,Federal Agency - Executive,National Nuclear Security Administration,"National Security Technologies, LLC",N Las Vegas,NV,(blank)
 ARCTIC.GOV,Federal Agency - Executive,National Science Foundation,U.S. Arctic Research Commission,Arlington,VA,(blank)
-NSF.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,(blank)
-RESEARCH.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,(blank)
-SAC.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,(blank)
-SCIENCE360.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,(blank)
+NSF.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
+RESEARCH.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
+SAC.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
+SCIENCE360.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
 USAP.GOV,Federal Agency - Executive,National Science Foundation,"National Science Foundation, Office of Polar Programs",Arlington,VA,(blank)
 INTELLIGENCECAREERS.GOV,Federal Agency - Executive,National Security Agency,National Security Agency,Fort Meade,MD,(blank)
 LPS.GOV,Federal Agency - Executive,National Security Agency,Laboratory for Physical Sciences,College Park,MD,(blank)
@@ -1004,7 +1001,7 @@ PROMESA.GOV,Federal Agency - Executive,Non-Federal Agency,Financial Oversight an
 NBRC.GOV,Federal Agency - Executive,Northern Border Regional Commission,Northern Border Regional Commission,Concord,NH,(blank)
 NRC-GATEWAY.GOV,Federal Agency - Executive,Nuclear Regulatory Commission,U.S. Nuclear Regulatory Commission,Rockville,MD,SOC_Alerts@nrc.gov
 NRC.GOV,Federal Agency - Executive,Nuclear Regulatory Commission,Nuclear Regulatory Commission,Rockville,MD,soc_alerts@nrc.gov
-OSHRC.GOV,Federal Agency - Executive,Occupational Safety & Health Review Commission,Occupational Safety & Health Review Commission,Washington,DC,(blank)
+OSHRC.GOV,Federal Agency - Executive,Occupational Safety & Health Review Commission,Occupational Safety & Health Review Commission,Washington,DC,jwhitton@oshrc.gov
 INTEGRITY.GOV,Federal Agency - Executive,Office of Government Ethics,Office of Government Ethics,Washington,DC,(blank)
 OGE.GOV,Federal Agency - Executive,Office of Government Ethics,Office of Government Ethics,Washington,DC,(blank)
 APPLICATIONMANAGER.GOV,Federal Agency - Executive,Office of Personnel Management,Network Management Group,Macon,GA,(blank)
@@ -1035,7 +1032,7 @@ PBGC.GOV,Federal Agency - Executive,Pension Benefit Guaranty Corporation,Pension
 PRC.GOV,Federal Agency - Executive,Postal Regulatory Commission,Postal Regulatory Commission,Washington,DC,(blank)
 PRESIDIO.GOV,Federal Agency - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,(blank)
 PRESIDIOTRUST.GOV,Federal Agency - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,(blank)
-PCLOB.GOV,Federal Agency - Executive,Privacy and Civil Liberties Oversight Board,Privacy & Civil Liberties Oversight Board,Washington,DC,(blank)
+PCLOB.GOV,Federal Agency - Executive,Privacy and Civil Liberties Oversight Board,Privacy & Civil Liberties Oversight Board,Washington,DC,soc@pclob.gov
 RRB.GOV,Federal Agency - Executive,Railroad Retirement Board,Railroad Retirement Board,Chicago,IL,CSIRT@rrb.gov
 INVESTOR.GOV,Federal Agency - Executive,Securities and Exchange Commission,Securities and Exchange Commission,Washington,DC,(blank)
 SEC.GOV,Federal Agency - Executive,Securities and Exchange Commission,Office of Information Technologies / Network Engineerig,Washington,DC,(blank)
@@ -1068,22 +1065,22 @@ HERITAGEABROAD.GOV,Federal Agency - Executive,U.S. Commission for the Preservati
 CFA.GOV,Federal Agency - Executive,U.S. Commission of Fine Arts,U. S. Commission of Fine Arts,Washington,DC,(blank)
 USCCR.GOV,Federal Agency - Executive,U.S. Commission on Civil Rights,U.S. Commission on Civil Rights,Washington,DC,(blank)
 USCIRF.GOV,Federal Agency - Executive,U.S. Commission on International Religious Freedom,US Commission on International Religious Freedom,Washington,DC,(blank)
-AFF.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Aviation Management Directorate,Boise,ID,(blank)
+AFF.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Aviation Management Directorate,Boise,ID,pdl_gsa_alerts@usda.gov
 AG.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA,Fort Collins,CO,cyber.incidents@asoc.usda.gov
 ARS-GRIN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Agricultural Research Service ,Beltsville,MD,(blank)
 ARSUSDA.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Agricultural Research Service,Beltsville,MD,(blank)
 ASKKAREN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS/OPEER/OCIO,Washington,DC,(blank)
 BEFOODSAFE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS/OPEER/OCIO,Washington,DC,(blank)
 BIOPREFERRED.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Office of Energy Policy and New Uses,Washington,DC,(blank)
-BOSQUE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service - Southwestern Region,Albuquerque,NM,(blank)
+BOSQUE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service - Southwestern Region,Albuquerque,NM,pdl_gsa_alerts@usda.gov
 CHOOSEMYPLATE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Center for Nutrition Policy & Promotion,Alexandria,VA,(blank)
 DIETARYGUIDELINES.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA - Center for Nutrition Policy and Promotion,Alexandria,VA,(blank)
 EMPOWHR.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Finance Center,New Orleans,LA,(blank)
 EXECSEC.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA,Washington,DC,(blank)
 FARMERS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,"USDA, Office of Communications",Washington,DC,(blank)
 FOODSAFETYJOBS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS/OCIO,Washington,DC,(blank)
-FORESTSANDRANGELANDS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,US Forest Service,Washington,DC,(blank)
-FS.FED.US,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service,Washington,DC,(blank)
+FORESTSANDRANGELANDS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,US Forest Service,Washington,DC,pdl_gsa_alerts@usda.gov
+FS.FED.US,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service,Washington,DC,pdl_gsa_alerts@usda.gov
 ICBEMP.GOV,Federal Agency - Executive,U.S. Department of Agriculture,US Forest Service- Pacific Northwest Research Station,Portland,OR,(blank)
 INVASIVESPECIESINFO.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/ARS/NAL,Beltsville,MD,(blank)
 IPM.GOV,Federal Agency - Executive,U.S. Department of Agriculture,CSREES,Washington,DC,(blank)
@@ -1100,24 +1097,24 @@ NUTRITIONEVIDENCELIBRARY.GOV,Federal Agency - Executive,U.S. Department of Agric
 NWCG.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group (NWCG),Boise,ID,(blank)
 PREGUNTELEAKAREN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS,Washington,DC,(blank)
 RECREATION.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Department of Agriculture,Ogden,UT,(blank)
-REO.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Regional Ecosystem Office,Portland,OR,(blank)
+REO.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Regional Ecosystem Office,Portland,OR,pdl_gsa_alerts@usda.gov
 SMOKEYBEAR.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC,(blank)
 SYMBOLS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service,Washington,DC,(blank)
 THEPEOPLESGARDEN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,The People's Garden Initiaitive ,Washington,DC,(blank)
 USDA.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA,Ft. Collins,CO,(blank)
 USDAPII.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Office of the Chief Information Officer,Washington,DC,(blank)
-WILDFIRE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group,Boise,ID,(blank)
+WILDFIRE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group,Boise,ID,pdl_gsa_alerts@usda.gov
 WOODSY.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC,(blank)
 WOODSYOWL.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC,(blank)
-NWTRB.GOV,Federal Agency - Executive,U.S. Nuclear Waste Technical Review Board,Nuclear Waste Technical Review Board,Arlington,VA,(blank)
+NWTRB.GOV,Federal Agency - Executive,U.S. Nuclear Waste Technical Review Board,Nuclear Waste Technical Review Board,Arlington,VA,wdsadmin@nwtrb.gov
 OSC.GOV,Federal Agency - Executive,U.S. Office of Special Counsel,US Office of Special Counsel,Washington,DC,(blank)
 OSCNET.GOV,Federal Agency - Executive,U.S. Office of Special Counsel,U. S. Office of Special Counsel,Washington,DC,(blank)
-PEACECORPS.GOV,Federal Agency - Executive,U.S. Peace Corps,Peace Corps,Washington,DC,(blank)
+PEACECORPS.GOV,Federal Agency - Executive,U.S. Peace Corps,Peace Corps,Washington,DC,SOC2@PeaceCorps.Gov
 ABILITYONE.GOV,Federal Agency - Executive,United States AbilityOne,Committee for Purchase From People Who Are Blind or Severely Disabled,Arlington,VA,(blank)
 JWOD.GOV,Federal Agency - Executive,United States AbilityOne,Comittee for Purchase From People Who are Blind or Severely Disabled,Arlington,VA,(blank)
 ACCESS-BOARD.GOV,Federal Agency - Executive,United States Access Board,U.S Access Board,Washington,DC,(blank)
-ADF.GOV,Federal Agency - Executive,United States African Development Foundation,African Development Foundation,Washington,DC,(blank)
-USADF.GOV,Federal Agency - Executive,United States African Development Foundation,African Development Foundation,Washington,DC,(blank)
+ADF.GOV,Federal Agency - Executive,United States African Development Foundation,African Development Foundation,Washington,DC,schi@usadf.gov
+USADF.GOV,Federal Agency - Executive,United States African Development Foundation,African Development Foundation,Washington,DC,schi@usadf.gov
 GLOBALCHANGE.GOV,Federal Agency - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,(blank)
 USGCRP.GOV,Federal Agency - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,(blank)
 USHMM.GOV,Federal Agency - Executive,United States Holocaust Memorial Museum,United States Holocaust Memorial Museum,Washington,DC,(blank)
