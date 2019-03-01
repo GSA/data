@@ -98,7 +98,7 @@ ESA.GOV,Federal Agency - Executive,Department of Commerce,ESA,Washington,DC,(bla
 EXPORT.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
 FIRSTNET.GOV,Federal Agency - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,(blank)
 FISHWATCH.GOV,Federal Agency - Executive,Department of Commerce,NOAA Fisheries,Silver Spring,MD,security@noaa.gov
-GOES-R.GOV,Federal Agency - Executive,Department of Commerce,NASA GSFC,Greenbelt,MD,(blank)
+GOES-R.GOV,Federal Agency - Executive,Department of Commerce,NASA GSFC,Greenbelt,MD,security@noaa.gov
 GPS.GOV,Federal Agency - Executive,Department of Commerce,National Executive Committee for Space-Based PNT,Washington,DC,security@noaa.gov
 HURRICANES.GOV,Federal Agency - Executive,Department of Commerce,NOAA/National Hurricane Center,Miami,FL,security@noaa.gov
 MANUFACTURING.GOV,Federal Agency - Executive,Department of Commerce,National Institute of Standards and Technology (NIST),Washington,DC,siirt@nist.gov
@@ -328,7 +328,6 @@ PSC.GOV,Federal Agency - Executive,Department of Health and Human Services,Progr
 PUBMED.GOV,Federal Agency - Executive,Department of Health and Human Services,National Library of Medicine,Bethesda,MD,(blank)
 QUIC.GOV,Federal Agency - Executive,Department of Health and Human Services,AHRQ,Rockville,MD,(blank)
 RECOVERYMONTH.GOV,Federal Agency - Executive,Department of Health and Human Services,SAMHSA,Rockville,MD,(blank)
-SAFEYOUTH.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,(blank)
 SAMHSA.GOV,Federal Agency - Executive,Department of Health and Human Services,SAMHSA,Rockville,MD,(blank)
 SELECTAGENTS.GOV,Federal Agency - Executive,Department of Health and Human Services,Department of Health and Human Services,Washington,DC,(blank)
 SMOKEFREE.GOV,Federal Agency - Executive,Department of Health and Human Services,National Cancer Institute (NCI),Rockville,MD,(blank)
@@ -501,6 +500,7 @@ STATE.GOV,Federal Agency - Executive,Department of State,Department of State,Was
 SUPPORTFAN.GOV,Federal Agency - Executive,Department of State,US Department of State,Washington,DC,(blank)
 USASEANCONNECT.GOV,Federal Agency - Executive,Department of State,U.S. - ASEAN Connect,Jakarta,Jakarta,(blank)
 USCONSULATE.GOV,Federal Agency - Executive,Department of State,Dept of State,Washington,DC,(blank)
+USDOSCLOUD.GOV,Federal Agency - Executive,Department of State,Information Resources Management Bureau,Washington,DC,underwooded@state.gov
 USEMBASSY.GOV,Federal Agency - Executive,Department of State,Dept of State,Washington,DC,(blank)
 USMISSION.GOV,Federal Agency - Executive,Department of State,Dept of State,Washington,DC,(blank)
 STATEOIG.GOV,Federal Agency - Executive,"Department of State, Office of Inspector General","Office of the Inspector General, Department of State",Arlington,VA,(blank)
@@ -691,12 +691,11 @@ SAFERTRUCK.GOV,Federal Agency - Executive,Department of Transportation,DOT NHTSA
 SHARETHEROADSAFELY.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,FMCSASecurity@dot.gov
 SMARTERSKIES.GOV,Federal Agency - Executive,Department of Transportation,US Dept of Transportation,Washington,DC,(blank)
 STRONGPORTS.GOV,Federal Agency - Executive,Department of Transportation,Department of Transportation - MAritime Administration,Washington,DC,(blank)
-TFHRC.GOV,Federal Agency - Executive,Department of Transportation,Turner Fairbank Highway Research Center,Mclean,VA,(blank)
 TRAFFICSAFETYMARKETING.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC,(blank)
 TRANSPORTATION.GOV,Federal Agency - Executive,Department of Transportation,U.S. Department of Transportation,Washington,DC,(blank)
 EHR.GOV,Federal Agency - Executive,Department of Veterans Affairs,Department of Veterans Affairs,Washington,DC,(blank)
 VA.GOV,Federal Agency - Executive,Department of Veterans Affairs,Department of Veterans Affairs,Washington,DC,(blank)
-VETS.GOV,Federal Agency - Executive,Department of Veterans Affairs,U.S. Department of Veterans Affairs,Washington,DC,(blank)
+VETS.GOV,Federal Agency - Executive,Department of Veterans Affairs,U.S. Department of Veterans Affairs,Washington,DC,yu.ning@va.gov
 CE-NCSC.GOV,Federal Agency - Executive,Director of National Intelligence,Office of the Director of National Intelligence,McLean,VA,(blank)
 DNI.GOV,Federal Agency - Executive,Director of National Intelligence,"Office of Directorate of National Intelligence, Business Transformation Office",McLean,VA,(blank)
 FAMEP.GOV,Federal Agency - Executive,Director of National Intelligence,Office of the Director of National Intelligence,McLean,VA,(blank)
@@ -758,7 +757,7 @@ WGDP.GOV,Federal Agency - Executive,Executive Office of the President,Executive 
 WH.GOV,Federal Agency - Executive,Executive Office of the President,Office of Administration,Washington,DC,(blank)
 WHITEHOUSE.GOV,Federal Agency - Executive,Executive Office of the President,White House,Washington,DC,(blank)
 WHITEHOUSEDRUGPOLICY.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank)
-EXIM.GOV,Federal Agency - Executive,Export/Import Bank of the U.S.,Export-Import Bank of the United States,Washington,DC,(blank)
+EXIM.GOV,Federal Agency - Executive,Export/Import Bank of the U.S.,Export-Import Bank of the United States,Washington,DC,soc_alerts@exim.gov
 FCA.GOV,Federal Agency - Executive,Farm Credit Administration,Farm Credit Administration,McLean,VA,(blank)
 FCSIC.GOV,Federal Agency - Executive,Farm Credit Administration,Farm Credit System Insurance Corporation ,McLean,VA,(blank)
 BROADBAND.GOV,Federal Agency - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,(blank)
@@ -933,7 +932,6 @@ PSD.GOV,Federal Agency - Executive,GOV Domain OPS,GSA Office of Governmentwide P
 PSUP.GOV,Federal Agency - Executive,GOV Domain OPS,GSA - Office of Governmentwide Policy,Washington,DC,(blank)
 PUBSERVICES.GOV,Federal Agency - Executive,GOV Domain OPS,OGP - General Services Administration,Washington,DC,(blank)
 RPO.GOV,Federal Agency - Executive,GOV Domain OPS,GSA Office of Governmentwide Policy,Washington,DC,(blank)
-ORWIGSBURG.GOV,Federal Agency - Executive,gov Helpdesk,Borough of Orwigsburg,Orwigsburg,PA,(blank)
 RESTORETHEGULF.GOV,Federal Agency - Executive,Gulf Coast Ecosystem Restoration Council,National Oceanic and Atmospheric Administration (NOAA),Silver Spring,MD,security@noaa.gov
 TRUMAN.GOV,Federal Agency - Executive,Harry S. Truman Scholarship Foundation,Harry S. Truman Scholarship Foundation,Washington,DC,(blank)
 IMLS.GOV,Federal Agency - Executive,Institute of Museum and Library Services,IMLS,Washington,DC,(blank)
@@ -1017,7 +1015,6 @@ FEGLI.GOV,Federal Agency - Executive,Office of Personnel Management,U.S. Office 
 FSAFEDS.GOV,Federal Agency - Executive,Office of Personnel Management,Federal Flexible Spending Account Program,Washington,DC,(blank)
 GOLEARN.GOV,Federal Agency - Executive,Office of Personnel Management,OPM,Washington,DC,(blank)
 GOVERNMENTJOBS.GOV,Federal Agency - Executive,Office of Personnel Management,Office of Personnel Management,Macon,GA,(blank)
-HRU.GOV,Federal Agency - Executive,Office of Personnel Management,U.S. Office of Personnel Management,Washington,DC,(blank)
 NBIB.GOV,Federal Agency - Executive,Office of Personnel Management,U.S. Office of Personnel Management,Washington,DC,(blank)
 OPM.GOV,Federal Agency - Executive,Office of Personnel Management,U.S. Office of Personnel Management,Macon,GA,(blank)
 PAC.GOV,Federal Agency - Executive,Office of Personnel Management,U.S. Office of Personnel Management,Washington,DC,(blank)
@@ -1036,7 +1033,7 @@ PCLOB.GOV,Federal Agency - Executive,Privacy and Civil Liberties Oversight Board
 RRB.GOV,Federal Agency - Executive,Railroad Retirement Board,Railroad Retirement Board,Chicago,IL,CSIRT@rrb.gov
 INVESTOR.GOV,Federal Agency - Executive,Securities and Exchange Commission,Securities and Exchange Commission,Washington,DC,(blank)
 SEC.GOV,Federal Agency - Executive,Securities and Exchange Commission,Office of Information Technologies / Network Engineerig,Washington,DC,(blank)
-SSS.GOV,Federal Agency - Executive,Selective Service System,Selective Service System,Arlington,VA,(blank)
+SSS.GOV,Federal Agency - Executive,Selective Service System,Selective Service System,Arlington,VA,itsupport@sss.gov
 BUSINESS.GOV,Federal Agency - Executive,Small Business Administration,U.S. Small Business Administration,Washington,DC,(blank)
 NWBC.GOV,Federal Agency - Executive,Small Business Administration,U.S. Small Business Administration,Washington,DC,(blank)
 SBA.GOV,Federal Agency - Executive,Small Business Administration,U.S. Small Business Administration,Washington,DC,(blank)
@@ -1054,7 +1051,7 @@ TSC.GOV,Federal Agency - Executive,Terrorist Screening Center,Terrorist Screenin
 PTF.GOV,Federal Agency - Executive,The Intelligence Community,Prosecution Task Force,Washington,DC,(blank)
 WORLDWAR1CENTENNIAL.GOV,Federal Agency - Executive,The United States World War One Centennial Commission,The United States World War One Centennial Commission,Washington,DC,(blank)
 CHILDRENINADVERSITY.GOV,Federal Agency - Executive,U.S. Agency for International Development,USAID/GH.CECA,Washington,DC,(blank)
-DFAFACTS.GOV,Federal Agency - Executive,U.S. Agency for International Development,Office of the Director of U.S. Foreign Assistance,Washington,DC,(blank)
+DFAFACTS.GOV,Federal Agency - Executive,U.S. Agency for International Development,Office of the Director of U.S. Foreign Assistance,Washington,DC,factsinfosupport@state.gov
 FEEDTHEFUTURE.GOV,Federal Agency - Executive,U.S. Agency for International Development,U.S. Agency for International Development,Washington,DC,(blank)
 LETGIRLSLEARN.GOV,Federal Agency - Executive,U.S. Agency for International Development,U.S. Agency for International Development,Washington,DC,(blank)
 NEGLECTEDDISEASES.GOV,Federal Agency - Executive,U.S. Agency for International Development,U.S. Agency for International Development,Washington,DC,(blank)
@@ -1093,7 +1090,6 @@ MYPLATE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Cente
 NAFRI.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Advanced Fire and Resource Institute,Tucson,AZ,(blank)
 NEL.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Center for Nutrition Policy & Promotion,Alexandria,VA,(blank)
 NUTRITION.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Office of Communications,Washington,DC,(blank)
-NUTRITIONEVIDENCELIBRARY.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Center for Nutrition Policy and Promotion,Alexandria,VA,(blank)
 NWCG.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group (NWCG),Boise,ID,(blank)
 PREGUNTELEAKAREN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS,Washington,DC,(blank)
 RECREATION.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Department of Agriculture,Ogden,UT,(blank)
