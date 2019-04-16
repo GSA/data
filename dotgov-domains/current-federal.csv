@@ -94,7 +94,6 @@ DOC.GOV,Federal Agency - Executive,Department of Commerce,Office of the Chief In
 DROUGHT.GOV,Federal Agency - Executive,Department of Commerce,NOAA/NCDC,Asheville,NC,security@noaa.gov
 EARTHSYSTEMPREDICTION.GOV,Federal Agency - Executive,Department of Commerce,Office of Weather and Air Quality,Silver Spring,MD,security@noaa.gov
 EDA.GOV,Federal Agency - Executive,Department of Commerce,ECONOMIC DEVELOPMENT ADMINISTRATION,Washington,DC,(blank)
-ESA.GOV,Federal Agency - Executive,Department of Commerce,ESA,Washington,DC,(blank)
 EXPORT.GOV,Federal Agency - Executive,Department of Commerce,International Trade Administration,Washington,DC,(blank)
 FIRSTNET.GOV,Federal Agency - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,(blank)
 FISHWATCH.GOV,Federal Agency - Executive,Department of Commerce,NOAA Fisheries,Silver Spring,MD,security@noaa.gov
@@ -206,7 +205,7 @@ ISOTOPES.GOV,Federal Agency - Executive,Department of Energy,The National Isotop
 KAPL.GOV,Federal Agency - Executive,Department of Energy,Knolls Atomic Power Laboratory,Schenectady,NY,(blank)
 LANL.GOV,Federal Agency - Executive,Department of Energy,Los Alamos National Laboratory,Los Alamos,NM,csirt@lanl.gov
 LBL.GOV,Federal Agency - Executive,Department of Energy,Lawrence Berkeley National Laboratory,Berkeley,CA,(blank)
-LLNL.GOV,Federal Agency - Executive,Department of Energy,Lawrence Livermore National Laboratory,Livermore,CA,(blank)
+LLNL.GOV,Federal Agency - Executive,Department of Energy,Lawrence Livermore National Laboratory,Livermore,CA,cybersecurity@llnl.gov
 NCCS.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,(blank)
 NCRC.GOV,Federal Agency - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,(blank)
 NERSC.GOV,Federal Agency - Executive,Department of Energy,National Energy Research Scientific Computing Center,Berkeley,CA,(blank)
@@ -291,7 +290,7 @@ HEALTH.GOV,Federal Agency - Executive,Department of Health and Human Services,He
 HEALTHCARE.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Medicare & Medicaid Services,Baltimore,MD,(blank)
 HEALTHDATA.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,(blank)
 HEALTHFINDER.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of Disease Prevention and Health Promotion,Washington,DC,(blank)
-HEALTHINDICATORS.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,(blank)
+HEALTHINDICATORS.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,mmc6@cdc.gov
 HEALTHIT.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the National Coordinator,Washington,DC,(blank)
 HEALTHYPEOPLE.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of Disease Prevention and Health Promotion,Washington,DC,(blank)
 HEARTTRUTH.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Institutes of Health/National Heart, Lung & Blood Institute",Bethesda,MD,(blank)
@@ -669,7 +668,6 @@ USTREAS.GOV,Federal Agency - Executive,Department of the Treasury,TCS,McLean,VA,
 WIZARD.GOV,Federal Agency - Executive,Department of the Treasury,Department of the Treasury - BPD,Mclean,VA,(blank)
 WORKPLACE.GOV,Federal Agency - Executive,Department of the Treasury,Treasury PMO,Washington,DC,(blank)
 911.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,(blank)
-ATCREFORM.GOV,Federal Agency - Executive,Department of Transportation,US Dept of Transportation,Washington,DC,(blank)
 BTS.GOV,Federal Agency - Executive,Department of Transportation,Bureau of Transportation Statistics,Washington,DC,(blank)
 DISTRACTEDDRIVING.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,(blank)
 DISTRACTION.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration (NHTSA).,Washington,DC,(blank)
@@ -689,7 +687,6 @@ SAFEOCS.GOV,Federal Agency - Executive,Department of Transportation,Bureau of Tr
 SAFERCAR.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,(blank)
 SAFERTRUCK.GOV,Federal Agency - Executive,Department of Transportation,DOT NHTSA,Washington,DC,(blank)
 SHARETHEROADSAFELY.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,FMCSASecurity@dot.gov
-SMARTERSKIES.GOV,Federal Agency - Executive,Department of Transportation,US Dept of Transportation,Washington,DC,(blank)
 STRONGPORTS.GOV,Federal Agency - Executive,Department of Transportation,Department of Transportation - MAritime Administration,Washington,DC,(blank)
 TRAFFICSAFETYMARKETING.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC,(blank)
 TRANSPORTATION.GOV,Federal Agency - Executive,Department of Transportation,U.S. Department of Transportation,Washington,DC,(blank)
@@ -829,7 +826,6 @@ UCE.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commis
 ACCESSIBILITY.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 ACQUISITION.GOV,Federal Agency - Executive,General Services Administration,Integrated Acquisition Environment,Arlington,VA,(blank)
 AFADVANTAGE.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC,(blank)
-APPS.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
 BUSINESSUSA.GOV,Federal Agency - Executive,General Services Administration,Office of Citizen Services and Innovative Technologies,Washington,DC,(blank)
 BUYACCESSIBLE.GOV,Federal Agency - Executive,General Services Administration,Electronic Government and Technology,Washington,DC,(blank)
 BUYAMERICAN.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,(blank)
@@ -1096,7 +1092,6 @@ RECREATION.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Departm
 REO.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Regional Ecosystem Office,Portland,OR,pdl_gsa_alerts@usda.gov
 SMOKEYBEAR.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC,(blank)
 SYMBOLS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service,Washington,DC,(blank)
-THEPEOPLESGARDEN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,The People's Garden Initiaitive ,Washington,DC,(blank)
 USDA.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA,Ft. Collins,CO,(blank)
 USDAPII.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Office of the Chief Information Officer,Washington,DC,(blank)
 WILDFIRE.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group,Boise,ID,pdl_gsa_alerts@usda.gov
@@ -1131,7 +1126,6 @@ USPSINNOVATES.GOV,Federal Agency - Executive,United States Postal Service,U. S. 
 PEACECORPSOIG.GOV,Federal Agency - Executive,"United States Postal Service, Office of Inspector General","Peace Corps, Office of Inspector General",Washington,DC,(blank)
 USPSOIG.GOV,Federal Agency - Executive,"United States Postal Service, Office of Inspector General",USPS Office of Inspector General,Arlington,VA,(blank)
 USTDA.GOV,Federal Agency - Executive,United States Trade and Development Agency,US Trade and Development Agency,Arlington,VA,(blank)
-VEF.GOV,Federal Agency - Executive,Vietnam Education Foundation,Vietnam Education Foundation,Arlington,VA,(blank)
 SC-US.GOV,Federal Agency - Judicial,The Supreme Court,Supreme Court of the United States,Washington,DC,(blank)
 SCINET-TEST.GOV,Federal Agency - Judicial,The Supreme Court,Supreme Court of the United States,Washington,DC,(blank)
 SCINET.GOV,Federal Agency - Judicial,The Supreme Court,Supreme Court of the United States,Washington,DC,(blank)
@@ -1219,9 +1213,6 @@ CBONEWS.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional Bu
 CECC.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional Executive Commission on China,Washington,DC,(blank)
 CHINA-COMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional-Executive Commission on China,Washington,DC,(blank)
 CHINACOMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional-Executive Commission on China,Washington,MD,(blank)
-CITIZENCOSPONSORS.GOV,Federal Agency - Legislative,The Legislative Branch,United States House of Representatives,Washington,DC,(blank)
-CITIZENS.GOV,Federal Agency - Legislative,The Legislative Branch,United States House of Representatives,Washington,DC,(blank)
-COSPONSOR.GOV,Federal Agency - Legislative,The Legislative Branch,United States House of Representatives,Washington,DC,(blank)
 CSCE.GOV,Federal Agency - Legislative,The Legislative Branch,Commission on Security and Cooperation in Europe,Washington,DC,(blank)
 DEMOCRATICLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 DEMOCRATICWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Democratic Whip's Office,Washington,DC,(blank)
@@ -1260,4 +1251,7 @@ USHOUSE.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Repr
 USHR.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 USCAPITOLPOLICE.GOV,Federal Agency - Legislative,U.S. Capitol Police,U.S. Capitol Police,Washington,DC,(blank)
 USCP.GOV,Federal Agency - Legislative,U.S. Capitol Police,United States Capitol Police,Washington,DC,(blank)
+AMERICA250.GOV,Federal Agency - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Washington D.C.,DC,bosborn@ecityinteractive.com
+USA250.GOV,Federal Agency - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Washington D.C.,DC,bosborn@ecityinteractive.com
+USSEMIQUINCENTENNIAL.GOV,Federal Agency - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Washington D.C.,DC,bosborn@ecityinteractive.com
 USCC.GOV,Federal Agency - Legislative,U.S.-China Economic and Security Review Commission,U.S. - China Economic and Security Review Commission,Washington,DC,(blank)
