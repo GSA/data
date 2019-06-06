@@ -2,7 +2,7 @@
 
 These files contain .gov domain information from the federal government's executive, legislative, and judicial branches -- as well as states, territories, cities, counties, and native tribes.
 
-Domain information is updated every ~month. As such, **this list doesn't accept pull requests** from federal agencies or the public. 
+Domain information is updated every ~month. As such, **this list doesn't accept pull requests** from government organizations or the public. 
 * To change .gov metadata, log in to the [.gov registrar](https://domains.dotgov.gov). 
 * To transfer your domain to a different agency, complete the [domain ownership transfer process](https://home.dotgov.gov/management/#how-do-i-transfer-my-domain-to-a-different-agency).
 
