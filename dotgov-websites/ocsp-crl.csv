@@ -6,3 +6,10 @@ crls.pki.state.gov
 hc.nasa.gov
 ocsp.nasa.gov
 ocsp-rra.ndc.nasa.gov
+ocsp-byr.uspto.gov
+ocsp.uspto.gov
+ipki-alx.uspto.gov
+ipki-byr.uspto.gov
+ipki.uspto.gov
+ocsp-alx.uspto.gov
+secure-auth.uspto.gov
