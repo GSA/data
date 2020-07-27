@@ -10,7 +10,7 @@ git fetch origin
 git checkout origin/master
 git checkout -b $BRANCH
 
-curl https://ea.gsa.gov/api/v0/itstandards | python3 json_to_csv.py > it-standards.csv
+python3 json_to_csv.py > it-standards.csv
 
 echo "it-standards.csv updated."
 

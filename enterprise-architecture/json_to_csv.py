@@ -1,9 +1,9 @@
 import csv
 import json
 import sys
+from urllib.request import urlopen
 
-raw = sys.stdin.read()
-data = json.loads(raw)
+data = json.loads(urlopen("https://ea.gsa.gov/api/v0/itstandards"))
 data.sort(key=lambda k: k["Name"])
 
 writer = csv.writer(sys.stdout)
