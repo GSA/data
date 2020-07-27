@@ -10,7 +10,7 @@ git fetch origin
 git checkout origin/master
 git checkout -b $BRANCH
 
-python3 json_to_csv.py > it-standards.csv
+python3 fetch.py > it-standards.csv
 
 echo "it-standards.csv updated."
 
