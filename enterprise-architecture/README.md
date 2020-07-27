@@ -24,8 +24,6 @@ To see the latest-and-greatest list, [get on the GSA network](https://handbook.t
 
 Requires:
 
-- Being on the GSA network
-- cURL
 - Git
 - Python 3
 
