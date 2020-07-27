@@ -8,7 +8,7 @@ try:
     data = json.loads(urlopen("https://ea.gsa.gov/api/v0/itstandards"))
 except URLError as e:
     print(
-        "Unable to reach ea.gsa.gov. Are you connected to the GSA network?",
+        "ERROR: Unable to reach ea.gsa.gov. Are you connected to the GSA network?",
         file=sys.stderr,
     )
     sys.exit(1)
