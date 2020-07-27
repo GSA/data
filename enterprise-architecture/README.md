@@ -12,11 +12,13 @@ Make sure to **pay attention to the `Status` column**, as the list includes item
 
 The data is manually exported (for now) from [the official list in GEAR](https://ea.gsa.gov/#!/itstandards) on a regular (but best-effort) basis. See the Last Modified date on the CSV to see when it was last updated. Feel free to [open an issue](https://github.com/GSA/data/issues/new) to give us a nudge if we forget!
 
-To see the latest-and-greatest list, get on the GSA network (see [VPN information](https://handbook.18f.gov/anyconnect/)), and visit [GEAR](https://ea.gsa.gov/#!/itstandards).
+To see the latest-and-greatest list, [get on the GSA network](https://handbook.tts.gsa.gov/how-to-log-in/) and visit [GEAR](https://ea.gsa.gov/#!/itstandards).
 
 ## Updating the list
 
-First, clone this repository with Git / [GitHub Desktop](https://desktop.github.com/). Then, follow either the scripted or manual steps.
+1. [Clone this repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+1. Connect to the GSA network ([VPN information](https://handbook.tts.gsa.gov/anyconnect/))
+1. Follow either the scripted or manual steps below.
 
 ### Script
 
