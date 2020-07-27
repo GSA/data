@@ -16,7 +16,7 @@ To see the latest-and-greatest list, get on the GSA network (see [VPN informatio
 
 ## Updating the list
 
-First, clone this repository with Git / [GitHub Desktop](https://desktop.github.com/). Then, follow either the scripted or manual steps.
+First, clone https://github.com/GSA/data repo with Git / [GitHub Desktop](https://desktop.github.com/). Then, follow either the scripted or manual steps.
 
 ### Script
 
