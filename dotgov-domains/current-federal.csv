@@ -150,13 +150,14 @@ MYPAY.GOV,Federal Agency - Executive,Department of Defense,Defense Finance and A
 NATIONALRESOURCEDIRECTORY.GOV,Federal Agency - Executive,Department of Defense,OFFICE OF WARRIOR CARE POLICY,Arlington,VA,(blank)
 NBIS.GOV,Federal Agency - Executive,Department of Defense,National Background Investigation Services,Fort Meade,MD,(blank)
 NRD.GOV,Federal Agency - Executive,Department of Defense,OFFICE OF WARRIOR CARE POLICY,Arlington,VA,(blank)
-NRO.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,(blank)
-NROJR.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,(blank)
+NRO.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,hugheysh@nro.ic.gov
+NROJR.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,hugheysh@nro.ic.gov
 NSA.GOV,Federal Agency - Executive,Department of Defense,NSA,Fort Meade,MD,(blank)
 NSEP.GOV,Federal Agency - Executive,Department of Defense,National Security Education Program (NSEP) at DLNSEO,Alexandria,VA,(blank)
 OEA.GOV,Federal Agency - Executive,Department of Defense,Office of Economic Adjustment,Arlington,VA,(blank)
 PENTAGON.GOV,Federal Agency - Executive,Department of Defense,American Forces Information Service,Fort Meade,MD,pubwebhd@defense.gov
 SITEIDIQ.GOV,Federal Agency - Executive,Department of Defense,Defense Intelligence Agency,Arlington,VA,(blank)
+TAK.GOV,Federal Agency - Executive,Department of Defense,TAK Product Center,Fort Belvoir,VA,andrew.s.crerar2.ctr@mail.mil
 TSWG.GOV,Federal Agency - Executive,Department of Defense,Technical Support Working Group,Arlington,VA,(blank)
 USANDC.GOV,Federal Agency - Executive,Department of Defense,AFTAC/LSCSS,Patrick AFB,FL,(blank)
 BUDGETLOB.GOV,Federal Agency - Executive,Department of Education,Department of Education,Washington,DC,EDSOC@ed.gov
@@ -383,7 +384,7 @@ NLS.GOV,Federal Agency - Executive,Department of Housing and Urban Development,D
 OPPORTUNITYZONES.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,tracy.k.bigesby@hud.gov
 ADA.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,(blank)
 AMBERALERT.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,(blank)
-ATF.GOV,Federal Agency - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms, and Explosives",Washington,DC,(blank)
+ATF.GOV,Federal Agency - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms, and Explosives",Washington,DC,atfweb@atf.gov
 ATFONLINE.GOV,Federal Agency - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms and Explosives",Washington,DC,(blank)
 BATS.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,(blank)
 BIOMETRICCOE.GOV,Federal Agency - Executive,Department of Justice,FBI CJIS,Clarksburg,WV,(blank)
@@ -457,7 +458,7 @@ VEHICLEHISTORY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Depart
 APPRENTICESHIP.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov
 APPRENTICESHIPS.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov
 BENEFITS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov
-BLS.GOV,Federal Agency - Executive,Department of Labor,Bureau of Labor Statistics,Washington,DC,(blank)
+BLS.GOV,Federal Agency - Executive,Department of Labor,Bureau of Labor Statistics,Washington,DC,m-DOLCSIRC@dol.gov
 DISABILITY.GOV,Federal Agency - Executive,Department of Labor,Office of Disability Employment Policy,Washington,DC,m-DOLCSIRC@dol.gov
 DOL-ESA.GOV,Federal Agency - Executive,Department of Labor,Employment Standards Administration,Washington,DC,m-DOLCSIRC@dol.gov
 DOL.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov
@@ -465,7 +466,7 @@ DOLETA.GOV,Federal Agency - Executive,Department of Labor,Department of Labor -E
 EMPLOYER.GOV,Federal Agency - Executive,Department of Labor,Department of Labor (OCIO),Washington,DC,m-DOLCSIRC@dol.gov
 GOVLOANS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov
 HIREVETS.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov
-JOBCORPS.GOV,Federal Agency - Executive,Department of Labor,Job Corps National Data Center,Austin,TX,(blank)
+JOBCORPS.GOV,Federal Agency - Executive,Department of Labor,Employment and Training Administration (ETA) - Office of Job Corps,Washington,DC,m-DOLCSIRC@dol.gov
 LABOR.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov
 MSHA.GOV,Federal Agency - Executive,Department of Labor,Mine Safety and Health Administration (MSHA),Arlington,VA,m-DOLCSIRC@dol.gov
 OSHA.GOV,Federal Agency - Executive,Department of Labor,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov
@@ -698,7 +699,7 @@ OSIS.GOV,Federal Agency - Executive,Director of National Intelligence,Office of 
 QART.GOV,Federal Agency - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,(blank)
 UGOV.GOV,Federal Agency - Executive,Director of National Intelligence,Office of Director of National Intelligence - CIO (ICES),Fort Meade,MD,ismc-networkadmin@ugov.gov
 EISENHOWERMEMORIAL.GOV,Federal Agency - Executive,Dwight D. Eisenhower Memorial Commission,Dwight D. Eisenhower Memorial Commission,Washington,DC,shonl@eisenhowermemorial.gov
-EAC.GOV,Federal Agency - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,(blank)
+EAC.GOV,Federal Agency - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,security@eac.gov
 VOTEBYMAIL.GOV,Federal Agency - Executive,Election Assistance Commission,U. S. ELECTION ASSISTANCE COMMISSION,Silver Spring,MD,(blank)
 AIRNOW.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,(blank)
 CBI-EPA.GOV,Federal Agency - Executive,Environmental Protection Agency,OEI/OTOP/NCC,Durham,NC,(blank)
@@ -974,7 +975,6 @@ ARCTIC.GOV,Federal Agency - Executive,National Science Foundation,U.S. Arctic Re
 NSF.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
 RESEARCH.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
 SAC.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
-SCIENCE360.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,(blank)
 USAP.GOV,Federal Agency - Executive,National Science Foundation,"National Science Foundation, Office of Polar Programs",Arlington,VA,(blank)
 INTELLIGENCECAREERS.GOV,Federal Agency - Executive,National Security Agency,National Security Agency,Fort Meade,MD,(blank)
 LPS.GOV,Federal Agency - Executive,National Security Agency,Laboratory for Physical Sciences,College Park,MD,(blank)
@@ -1048,7 +1048,7 @@ HERITAGEABROAD.GOV,Federal Agency - Executive,U.S. Commission for the Preservati
 CFA.GOV,Federal Agency - Executive,U.S. Commission of Fine Arts,U. S. Commission of Fine Arts,Washington,DC,(blank)
 CIVILRIGHTSUSA.GOV,Federal Agency - Executive,U.S. Commission on Civil Rights,US Commission on Civil Rights,Washington,DC,(blank)
 USCCR.GOV,Federal Agency - Executive,U.S. Commission on Civil Rights,U.S. Commission on Civil Rights,Washington,DC,(blank)
-USCIRF.GOV,Federal Agency - Executive,U.S. Commission on International Religious Freedom,US Commission on International Religious Freedom,Washington,DC,(blank)
+USCIRF.GOV,Federal Agency - Executive,U.S. Commission on International Religious Freedom,US Commission on International Religious Freedom,Washington,DC,rhaskins@uscirf.gov
 AFF.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Aviation Management Directorate,Boise,ID,pdl_gsa_alerts@usda.gov
 AG.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA,Fort Collins,CO,cyber.incidents@asoc.usda.gov
 ARS-GRIN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Agricultural Research Service ,Beltsville,MD,(blank)
@@ -1078,6 +1078,7 @@ NEL.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Center fo
 NUTRITION.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Office of Communications,Washington,DC,(blank)
 NWCG.GOV,Federal Agency - Executive,U.S. Department of Agriculture,National Wildfire Coordinating Group (NWCG),Boise,ID,(blank)
 PREGUNTELEAKAREN.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA/FSIS,Washington,DC,(blank)
+REC.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Recreation One Stop,Denver,CO,eric.levine@sehlkeconsulting.com
 RECREATION.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Recreation One Stop Program Management Office,Denver,CO,eric.levine@sehlkeconsulting.com
 REO.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Regional Ecosystem Office,Portland,OR,pdl_gsa_alerts@usda.gov
 SMOKEYBEAR.GOV,Federal Agency - Executive,U.S. Department of Agriculture,Forest Park Service,Washington,DC,(blank)
