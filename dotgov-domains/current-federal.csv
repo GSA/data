@@ -148,7 +148,6 @@ MOJAVEDATA.GOV,Federal Agency - Executive,Department of Defense,Mojave Desert Ec
 MTMC.GOV,Federal Agency - Executive,Department of Defense,Department of Defense,Alexandria,VA,(blank)
 MYPAY.GOV,Federal Agency - Executive,Department of Defense,Defense Finance and Accounting Service,Pensacola,FL,(blank)
 NATIONALRESOURCEDIRECTORY.GOV,Federal Agency - Executive,Department of Defense,OFFICE OF WARRIOR CARE POLICY,Arlington,VA,(blank)
-NBIS.GOV,Federal Agency - Executive,Department of Defense,National Background Investigation Services,Fort Meade,MD,(blank)
 NRD.GOV,Federal Agency - Executive,Department of Defense,OFFICE OF WARRIOR CARE POLICY,Arlington,VA,(blank)
 NRO.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,hugheysh@nro.ic.gov
 NROJR.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,hugheysh@nro.ic.gov
@@ -183,7 +182,7 @@ CEBAF.GOV,Federal Agency - Executive,Department of Energy,Thomas Jefferson Natio
 CENDI.GOV,Federal Agency - Executive,Department of Energy,Department of Energy - OSTI,Oak Ridge,TN,(blank)
 DOE.GOV,Federal Agency - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,(blank)
 DOEAL.GOV,Federal Agency - Executive,Department of Energy,NNSA,Albuquerque,NM,(blank)
-EIA.GOV,Federal Agency - Executive,Department of Energy,Energy Information Administration,Washington,DC,(blank)
+EIA.GOV,Federal Agency - Executive,Department of Energy,Energy Information Administration,Washington,DC,Jarnail.Singh@eia.gov
 ENERGY.GOV,Federal Agency - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,(blank)
 ENERGYCODES.GOV,Federal Agency - Executive,Department of Energy,Department of Energy Bulding Energy Codes Program,Richland,WA,(blank)
 ENERGYSAVER.GOV,Federal Agency - Executive,Department of Energy,Department of Energy,Washington,DC,(blank)
@@ -630,6 +629,7 @@ QATESTTWAI.GOV,Federal Agency - Executive,Department of the Treasury,Financial M
 SAVINGSBOND.GOV,Federal Agency - Executive,Department of the Treasury,Department of the Treasury - BPD,Mclean,VA,domainsecurity@treasury.gov
 SAVINGSBONDS.GOV,Federal Agency - Executive,Department of the Treasury,Department of the Treasury - BPD,McLean,VA,domainsecurity@treasury.gov
 SAVINGSBONDWIZARD.GOV,Federal Agency - Executive,Department of the Treasury,Department of the Treasury - BPD,Mclean,VA,domainsecurity@treasury.gov
+SIGPR.GOV,Federal Agency - Executive,Department of the Treasury,US Department of Treasury,Washington,DC,domainsecurity@treasury.gov
 SIGTARP.GOV,Federal Agency - Executive,Department of the Treasury,Special Inspector General for the Troubled Asset Relief Program,Washington,DC,domainsecurity@treasury.gov
 SLGS.GOV,Federal Agency - Executive,Department of the Treasury,Department of the Treasury - BPD,Mclean,VA,domainsecurity@treasury.gov
 TAAPS.GOV,Federal Agency - Executive,Department of the Treasury,Department of the Treasury - BPD,Mclean,VA,domainsecurity@treasury.gov
@@ -807,6 +807,7 @@ ROBODEIDENTIDAD.GOV,Federal Agency - Executive,Federal Trade Commission,Federal 
 SENTINEL.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,security@ftc.gov
 UCE.GOV,Federal Agency - Executive,Federal Trade Commission,Federal Trade Commission,Washington,DC,security@ftc.gov
 18F.GOV,Federal Agency - Executive,General Services Administration,18F,Washington,DC,tts-vulnerability-reports@gsa.gov
+400YAAHC.GOV,Federal Agency - Executive,General Services Administration,400 Years of African American History Commission,Washington,DC,(blank)
 ACCESSIBILITY.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov
 ACQUISITION.GOV,Federal Agency - Executive,General Services Administration,Integrated Acquisition Environment,Arlington,VA,gsa-vulnerability-reports@gsa.gov
 AFADVANTAGE.GOV,Federal Agency - Executive,General Services Administration,US General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov
@@ -973,9 +974,9 @@ NMB.GOV,Federal Agency - Executive,National Mediation Board,National Mediation B
 NANO.GOV,Federal Agency - Executive,National Nanotechnology Coordination Office,National Nanotechnology Coordination Office,Arlington,VA,(blank)
 NNSS.GOV,Federal Agency - Executive,National Nuclear Security Administration,"National Security Technologies, LLC",N Las Vegas,NV,NetComm-1@nv.doe.gov
 ARCTIC.GOV,Federal Agency - Executive,National Science Foundation,U.S. Arctic Research Commission,Arlington,VA,dallas.ryan@sec-data-eng.com
-NSF.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
-RESEARCH.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
-SAC.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dcytryn@nsf.gov
+NSF.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov
+RESEARCH.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov
+SAC.GOV,Federal Agency - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov
 USAP.GOV,Federal Agency - Executive,National Science Foundation,"National Science Foundation, Office of Polar Programs",Arlington,VA,(blank)
 INTELLIGENCECAREERS.GOV,Federal Agency - Executive,National Security Agency,National Security Agency,Fort Meade,MD,(blank)
 LPS.GOV,Federal Agency - Executive,National Security Agency,Laboratory for Physical Sciences,College Park,MD,(blank)
@@ -1148,10 +1149,15 @@ USSC.GOV,Federal Agency - Judicial,U.S. Courts,US Sentencing Commission,Washingt
 USTAXCOURT.GOV,Federal Agency - Judicial,U.S. Courts,United States Tax Court,Washington,DC,(blank)
 AOC.GOV,Federal Agency - Legislative,Architect of the Capitol,The Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 CAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
+CAPITALGIFTSHOP.GOV,Federal Agency - Legislative,Architect of the Capitol,The Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 CAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
+CAPITOLGIFTSHOP.GOV,Federal Agency - Legislative,Architect of the Capitol,The Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 USBG.GOV,Federal Agency - Legislative,Architect of the Capitol,AOC,Washington,DC,DOMSEC@aoc.gov
 USCAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
+USCAPITALGIFTSHOP.GOV,Federal Agency - Legislative,Architect of the Capitol,The Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 USCAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
+USCAPITOLGIFTSHOP.GOV,Federal Agency - Legislative,Architect of the Capitol,The Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
+USCAPITOLGIFTSTORE.GOV,Federal Agency - Legislative,Architect of the Capitol,The Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 VISITTHECAPITAL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 VISITTHECAPITOL.GOV,Federal Agency - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov
 SOLARIUM.GOV,Federal Agency - Legislative,Cyberspace Solarium Commission,Cyberspace Solarium Commission,Arlington,VA,(blank)
