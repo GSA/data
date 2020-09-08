@@ -1,18 +1,9 @@
 import csv
 import json
 import sys
-from urllib.error import URLError
-from urllib.request import urlopen
 
-try:
-    data = json.loads(urlopen("https://ea.gsa.gov/api/v0/itstandards"))
-except URLError as e:
-    print(
-        "ERROR: Unable to reach ea.gsa.gov. Are you connected to the GSA network?",
-        file=sys.stderr,
-    )
-    sys.exit(1)
-
+raw = sys.stdin.read()
+data = json.loads(raw)
 data.sort(key=lambda k: k["Name"])
 
 writer = csv.writer(sys.stdout)

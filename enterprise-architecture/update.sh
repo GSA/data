@@ -10,7 +10,15 @@ git fetch origin
 git checkout origin/master
 git checkout -b $BRANCH
 
-python3 fetch.py > it-standards.csv
+set +e
+JSON=$(curl https://ea.gsa.gov/api/v0/itstandards)
+if [ $? -ne 0 ]; then
+  echo "ERROR: Unable to reach ea.gsa.gov. Are you connected to the GSA network?"
+  exit 1
+fi
+set -e
+
+echo $JSON | python3 json_to_csv.py > it-standards.csv
 
 echo "it-standards.csv updated."
 
