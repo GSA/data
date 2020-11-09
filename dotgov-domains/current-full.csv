@@ -504,7 +504,7 @@ CITYOFHARVEYIL.GOV,City,Non-Federal Agency,City of Harvey,Harvey,IL,chris@harvey
 CITYOFHAYWARD-CA.GOV,City,Non-Federal Agency,City of Hayward,Hayward,CA,carolyn.saputo@hayward-ca.gov
 CITYOFHAYWARDWI.GOV,City,Non-Federal Agency,City of Hayward,Hayward,WI,(blank)
 CITYOFHERCULANEUM.GOV,City,Non-Federal Agency,City of Herculaneum,Herculaneum,MO,Security@cityofherculaneum.org
-CITYOFHIRAMGA.GOV,City,Non-Federal Agency,CITY OF HIRAM,HIRAM,GA,(blank)
+CITYOFHIRAMGA.GOV,City,Non-Federal Agency,CITY OF HIRAM,HIRAM,GA,jpalmer@hiram-ga.gov
 CITYOFHOKAH-MN.GOV,City,Non-Federal Agency,"City of Hokah, Minnesota",Hokah,MN,(blank)
 CITYOFHOLYOKE-CO.GOV,City,Non-Federal Agency,City of Holyoke,Holyoke,CO,(blank)
 CITYOFHOMER-AK.GOV,City,Non-Federal Agency,City of Homer,Homer,AK,(blank)
@@ -884,7 +884,7 @@ ENGLEWOODCO.GOV,City,Non-Federal Agency,City of Englewood,Englewood,CO,jking@eng
 ENNISTX.GOV,City,Non-Federal Agency,City of Ennis Texas,Ennis,TX,(blank)
 ENON-OH.GOV,City,Non-Federal Agency,Village Of Enon,Enon,OH,(blank)
 ENTERPRISEAL.GOV,City,Non-Federal Agency,City of Enterprise,Enterprise,AL,(blank)
-ERIECO.GOV,City,Non-Federal Agency,Town of Erie,Erie,CO,(blank)
+ERIECO.GOV,City,Non-Federal Agency,Town of Erie,Erie,CO,itadmin@erieco.gov
 ERLANGERKY.GOV,City,Non-Federal Agency,City of Erlanger,Erlanger,KY,jim.white@cityoferlanger.com
 ERVING-MA.GOV,City,Non-Federal Agency,Town of Erving,Erving,MA,(blank)
 ESPANOLANM.GOV,City,Non-Federal Agency,City of Espanola,Espanola,NM,(blank)
@@ -1222,7 +1222,7 @@ HILLSBOROVA.GOV,City,Non-Federal Agency,Town of Hillsboro,Hillsboro,VA,(blank)
 HILTONHEADISLANDSC.GOV,City,Non-Federal Agency,Town of Hilton Head Island,Hilton Head Island,SC,(blank)
 HINGHAM-MA.GOV,City,Non-Federal Agency,Town of Hingham,Hingham,MA,(blank)
 HINSDALEMA.GOV,City,Non-Federal Agency,Town Of Hinsdale,Hinsdale,MA,JShannon@hinsdalema.gov
-HIRAM-GA.GOV,City,Non-Federal Agency,City of Hiram,Hiram,GA,(blank)
+HIRAM-GA.GOV,City,Non-Federal Agency,City of Hiram,Hiram,GA,jpalmer@hiram-ga.gov
 HOBOKENNJ.GOV,City,Non-Federal Agency,City of Hoboken,Hoboken,NJ,(blank)
 HOLBROOKMA.GOV,City,Non-Federal Agency,Town of Holbrook,Holbrook,MA,(blank)
 HOLDEN-MA.GOV,City,Non-Federal Agency,"HOLDEN, TOWN OF",Holden,MA,(blank)
@@ -1366,7 +1366,6 @@ KINSTONNC.GOV,City,Non-Federal Agency,City of Kinston,Kinston,NC,(blank)
 KIRKLANDWA.GOV,City,Non-Federal Agency,City of Kirkland,Kirkland,WA,(blank)
 KISKITOWNSHIP-PA.GOV,City,Non-Federal Agency,Kiskiminetas Township,Apollo,PA,(blank)
 KISSIMMEE.GOV,City,Non-Federal Agency,City of Kissimmee,Kissimmee,FL,jwest@kissimmee.org
-KISSIMMEEFL.GOV,City,Non-Federal Agency,City of Kissimmee,Kissimmee,FL,(blank)
 KITTERYME.GOV,City,Non-Federal Agency,Town of Kittery Maine,Kittery,ME,(blank)
 KITTYHAWKNC.GOV,City,Non-Federal Agency,Town of Kitty Hawk,Kitty Hawk,NC,angela.vanover@kittyhawktown.net
 KNIGHTDALENC.GOV,City,Non-Federal Agency,Town of Knightdale,Knightdale,NC,phillip.bunton@knightdalenc.gov
@@ -1956,6 +1955,7 @@ OXFORD-CT.GOV,City,Non-Federal Agency,Town of Oxford Website Committee,Oxford,CT
 OXFORDAL.GOV,City,Non-Federal Agency,"City of Oxford, AL",Oxford,AL,(blank)
 OYSTERBAY-NY.GOV,City,Non-Federal Agency,Town of Oyster Bay,Oyster Bay,NY,(blank)
 OZARKAL.GOV,City,Non-Federal Agency,City of Ozark,Ozark,AL,(blank)
+PACIFICA.GOV,City,Non-Federal Agency,City of Pacifica,Pacifica,CA,helpdesk@ci.pacifica.ca.us
 PACIFICWA.GOV,City,Non-Federal Agency,City of Pacific,Pacific,WA,Lingraham@ci.pacific.wa.us
 PADUCAHKY.GOV,City,Non-Federal Agency,City of Paducah,Paducah,KY,gdowdy@paducahky.gov
 PAGEAZ.GOV,City,Non-Federal Agency,City of Page,Page,AZ,(blank)
@@ -2002,7 +2002,7 @@ PERRY-WI.GOV,City,Non-Federal Agency,Town of Perry,Mount Horeb,WI,(blank)
 PERRYSBURGOH.GOV,City,Non-Federal Agency,City of Perrysburg,Perrysburg,OH,(blank)
 PERRYTOWNSHIP-IN.GOV,City,Non-Federal Agency,Perry Township ,Indianapolis,IN,gcox@diversetechservices.com
 PETERBOROUGHNH.GOV,City,Non-Federal Agency,Town of Peterborough,Peterborough,NH,(blank)
-PETERSBURGAK.GOV,City,Non-Federal Agency,"City of Petersburg, Alaska",Petersburg,AK,(blank)
+PETERSBURGAK.GOV,City,Non-Federal Agency,"Petersburg Borough, Alaska",Petersburg,AK,(blank)
 PETERSBURGTN.GOV,City,Non-Federal Agency,Town of Petersburg,Petersburg,TN,jack@jackcathey.com
 PETERSBURGVA.GOV,City,Non-Federal Agency,city of petersburg,Petersburg,VA,(blank)
 PFLUGERVILLETX.GOV,City,Non-Federal Agency,City of Pflugerville,Pflugerville,TX,pfit@pflugervilletx.gov
@@ -2439,6 +2439,7 @@ STOW-MA.GOV,City,Non-Federal Agency,"Town of Stow, Massachusetts",Stow,MA,(blank
 STOWEVT.GOV,City,Non-Federal Agency,TOWN OF STOWE,Stowe,VT,support@stowevt.gov
 STPAUL.GOV,City,Non-Federal Agency,City of St Paul,Saint Paul,MN,OTC-CustomerService@ci.stpaul.mn.us
 STPAULSNC.GOV,City,Non-Federal Agency,Town of St Pauls,St. Pauls,NC,(blank)
+STRATFORDCT.GOV,City,Non-Federal Agency,Town of Stratford,Stratford,CT,mdownes@townofstratford.com
 STRATHAMNH.GOV,City,Non-Federal Agency,Town of Stratham,Stratham,NH,(blank)
 STSTEPHENPDSC.GOV,City,Non-Federal Agency,St Stephen Police Department,St Stephen,SC,(blank)
 STURBRIDGE.GOV,City,Non-Federal Agency,Town of Sturbridge,Sturbridge,MA,bbarry@town.sturbridge.ma.us
@@ -2958,6 +2959,7 @@ BREVARDFL.GOV,County,Non-Federal Agency,Brevard County Board of Commissioners,Vi
 BROOKINGSCOUNTYSD.GOV,County,Non-Federal Agency,Brookings County,Brookings,SD,splowman@brookingscountysd.gov
 BROOKSCOUNTYGA.GOV,County,Non-Federal Agency,Brooks County Board of Commissioners,Quitman,GA,brooksco@windstream.net
 BROOMECOUNTYNY.GOV,County,Non-Federal Agency,Broome County,Binghamton,NY,(blank)
+BROWARDCLERK.GOV,County,Non-Federal Agency,Broward County Clerk of Courts,Fort Lauderdale,FL,infosec@browardclerk.org
 BROWNCOUNTY-IN.GOV,County,Non-Federal Agency,Brown County Government,Nashville,IN,(blank)
 BROWNCOUNTYOHIO.GOV,County,Non-Federal Agency,Brown County Commissioners,Georgetown,OH,jeremy@1011.cc
 BROWNCOUNTYWI.GOV,County,Non-Federal Agency,Brown County Information Services,Green Bay,WI,security@browncountywi.gov
@@ -3443,7 +3445,7 @@ NOBLECOUNTYOHIO.GOV,County,Non-Federal Agency,Noble County,Caldwell,OH,(blank)
 NORTONCOUNTYKS.GOV,County,Non-Federal Agency,Norton County,Norton,KS,(blank)
 NWCLEANAIRWA.GOV,County,Non-Federal Agency,Northwest Clean Air Agency,Mount Vernon,WA,(blank)
 OAKLANDCOUNTYMI.GOV,County,Non-Federal Agency,Oakland County Michigan,Pontiac,MI,(blank)
-OBIONCOUNTYTN.GOV,County,Non-Federal Agency,Obion County Government,Union City,TN,info@ken-tennwireless.com
+OBIONCOUNTYTN.GOV,County,Non-Federal Agency,Obion County Government,Union City,TN,sorton@localgovcorp.com
 OCPONJ.GOV,County,Non-Federal Agency,Ocean County Prosecutor's Office,Toms River,NJ,ocpopress@co.ocean.nj.us
 OCSHERIFF.GOV,County,Non-Federal Agency,Orange County Sheriff-Coroner Department,Santa Ana,CA,webmaster@ocsd.org
 OGLETHORPECOUNTYGA.GOV,County,Non-Federal Agency,Oglethorpe County Board of Commissioners,Lexington,GA,supportteam@360smartnet.com
@@ -3672,6 +3674,7 @@ UTAHCOUNTY.GOV,County,Non-Federal Agency,Utah County Government,Provo,UT,(blank)
 VALLEYCOUNTYMT.GOV,County,Non-Federal Agency,Valley County Courthouse,Glasgow,MT,(blank)
 VANBURENCOUNTYIA.GOV,County,Non-Federal Agency,Van Buren County Iowa,Keosauqua,IA,(blank)
 VANBURENCOUNTYIOWA.GOV,County,Non-Federal Agency,"Van Buren County, Iowa",Keosauqua,IA,security@vbcoia.org
+VANBURENCOUNTYMI.GOV,County,Non-Federal Agency,Information Services,Paw Paw,MI,postmaster@vbco.org
 VANWERTCOUNTYOHIO.GOV,County,Non-Federal Agency,Van Wert County,Van Wert,OH,dperkins@vanwertcounty.org
 VILASCOUNTYWI.GOV,County,Non-Federal Agency,Vilas County Wisconsin,Eagle River,WI,administrator@vilascountywi.gov
 VINTONCOUNTYOHIO.GOV,County,Non-Federal Agency,Vinton County Commissioner's Office,McArthur,OH,(blank)
@@ -4134,7 +4137,7 @@ NATIONALHOUSINGLOCATOR.GOV,Federal Agency - Executive,Department of Housing and 
 NHL.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov
 NLS.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov
 OPPORTUNITYZONES.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov
-ADA.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
+ADA.GOV,Federal Agency - Executive,Department of Justice,Civil Rights Division,Washington,DC,Responsible_Disclosure@usdoj.gov
 AMBERALERT.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
 ATF.GOV,Federal Agency - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms, and Explosives",Washington,DC,Responsible_Disclosure@usdoj.gov
 ATFONLINE.GOV,Federal Agency - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms and Explosives",Washington,DC,Responsible_Disclosure@usdoj.gov
@@ -4147,13 +4150,13 @@ CAMPUSDRUGPREVENTION.GOV,Federal Agency - Executive,Department of Justice,Drug E
 CJIS.GOV,Federal Agency - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,Responsible_Disclosure@usdoj.gov
 CRIMESOLUTIONS.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Progrms (OJP)",Washinton ,DC,Responsible_Disclosure@usdoj.gov
 CRIMEVICTIMS.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD,Responsible_Disclosure@usdoj.gov
-CYBERCRIME.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov
-DEA.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
-DEAECOM.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
+CYBERCRIME.GOV,Federal Agency - Executive,Department of Justice,Criminal Division,Washington,DC,Responsible_Disclosure@usdoj.gov
+DEA.GOV,Federal Agency - Executive,Department of Justice,Drug Enforcement Administration,Washington,DC,Responsible_Disclosure@usdoj.gov
+DEAECOM.GOV,Federal Agency - Executive,Department of Justice,Drug Enforcement Administration,Washington,DC,Responsible_Disclosure@usdoj.gov
 DOJ.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
 DSAC.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, BI, Domestic Security Alliance Council (DSAC)",Potomac,MD,Responsible_Disclosure@usdoj.gov
 ELDERJUSTICE.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov
-EPIC.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
+EPIC.GOV,Federal Agency - Executive,Department of Justice,Drug Enforcement Administration,Washington,DC,Responsible_Disclosure@usdoj.gov
 FARA.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, National Security Division",Washington,DC,Responsible_Disclosure@usdoj.gov
 FBI.GOV,Federal Agency - Executive,Department of Justice,FBI,Washington,DC,Responsible_Disclosure@usdoj.gov
 FBIJOBS.GOV,Federal Agency - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,Responsible_Disclosure@usdoj.gov
@@ -4172,7 +4175,7 @@ JUVENILECOUNCIL.GOV,Federal Agency - Executive,Department of Justice,"U.S. Depar
 LEARNATF.GOV,Federal Agency - Executive,Department of Justice,ATF,Washington,DC,Responsible_Disclosure@usdoj.gov
 LEARNDOJ.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov
 LEO.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, FBI, LEO",Potomac,MD,Responsible_Disclosure@usdoj.gov
-LEP.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
+LEP.GOV,Federal Agency - Executive,Department of Justice,Civil Rights Division,Washington,DC,Responsible_Disclosure@usdoj.gov
 MALWAREINVESTIGATOR.GOV,Federal Agency - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,Responsible_Disclosure@usdoj.gov
 MEDALOFVALOR.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
 NAMUS.GOV,Federal Agency - Executive,Department of Justice,"U. S. Department of Justice, Office of Justice Programs",Potomac,MD,Responsible_Disclosure@usdoj.gov
@@ -4191,20 +4194,20 @@ OJP.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Jus
 OVC.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
 OVCTTAC.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
 PROJECTSAFECHILDHOOD.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
-PROJECTSAFENEIGHBORHOODS.GOV,Federal Agency - Executive,Department of Justice,Justice Data Center,Rockville,MD,Responsible_Disclosure@usdoj.gov
+PROJECTSAFENEIGHBORHOODS.GOV,Federal Agency - Executive,Department of Justice,Office of the Chief Information Officer,Washington,DC,Responsible_Disclosure@usdoj.gov
 PSOB.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD,Responsible_Disclosure@usdoj.gov
 RCFL.GOV,Federal Agency - Executive,Department of Justice,RCFL,McLean,VA,Responsible_Disclosure@usdoj.gov
 REENTRY.GOV,Federal Agency - Executive,Department of Justice,Federal Bureau of Prisons,Washington,DC,Responsible_Disclosure@usdoj.gov
 SCRA.GOV,Federal Agency - Executive,Department of Justice,U.S. Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov
 SERVICEMEMBERS.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Civil Rights Division",Potomac,MD,Responsible_Disclosure@usdoj.gov
 SMART.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs (OJP)",Washington,DC,Responsible_Disclosure@usdoj.gov
-STOPFRAUD.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
+STOPFRAUD.GOV,Federal Agency - Executive,Department of Justice,Office of the Chief Information Officer,Washington,DC,Responsible_Disclosure@usdoj.gov
 TRIBALJUSTICEANDSAFETY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD,Responsible_Disclosure@usdoj.gov
 UCRDATATOOL.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Washington,DC,Responsible_Disclosure@usdoj.gov
 UNICOR.GOV,Federal Agency - Executive,Department of Justice,Unicor,Washington,DC,Responsible_Disclosure@usdoj.gov
-USDOJ.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
+USDOJ.GOV,Federal Agency - Executive,Department of Justice,Office of the Chief Information Officer,Washington,DC,Responsible_Disclosure@usdoj.gov
 USERRA.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Civil Rights Division",Potpmac,MD,Responsible_Disclosure@usdoj.gov
-USMARSHALS.GOV,Federal Agency - Executive,Department of Justice,Department of Justice,Rockville,MD,Responsible_Disclosure@usdoj.gov
+USMARSHALS.GOV,Federal Agency - Executive,Department of Justice,U.S. Marshals Service,Washington,DC,Responsible_Disclosure@usdoj.gov
 VCF.GOV,Federal Agency - Executive,Department of Justice,U. S. Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov
 VEHICLEHISTORY.GOV,Federal Agency - Executive,Department of Justice,"U.S. Department of Justice, Office of Justice Programs",Potomac,MD,Responsible_Disclosure@usdoj.gov
 APPRENTICESHIP.GOV,Federal Agency - Executive,Department of Labor,Office of The Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov
@@ -4311,7 +4314,7 @@ SCIENCEBASE.GOV,Federal Agency - Executive,Department of the Interior,USGS/Denve
 SIERRAWILD.GOV,Federal Agency - Executive,Department of the Interior,Yosemite National Park,Yosemite,CA,NPS_CSIRT_Team@nps.gov
 USBR.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Reclamation,Denver,CO,itsecurity@usbr.gov
 USGS.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov
-UTAHFIREINFO.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management - Utah Fire Info Domain,Denver,CO,(blank)
+UTAHFIREINFO.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management - Utah Fire Info Domain,Denver,CO,blm_it_security@blm.gov
 VOLCANO.GOV,Federal Agency - Executive,Department of the Interior,US Geological Survey/Volcano Science Center,Vancouver,WA,mjrandall@usgs.gov
 VOLUNTEER.GOV,Federal Agency - Executive,Department of the Interior,National Park Service,Washington,DC,NPS_CSIRT_Team@nps.gov
 WATERMONITOR.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov
@@ -4460,7 +4463,7 @@ HELPAMERICAVOTE.GOV,Federal Agency - Executive,Election Assistance Commission,US
 VOTEBYMAIL.GOV,Federal Agency - Executive,Election Assistance Commission,U. S. ELECTION ASSISTANCE COMMISSION,Silver Spring,MD,security@eac.gov
 AIRNOW.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,EPA-CISO@epa.gov
 CBI-EPA.GOV,Federal Agency - Executive,Environmental Protection Agency,OEI/OTOP/NCC,Durham,NC,(blank)
-E-ENTERPRISE.GOV,Federal Agency - Executive,Environmental Protection Agency,United Sates Environmental Protection Agency,Washington,DC,(blank)
+E-ENTERPRISE.GOV,Federal Agency - Executive,Environmental Protection Agency,United Sates Environmental Protection Agency,Washington,DC,epa-ciso@epa.gov
 ENERGYSTAR.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,(blank)
 EPA.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Research Triangle Park,NC,EPA-CISO@epa.gov
 FEDCENTER.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,EPA-CISO@epa.gov
@@ -4502,11 +4505,11 @@ WHITEHOUSEDRUGPOLICY.GOV,Federal Agency - Executive,Executive Office of the Pres
 EXIM.GOV,Federal Agency - Executive,Export/Import Bank of the U.S.,Export-Import Bank of the United States,Washington,DC,soc_alerts@exim.gov
 FCA.GOV,Federal Agency - Executive,Farm Credit Administration,Office of Information Technology,McLean,VA,security_vdp@fca.gov
 FCSIC.GOV,Federal Agency - Executive,Farm Credit Administration,Farm Credit System Insurance Corporation,McLean,VA,securityvdp@fcsic.gov
-BROADBAND.GOV,Federal Agency - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,nsoc-monitor@fcc.gov
-DTV.GOV,Federal Agency - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,nsoc-monitor@fcc.gov
+BROADBAND.GOV,Federal Agency - Executive,Federal Communications Commission,Information Technology Center,Washington,DC,nsoc-monitor@fcc.gov
+DTV.GOV,Federal Agency - Executive,Federal Communications Commission,Information Technology Center,Washington,DC,nsoc-monitor@fcc.gov
 FCC.GOV,Federal Agency - Executive,Federal Communications Commission,Information Technology Center,Washington,DC,nsoc-monitor@fcc.gov
-LIFELINE.GOV,Federal Agency - Executive,Federal Communications Commission,FCC,Washington,DC,nsoc-monitor@fcc.gov
-OPENINTERNET.GOV,Federal Agency - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,nsoc-monitor@fcc.gov
+LIFELINE.GOV,Federal Agency - Executive,Federal Communications Commission,Information Technology Center,Washington,DC,nsoc-monitor@fcc.gov
+OPENINTERNET.GOV,Federal Agency - Executive,Federal Communications Commission,Information Technology Center,Washington,DC,nsoc-monitor@fcc.gov
 ECONOMICINCLUSION.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,NetworkOps@fdic.gov
 FDIC.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,NetworkOps@fdic.gov
 FDICCONNECT.GOV,Federal Agency - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,NetworkOps@fdic.gov
@@ -4597,7 +4600,7 @@ FAPIIS.GOV,Federal Agency - Executive,General Services Administration,"GSA, IQ, 
 FBF.GOV,Federal Agency - Executive,General Services Administration,"GSA, IQ-CAP",Washington,DC,gsa-vulnerability-reports@gsa.gov
 FBO.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC, Acquisition",Arlington,VA,gsa-vulnerability-reports@gsa.gov
 FDMS.GOV,Federal Agency - Executive,General Services Administration,"GSA, IQ, eRulemaking",Washington,DC,gsa-vulnerability-reports@gsa.gov
-FED.US,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,(blank)
+FED.US,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,gsa-vulnerability-reports@gsa.gov
 FEDBIZOPPS.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Arlington,VA,gsa-vulnerability-reports@gsa.gov
 FEDIDCARD.GOV,Federal Agency - Executive,General Services Administration,"GSA, IQ, CAT",Washington,DC,gsa-vulnerability-reports@gsa.gov
 FEDINFO.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC",Washington,DC,gsa-vulnerability-reports@gsa.gov
@@ -4653,7 +4656,7 @@ SECTION508.GOV,Federal Agency - Executive,General Services Administration,"GSA, 
 SFTOOL.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Chicago,IL,gsa-vulnerability-reports@gsa.gov
 US.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov
 USA.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov
-USABILITY.GOV,Federal Agency - Executive,General Services Administration,U.S. General Services Administration,Washington,DC,(blank)
+USABILITY.GOV,Federal Agency - Executive,General Services Administration,U.S. General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov
 USAGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov
 USSM.GOV,Federal Agency - Executive,General Services Administration,"GSA, OGP, Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov
 VOTE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov
@@ -4769,7 +4772,7 @@ UNLOCKTALENT.GOV,Federal Agency - Executive,Office of Personnel Management,OPM E
 USAJOBS.GOV,Federal Agency - Executive,Office of Personnel Management,OPM Human Resource Solutions,Washington,DC,kevin.crews@opm.gov
 USALEARNING.GOV,Federal Agency - Executive,Office of Personnel Management,OPM Center for Leadership Development,Washington,DC,kevin.crews@opm.gov
 USASTAFFING.GOV,Federal Agency - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,kevin.crews@opm.gov
-PBGC.GOV,Federal Agency - Executive,Pension Benefit Guaranty Corporation,Pension Benefit Guaranty Corporation,Washington,DC,INFO-USCERT@pbgc.gov
+PBGC.GOV,Federal Agency - Executive,Pension Benefit Guaranty Corporation,Office of Information Technology,Washington,DC,INFO-USCERT@pbgc.gov
 PRC.GOV,Federal Agency - Executive,Postal Regulatory Commission,Postal Regulatory Commission,Washington,DC,itsecure@prc.gov
 PRESIDIO.GOV,Federal Agency - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,securitycontact@presidiotrust.gov
 PRESIDIOTRUST.GOV,Federal Agency - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,securitycontact@presidiotrust.gov
@@ -6037,7 +6040,6 @@ OKLOFT.GOV,State,Non-Federal Agency,Oklahoma Legislative Service Bureau,Oklahoma
 OKSENATE.GOV,State,Non-Federal Agency,Legislative Service Bureau,Oklahoma City,OK,ngo@oklegislature.gov
 OPEN-DC.GOV,State,Non-Federal Agency,Board of Ethics and Government Accountability,Washington,DC,open.govoffice@dc.gov
 OPENMYFLORIDABUSINESS.GOV,State,Non-Federal Agency,Florida Department of Business and Professional Regulation,Tallahassee,FL,DBPRSecurity@myfloridalicense.com
-OPENOHIO.GOV,State,Non-Federal Agency,State of Ohio,Columbus,OH,(blank)
 OPENWALLETFL.GOV,State,Non-Federal Agency,Florida Department of Financial Services,Tallahassee,FL,clint.morrow@myfloridacfo.com
 OPENWALLETFLORIDA.GOV,State,Non-Federal Agency,Florida Department of Financial Services,Tallahassee,FL,clint.morrow@myfloridacfo.com
 OR-MEDICAID.GOV,State,Non-Federal Agency,State of Oregon,Salem,OR,(blank)
