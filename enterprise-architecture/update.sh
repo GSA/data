@@ -11,7 +11,7 @@ git checkout origin/master
 git checkout -b $BRANCH
 
 set +e
-JSON=$(curl https://ea.gsa.gov/api/v0/itstandards)
+JSON=$(curl --insecure https://ea.gsa.gov/api/v0/itstandards)
 if [ $? -ne 0 ]; then
   echo "ERROR: Unable to reach ea.gsa.gov. Are you connected to the GSA network?"
   exit 1
