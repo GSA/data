@@ -148,7 +148,7 @@ MTMC.GOV,Federal Agency - Executive,Department of Defense,Department of Defense,
 MYPAY.GOV,Federal Agency - Executive,Department of Defense,Defense Finance and Accounting Service,Pensacola,FL,(blank)
 NATIONALRESOURCEDIRECTORY.GOV,Federal Agency - Executive,Department of Defense,OFFICE OF WARRIOR CARE POLICY,Arlington,VA,(blank)
 NRD.GOV,Federal Agency - Executive,Department of Defense,OFFICE OF WARRIOR CARE POLICY,Arlington,VA,(blank)
-NRO.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,hugheysh@nro.ic.gov
+NRO.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,bakersir@nro.mil
 NROJR.GOV,Federal Agency - Executive,Department of Defense,NRO,Chantilly,VA,hugheysh@nro.ic.gov
 NSA.GOV,Federal Agency - Executive,Department of Defense,NSA,Fort Meade,MD,(blank)
 NSEP.GOV,Federal Agency - Executive,Department of Defense,National Security Education Program (NSEP) at DLNSEO,Alexandria,VA,(blank)
@@ -179,7 +179,7 @@ CEBAF.GOV,Federal Agency - Executive,Department of Energy,Thomas Jefferson Natio
 CENDI.GOV,Federal Agency - Executive,Department of Energy,Department of Energy - OSTI,Oak Ridge,TN,(blank)
 DOE.GOV,Federal Agency - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,(blank)
 DOEAL.GOV,Federal Agency - Executive,Department of Energy,NNSA,Albuquerque,NM,(blank)
-EIA.GOV,Federal Agency - Executive,Department of Energy,Energy Information Administration,Washington,DC,Jarnail.Singh@eia.gov
+EIA.GOV,Federal Agency - Executive,Department of Energy,Energy Information Administration,Washington,DC,Nathaniel.Miller@eia.gov
 ENERGY.GOV,Federal Agency - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,(blank)
 ENERGYCODES.GOV,Federal Agency - Executive,Department of Energy,Department of Energy Bulding Energy Codes Program,Richland,WA,(blank)
 ENERGYSAVER.GOV,Federal Agency - Executive,Department of Energy,Department of Energy,Washington,DC,(blank)
@@ -229,14 +229,14 @@ YMP.GOV,Federal Agency - Executive,Department of Energy,Office of Civilian Radio
 ACF.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov
 ACL.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
 AFTERSCHOOL.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov
-AGING.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
+AGING.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living to Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
 AGINGSTATS.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
 AHCPR.GOV,Federal Agency - Executive,Department of Health and Human Services,Agency for Healthcare Research and Quality,Rockville,MD,SecureAHRQ@ahrq.hhs.gov
 AHRQ.GOV,Federal Agency - Executive,Department of Health and Human Services,Agency for Healthcare Research and Quality,Rockville,MD,SecureAHRQ@ahrq.hhs.gov
 AIDS.GOV,Federal Agency - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov
 ALZHEIMERS.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Institutes on Aging, NIH",Bethesda,MD,NIAISSO@nih.gov
 AOA.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
-BAM.GOV,Federal Agency - Executive,Department of Health and Human Services,Health and Human Services,Atlanta,GA,ResponsibleDisclosure@hhs.gov
+BAM.GOV,Federal Agency - Executive,Department of Health and Human Services,Center for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
 BETOBACCOFREE.GOV,Federal Agency - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,FDASystemsManagementCenter@fda.gov
 BIOETHICS.GOV,Federal Agency - Executive,Department of Health and Human Services,"President’s Council on Bioethics, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov
 BRAINHEALTH.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Institutes on Aging, NIH",Bethesda,MD,hostmaster@nih.gov
@@ -267,7 +267,7 @@ FITNESS.GOV,Federal Agency - Executive,Department of Health and Human Services,O
 FLU.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,responsibledisclosure@hhs.gov
 FOODSAFETY.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
 FRESHEMPIRE.GOV,Federal Agency - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,FDASystemsManagementCenter@fda.gov
-FRUITSANDVEGGIESMATTER.GOV,Federal Agency - Executive,Department of Health and Human Services,Health and Human Services,Washington,DC,ResponsibleDisclosure@hhs.gov
+FRUITSANDVEGGIESMATTER.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
 GENOME.GOV,Federal Agency - Executive,Department of Health and Human Services,National Institutes of Health,Bethesda,MD,responsibledisclosure@hhs.gov
 GIRLSHEALTH.GOV,Federal Agency - Executive,Department of Health and Human Services,"Office of Public Health and Science, Office on Women's Health",Washington,DC,responsibledisclosure@hhs.gov
 GLOBALHEALTH.GOV,Federal Agency - Executive,Department of Health and Human Services,"Office of Global Affairs, Office of the Secretary",Rockville,MD,responsibledisclosure@hhs.gov
@@ -315,7 +315,7 @@ PSC.GOV,Federal Agency - Executive,Department of Health and Human Services,"Prog
 PUBMED.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov
 RECOVERYMONTH.GOV,Federal Agency - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
 SAMHSA.GOV,Federal Agency - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
-SELECTAGENTS.GOV,Federal Agency - Executive,Department of Health and Human Services,Department of Health and Human Services,Washington,DC,ResponsibleDisclosure@hhs.gov
+SELECTAGENTS.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
 SMOKEFREE.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Cancer Institute, NIH",Rockville,MD,responsibledisclosure@hhs.gov
 STOPALCOHOLABUSE.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,responsibledisclosure@hhs.gov
 STOPBULLYING.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
@@ -702,9 +702,9 @@ EAC.GOV,Federal Agency - Executive,Election Assistance Commission,Election Assis
 HELPAMERICAVOTE.GOV,Federal Agency - Executive,Election Assistance Commission,US Election Assistance Commission,Silver Spring,MD,security@eac.gov
 VOTEBYMAIL.GOV,Federal Agency - Executive,Election Assistance Commission,U. S. ELECTION ASSISTANCE COMMISSION,Silver Spring,MD,security@eac.gov
 AIRNOW.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,EPA-CISO@epa.gov
-CBI-EPA.GOV,Federal Agency - Executive,Environmental Protection Agency,OEI/OTOP/NCC,Durham,NC,(blank)
+CBI-EPA.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,epa-ciso@epa.gov
 E-ENTERPRISE.GOV,Federal Agency - Executive,Environmental Protection Agency,United Sates Environmental Protection Agency,Washington,DC,epa-ciso@epa.gov
-ENERGYSTAR.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,(blank)
+ENERGYSTAR.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,epa-ciso@epa.gov
 EPA.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Research Triangle Park,NC,EPA-CISO@epa.gov
 FEDCENTER.GOV,Federal Agency - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,EPA-CISO@epa.gov
 FOIAONLINE.GOV,Federal Agency - Executive,Environmental Protection Agency,US Environmental Protection Agency,Washington,DC,(blank)
@@ -1033,7 +1033,7 @@ SSA.GOV,Federal Agency - Executive,Social Security Administration,SSA/OSOHE/Divi
 SSAB.GOV,Federal Agency - Executive,Social Security Advisory Board,Social Security Advisory Board,Washington,DC,admin@ssab.gov
 SJI.GOV,Federal Agency - Executive,State Justice Institute,State Justice Institute,Reston,VA,(blank)
 STB.GOV,Federal Agency - Executive,Surface Transportation Board,Surface Transportation Board,Washington,DC,ITSecurity.Staff@stb.gov
-TVA.GOV,Federal Agency - Executive,Tennessee Valley Authority,TVA IT,Knoxville,TN,assessmentstesting@tva.gov
+TVA.GOV,Federal Agency - Executive,Tennessee Valley Authority,TVA IT,Knoxville,TN,vdp@tva.gov
 TVAOIG.GOV,Federal Agency - Executive,Tennessee Valley Authority,Tennessee Valley Authority Office of Inspector General,Knoxville,TN,oigittechs@tvaoig.gov
 TSC.GOV,Federal Agency - Executive,Terrorist Screening Center,Terrorist Screening Center,Washington,DC,(blank)
 PTF.GOV,Federal Agency - Executive,The Intelligence Community,Prosecution Task Force,Washington,DC,(blank)
