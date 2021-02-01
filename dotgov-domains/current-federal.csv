@@ -230,7 +230,7 @@ YMP.GOV,Federal Agency - Executive,Department of Energy,Office of Legacy Managem
 ACF.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov
 ACL.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
 AFTERSCHOOL.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov
-AGING.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living to Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
+AGING.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
 AGINGSTATS.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
 AHCPR.GOV,Federal Agency - Executive,Department of Health and Human Services,Agency for Healthcare Research and Quality,Rockville,MD,SecureAHRQ@ahrq.hhs.gov
 AHRQ.GOV,Federal Agency - Executive,Department of Health and Human Services,Agency for Healthcare Research and Quality,Rockville,MD,SecureAHRQ@ahrq.hhs.gov
@@ -260,7 +260,7 @@ DRUGABUSE.GOV,Federal Agency - Executive,Department of Health and Human Services
 EDISON.GOV,Federal Agency - Executive,Department of Health and Human Services,National Institutes of Health,Bethesda,MD,(blank)
 ELDERCARE.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
 ENDINGTHEDOCUMENTGAME.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov
-EVERYTRYCOUNTS.GOV,Federal Agency - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,FDASystemsManagementCenter@fda.gov
+EVERYTRYCOUNTS.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Cancer Institute, NIH",Rockville,MD,responsibledisclosure@hhs.gov
 FATHERHOOD.GOV,Federal Agency - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov
 FDA.GOV,Federal Agency - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,FDASystemsManagementCenter@fda.gov
 FINDTREATMENT.GOV,Federal Agency - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
@@ -289,7 +289,7 @@ HHS.GOV,Federal Agency - Executive,Department of Health and Human Services,Offic
 HHSOIG.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Inspector General,Washington,DC,responsibledisclosure@hhs.gov
 HHSOPS.GOV,Federal Agency - Executive,Department of Health and Human Services,"Program Support Center, Office of the Secretary",Rockville,MD,responsibledisclosure@hhs.gov
 HIV.GOV,Federal Agency - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov
-HRSA.GOV,Federal Agency - Executive,Department of Health and Human Services,Health Resources and Services Administration,Rockville,MD,hrsasoc@hrsa.gov
+HRSA.GOV,Federal Agency - Executive,Department of Health and Human Services,Health Resources and Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
 IDEALAB.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
 IEDISON.GOV,Federal Agency - Executive,Department of Health and Human Services,National Institutes of Health,Bethesda,MD,(blank)
 IHS.GOV,Federal Agency - Executive,Department of Health and Human Services,Indian Health Service / Office of IT,Albuquerque,NM,responsibledisclosure@hhs.gov
@@ -317,9 +317,9 @@ PUBMED.GOV,Federal Agency - Executive,Department of Health and Human Services,"N
 RECOVERYMONTH.GOV,Federal Agency - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
 SAMHSA.GOV,Federal Agency - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
 SELECTAGENTS.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
-SIMPLEREPORT.GOV,Federal Agency - Executive,Department of Health and Human Services,Department of Health and Human Services,Washington,DC,ResponsibleDisclosure@hhs.gov
+SIMPLEREPORT.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
 SMOKEFREE.GOV,Federal Agency - Executive,Department of Health and Human Services,"National Cancer Institute, NIH",Rockville,MD,responsibledisclosure@hhs.gov
-STOPALCOHOLABUSE.GOV,Federal Agency - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,responsibledisclosure@hhs.gov
+STOPALCOHOLABUSE.GOV,Federal Agency - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
 STOPBULLYING.GOV,Federal Agency - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov
 SURGEONGENERAL.GOV,Federal Agency - Executive,Department of Health and Human Services,"Office of the Surgeon General, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov
 THEREALCOST.GOV,Federal Agency - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,FDASystemsManagementCenter@fda.gov
@@ -493,7 +493,7 @@ USCONSULATE.GOV,Federal Agency - Executive,Department of State,Bureau of Global 
 USDOSCLOUD.GOV,Federal Agency - Executive,Department of State,Bureau of Information Resources Management (IRM),Washington,DC,underwooded@state.gov
 USEMBASSY.GOV,Federal Agency - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov
 USMISSION.GOV,Federal Agency - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov
-WGDP.GOV,Federal Agency - Executive,Department of State,Executive Office of the President,Washington,DC,(blank)
+WGDP.GOV,Federal Agency - Executive,Department of State,U.S. Department of State ,Washington,DC,(blank)
 STATEOIG.GOV,Federal Agency - Executive,"Department of State, Office of Inspector General","Office of the Inspector General, Department of State",Arlington,VA,security@stateoig.gov
 ABANDONEDMINES.GOV,Federal Agency - Executive,Department of the Interior,Bureau of Land Management,Washington,DC,blm_it_security@blm.gov
 ACWI.GOV,Federal Agency - Executive,Department of the Interior,Advisory Committee on Water Information,Reston,VA,security@usgs.gov
@@ -547,8 +547,8 @@ NIFC.GOV,Federal Agency - Executive,Department of the Interior,National Interage
 NPS.GOV,Federal Agency - Executive,Department of the Interior,National Park Service,Washington,DC,NPS_CSIRT_Team@nps.gov
 ONHIR.GOV,Federal Agency - Executive,Department of the Interior,Office of Navajo and Hopi Indian Relocation,Flagstaff,AZ,support@flagstaffit.com
 ONRR.GOV,Federal Agency - Executive,Department of the Interior,Minerals Management Service,Herndon,VA,bseecirc@bsee.gov
-OSM.GOV,Federal Agency - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,(blank)
-OSMRE.GOV,Federal Agency - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,(blank)
+OSM.GOV,Federal Agency - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,OSM-Cyber-Security@osmre.gov
+OSMRE.GOV,Federal Agency - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,OSM-Cyber-Security@osmre.gov
 PIEDRASBLANCAS.GOV,Federal Agency - Executive,Department of the Interior,Piedras Blancas Light Station,Sacramento,CA,blm_it_security@blm.gov
 REPORTBAND.GOV,Federal Agency - Executive,Department of the Interior,USGS Bird Banding Laboratory,Laurel,MD,security@usgs.gov
 RIVERS.GOV,Federal Agency - Executive,Department of the Interior,DOI - U.S. Fish and Wildlife Service,Burbank,WA,soc@fws.gov
