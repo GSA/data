@@ -6,6 +6,10 @@
 * [2016 End of Term Web Archive](https://github.com/end-of-term/eot2016/blob/master/seed-lists/eot_2016_bulk_seeds_test_report.txt) - ~
 * One Month of DNS Records from the .Gov Registry, 3rd Level Only (Link Coming) - ~10,000
 
+## Process
+* The various datasets are downloaded and a static copy is stored [in this repository](https://github.com/GSA/data/tree/master/dotgov-websites/site-scanning/gathering/data).  
+* They are then combined and deduped.  
+
 
 ## Other Potential Datasets
 
