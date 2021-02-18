@@ -40,7 +40,7 @@ ALLENTOWNPA.GOV,City,Non-Federal Agency,City of Allentown,Allentown,PA,(blank)
 ALLIANCEOH.GOV,City,Non-Federal Agency,City of Alliance,Alliance,OH,(blank)
 ALMAARKANSAS.GOV,City,Non-Federal Agency,City of Alma,Alma,AR,cityinfo@cityofalma.org
 ALMONTMICHIGAN.GOV,City,Non-Federal Agency,Village of Almont,Almont,MI,(blank)
-ALTAVISTAVA.GOV,City,Non-Federal Agency,Town of Altavista,Altavista,VA,(blank)
+ALTAVISTAVA.GOV,City,Non-Federal Agency,Town of Altavista,Altavista,VA,tcshelton@altavistava.gov
 ALTON-TX.GOV,City,Non-Federal Agency,City of Alton,Alton,TX,(blank)
 ALTOONAPA.GOV,City,Non-Federal Agency,City of Altoona,Altoona,PA,(blank)
 ALTUSOK.GOV,City,Non-Federal Agency,City of Altus,Altus,OK,(blank)
@@ -241,6 +241,7 @@ BLOOMFIELDNM.GOV,City,Non-Federal Agency,"City of Bloomfield, NM",Bloomfield,NM,
 BLOOMINGDALE-GA.GOV,City,Non-Federal Agency,City of Bloomingdale,Bloomingdale,GA,(blank)
 BLOOMINGGROVE-NY.GOV,City,Non-Federal Agency,TOWN OF BLOOMING GROVE,BLOOMING GROVE,NY,(blank)
 BLOOMINGTONMN.GOV,City,Non-Federal Agency,City of Bloomington,Bloomington,MN,(blank)
+BLUFFCITYTN.GOV,City,Non-Federal Agency,City of Bluff City Tennessee,City of Bluff City,TN,bcmayor.citymanagerirenewells@gmail.com
 BLUFFTONINDIANA.GOV,City,Non-Federal Agency,Bluffton Police Department,Bluffton,IN,(blank)
 BOCARATON-FL.GOV,City,Non-Federal Agency,City of Boca Raton,Boca Raton,FL,(blank)
 BOERNE-TX.GOV,City,Non-Federal Agency,CITY OF BOERNE,BOERNE,TX,(blank)
@@ -570,14 +571,13 @@ CITYOFPHOENIX.GOV,City,Non-Federal Agency,City of Phoenix,Phoenix,AZ,(blank)
 CITYOFPIGEONFORGETN.GOV,City,Non-Federal Agency,City of Pigeon Forge,Pigeon Forge,TN,(blank)
 CITYOFPINEBLUFF-AR.GOV,City,Non-Federal Agency,City of Pine Bluff,Pine Bluff,AR,tjefferson@cityofpinebluff.com
 CITYOFPLAINVILLE-KS.GOV,City,Non-Federal Agency,City of Plainville Kansas,Plainville,KS,(blank)
-CITYOFPLATTSBURGH-NY.GOV,City,Non-Federal Agency,City of Plattsburgh,Plattsburgh,NY,(blank)
+CITYOFPLATTSBURGH-NY.GOV,City,Non-Federal Agency,City of Plattsburgh,Plattsburgh,NY,morsec@cityofplattsburgh-ny.gov
 CITYOFPLEASANTONCA.GOV,City,Non-Federal Agency,City of Pleasanton,Pleasanton,CA,webrequest@cityofpleasantonca.gov
 CITYOFPORTLANDTN.GOV,City,Non-Federal Agency,City of Portland,Portland,TN,(blank)
 CITYOFREDMOND.GOV,City,Non-Federal Agency,City of Redmond,Redmond,WA,(blank)
 CITYOFRINGGOLDGA.GOV,City,Non-Federal Agency,City of Ringgold,Ringgold,GA,(blank)
 CITYOFROCHESTER.GOV,City,Non-Federal Agency,City Of Rochester,Rochester,NY,(blank)
 CITYOFROCKHILLSC.GOV,City,Non-Federal Agency,City of Rock Hill,Rock Hill,SC,(blank)
-CITYOFROCKPORT-IN.GOV,City,Non-Federal Agency,City of Rockport,Rockport,IN,(blank)
 CITYOFROGERSTX.GOV,City,Non-Federal Agency,City of Rogers,Rogers,TX,cityadmin@CityofRogers.onmicrosoft.com
 CITYOFSALEMNJ.GOV,City,Non-Federal Agency,City of Salem,Salem,NJ,(blank)
 CITYOFSANAUGUSTINETX.GOV,City,Non-Federal Agency,City of San Augustine,San Augustine,TX,info@cityofsanaugustinetx.gov
@@ -779,6 +779,7 @@ DEPORTTEXAS.GOV,City,Non-Federal Agency,City of Deport,Deport,TX,johnmark@johnma
 DERBYCT.GOV,City,Non-Federal Agency,City of Derby,Derby,CT,(blank)
 DESMOINESWA.GOV,City,Non-Federal Agency,City of Des Moines,Des Moines,WA,(blank)
 DESOTOTEXAS.GOV,City,Non-Federal Agency,City of DeSoto,DeSoto,TX,HelpDesk@desototexas.gov
+DETROIT.GOV,City,Non-Federal Agency,City of Detroit,Detroit,MI,CyberSecurityTeam@detroitmi.gov
 DETROITMI.GOV,City,Non-Federal Agency,City of Detroit - ITSD,Detroit,MI,infosec@detroitmi.gov
 DEWITTAR.GOV,City,Non-Federal Agency,City of DeWitt,DeWitt,AR,(blank)
 DEXTERMI.GOV,City,Non-Federal Agency,Village of Dexter,Dexter,MI,(blank)
@@ -833,7 +834,7 @@ EASTFISHKILLNY.GOV,City,Non-Federal Agency,Town Of East Fishkill,Hopewell Juncti
 EASTHAM-MA.GOV,City,Non-Federal Agency,Town of Eastham,Eastham,MA,mis@eastham-ma.gov
 EASTHAMPTONCT.GOV,City,Non-Federal Agency,Town of East Hampton,East Hampton,CT,(blank)
 EASTHAMPTONMA.GOV,City,Non-Federal Agency,City of Easthampton,Easthampton,MA,(blank)
-EASTHAMPTONNY.GOV,City,Non-Federal Agency,The Trustees of the Town of East Hampton,Amagansett,NY,btaylor@ehamptonny.gov
+EASTHAMPTONNY.GOV,City,Non-Federal Agency,The Trustees of the Town of East Hampton,Amagansett,NY,Trustees@ehamptonny.gov
 EASTHAMPTONVILLAGENY.GOV,City,Non-Federal Agency,Incorporated Village Of East Hampton,East Hampton,NY,security@easthamptonvillageny.gov
 EASTHARTFORDCT.GOV,City,Non-Federal Agency,Town of East Hartford,East Hartford,CT,(blank)
 EASTKINGSTONNH.GOV,City,Non-Federal Agency,Town of East Kingston NH,East Kingston,NH,(blank)
@@ -935,6 +936,7 @@ FAIRMOUNTHEIGHTSMD.GOV,City,Non-Federal Agency,Town of Fairmount Heights,Fairmou
 FAIRVIEWNC.GOV,City,Non-Federal Agency,Fairview Town Council,Monroe,NC,(blank)
 FAIRVIEWOREGON.GOV,City,Non-Federal Agency,City of Fairview,Fairview,OR,(blank)
 FAIRVIEWTN.GOV,City,Non-Federal Agency,City of Fairview,Fairview,TN,security@fairview-tn.org
+FALCONERNY.GOV,City,Non-Federal Agency,Village of Falconer,Falconer,NY,jjaroszynski@villageoffalconer.com
 FALLCREEKWI.GOV,City,Non-Federal Agency,Village of Fall Creek,Fall Creek,WI,kmeinholz@fallcreekwi.gov
 FALLONNEVADA.GOV,City,Non-Federal Agency,City of Fallon,Fallon,NV,austin@theabbiagency.com
 FALLSCHURCHCITYVA.GOV,City,Non-Federal Agency,City of Falls Church,Falls Church,VA,cfcsupport@fallschurchva.gov
@@ -1313,6 +1315,7 @@ IRONTONMO.GOV,City,Non-Federal Agency,City of Ironton,Ironton,MO,(blank)
 IRVINECA.GOV,City,Non-Federal Agency,City of Irvine,Irvine,CA,(blank)
 IRVINGTONNY.GOV,City,Non-Federal Agency,Village of Irvington,Irvington,NY,(blank)
 IRWINDALECA.GOV,City,Non-Federal Agency,City of Irwindale,Irwindale,CA,jwagner@irwindaleca.gov
+ISLANDHEIGHTSBOROUGH.GOV,City,Non-Federal Agency,Borough of Island Heights,Island Heights,NJ,clerkislandheights@gmail.com
 ISLANDLAKEIL.GOV,City,Non-Federal Agency,Village of Island Lake,Island Lake,IL,(blank)
 ISLIP-NY.GOV,City,Non-Federal Agency,Town of Islip,Islip,NY,(blank)
 ISLIPNY.GOV,City,Non-Federal Agency,Town of Islip,Islip,NY,(blank)
@@ -1577,7 +1580,7 @@ MAGGIEVALLEYNC.GOV,City,Non-Federal Agency,Town of Maggie Valley,Maggie Valley,N
 MAHARISHIVEDICCITY-IOWA.GOV,City,Non-Federal Agency,Maharishi Vedic City,Maharishi Vedic City,IA,(blank)
 MAHOMET-IL.GOV,City,Non-Federal Agency,Village of Mahomet,Mahomet,IL,(blank)
 MAHWAH-NJ.GOV,City,Non-Federal Agency,Township of Mahwah,Mahwah,NJ,(blank)
-MAIDENNC.GOV,City,Non-Federal Agency,Town of Maiden,Maiden,NC,(blank)
+MAIDENNC.GOV,City,Non-Federal Agency,Town of Maiden,Maiden,NC,thawn@maidennc.gov
 MALIBU-CA.GOV,City,Non-Federal Agency,City of Malibu,Malibu,CA,(blank)
 MALVERNAR.GOV,City,Non-Federal Agency,City of Malvern,Malvern,AR,abuse@malvernar.gov
 MANASQUAN-NJ.GOV,City,Non-Federal Agency,BOROUGH OF MANASQUAN,MANASQUAN,NJ,(blank)
@@ -1645,6 +1648,7 @@ MCTX.GOV,City,Non-Federal Agency,City of Missouri City,Missouri City,TX,(blank)
 MEADOWSPLACETX.GOV,City,Non-Federal Agency,City of Meadows Place,Meadows Place,TX,support@cityofmeadowsplace.org
 MECHANICVILLENY.GOV,City,Non-Federal Agency,"City of Mechanicville, NY",Mechanicville,NY,(blank)
 MEDFORD-MA.GOV,City,Non-Federal Agency,City of Medford,Medford,MA,(blank)
+MEDFORDOREGON.GOV,City,Non-Federal Agency,"City of Medford, Oregon",Medford,OR,comnoc@cityofmedford.org
 MEDINA-WA.GOV,City,Non-Federal Agency,City of Medina,Medina,WA,(blank)
 MEDINAMN.GOV,City,Non-Federal Agency,"City of Medina, Minnesota",Medina,MN,techsecurity@medinamn.gov
 MEMPHISTN.GOV,City,Non-Federal Agency,"City of Memphis, TN",Memphis,TN,augustine.boateng@memphistn.gov
@@ -1840,7 +1844,7 @@ NEWPORTBEACH-CA.GOV,City,Non-Federal Agency,City of Newport Beach,Newport Beach,
 NEWPORTBEACHCA.GOV,City,Non-Federal Agency,City of Newport Beach,Newport Beach,CA,mwojo@newportbeachca.gov
 NEWPORTKY.GOV,City,Non-Federal Agency,"City of Newport, Kentucky",Newport,KY,(blank)
 NEWPORTNC.GOV,City,Non-Federal Agency,"Town of Newport, NC",Newport,NC,manager@townofnewport.com
-NEWPORTNEWSVA.GOV,City,Non-Federal Agency,City of Newport News,Newport News,VA,(blank)
+NEWPORTNEWSVA.GOV,City,Non-Federal Agency,City of Newport News,Newport News,VA,it-security@nnva.gov
 NEWPORTNH.GOV,City,Non-Federal Agency,Town of Newport,Newport,NH,(blank)
 NEWPORTOREGON.GOV,City,Non-Federal Agency,City of Newport,Newport,OR,(blank)
 NEWRICHMONDWI.GOV,City,Non-Federal Agency,City of New Richmond,New Richmond ,WI,(blank)
@@ -1853,6 +1857,7 @@ NEWTOWN-CT.GOV,City,Non-Federal Agency,"Town of Newtown, CT",Newtown,CT,(blank)
 NEWTOWNOHIO.GOV,City,Non-Federal Agency,Village of Newtown,Newtown,OH,(blank)
 NEWTOWNPA.GOV,City,Non-Federal Agency,Newtown Township,Newtown,PA,(blank)
 NEWULMMN.GOV,City,Non-Federal Agency,City of New Ulm,New Ulm,MN,(blank)
+NEWWATERFORD-OH.GOV,City,Non-Federal Agency,The Village of New Waterford,New Waterford,OH,kent@csctechnology.net
 NEWWINDSOR-NY.GOV,City,Non-Federal Agency,Town of New Windsor,New Windsor,NY,jmcdonald@newwindsor-ny.gov
 NEWWINDSORMD.GOV,City,Non-Federal Agency,Town of New Windsor,New Windsor,MD,(blank)
 NIAGARAFALLSNY.GOV,City,Non-Federal Agency,City of Niagara Falls,Niagara Falls,NY,(blank)
@@ -1864,7 +1869,7 @@ NINETYSIXSC.GOV,City,Non-Federal Agency,Town Of Ninety SIX,Ninety SIX,SC,(blank)
 NINNEKAHOK.GOV,City,Non-Federal Agency,Town of Ninnekah,NINNEKAH,OK,n.dietrich@ninnekahok.gov
 NISSEQUOGUENY.GOV,City,Non-Federal Agency,Village of Nissequogue,St. James,NY,(blank)
 NIXAMO.GOV,City,Non-Federal Agency,City of Nixa,Nixa,MO,(blank)
-NNVA.GOV,City,Non-Federal Agency,City of Newport News,Newport News,VA,jmountjoy@nnva.gov
+NNVA.GOV,City,Non-Federal Agency,City of Newport News,Newport News,VA,it-security@nnva.gov
 NOGALESAZ.GOV,City,Non-Federal Agency,City of Nogales,Nogales,AZ,(blank)
 NOLA.GOV,City,Non-Federal Agency,City of New Orleans,New Orleans,LA,(blank)
 NOLA311.GOV,City,Non-Federal Agency,New Orleans 311,New Orleans,LA,karlf@911nola.org
@@ -1924,6 +1929,7 @@ NYC-NY.GOV,City,Non-Federal Agency,NYC Department of Information Technology and 
 NYC.GOV,City,Non-Federal Agency,NYC Department of Information Technology and Telecommunications,Brooklyn,NY,(blank)
 OAK-BROOK-IL.GOV,City,Non-Federal Agency,VILLAGE OF OAK BROOK,OAK BROOK,IL,(blank)
 OAKBLUFFSMA.GOV,City,Non-Federal Agency,Town of Oak Bluffs,Oak Bluffs,MA,tlarsen@oakbluffsma.gov
+OAKCREEKWI.GOV,City,Non-Federal Agency,City of Oak Creek,Oak Creek,WI,cybersecurity@oakcreekwi.org
 OAKHAM-MA.GOV,City,Non-Federal Agency,Town of Oakham,Oakham,MA,(blank)
 OAKHILLWV.GOV,City,Non-Federal Agency,City of Oak Hill,Oak Hill,WV,info@oakhillwv.gov
 OAKLAND-ME.GOV,City,Non-Federal Agency,Town of Oakland,Oakland,ME,(blank)
@@ -1932,7 +1938,7 @@ OAKLANDFL.GOV,City,Non-Federal Agency,Town of Oakland,Oakland,FL,jrodriguez@oakl
 OAKLANDPARKFL.GOV,City,Non-Federal Agency,City of Oakland Park,Oakland Park,FL,markac@oaklandparkfl.gov
 OAKLANDTN.GOV,City,Non-Federal Agency,Town of Oakland,Oakland,TN,(blank)
 OAKLAWN-IL.GOV,City,Non-Federal Agency,VILLAGE OF OAK LAWN,OAK LAWN,IL,(blank)
-OAKPARKMI.GOV,City,Non-Federal Agency,City of Oak Park,Oak Park,MI,(blank)
+OAKPARKMI.GOV,City,Non-Federal Agency,City of Oak Park,Oak Park,MI,rsingson@oakparkmi.gov
 OAKRIDGETN.GOV,City,Non-Federal Agency,"City of Oak Ridge, TN","Oak Ridge, TN 37830 United States",TN,DomainManger@oakridgetn.gov
 OAKWOODOHIO.GOV,City,Non-Federal Agency,The City of Oakwood Ohio,Oakwood,OH,(blank)
 OBERLINKANSAS.GOV,City,Non-Federal Agency,City of Oberlin,Oberlin,KS,(blank)
@@ -2436,6 +2442,7 @@ STAFFORDTX.GOV,City,Non-Federal Agency,"City of Stafford, TX",stafford,TX,(blank
 STAMFORDCT.GOV,City,Non-Federal Agency,City of Stamford,Stamford,CT,webmaster@stamfordct.gov
 STANFORDKY.GOV,City,Non-Federal Agency,City of Stanford,Stanford,KY,cclark@bgadd.org
 STANHOPENJ.GOV,City,Non-Federal Agency,Stanhope  Borough,Stanhope,NJ,(blank)
+STANTONCA.GOV,City,Non-Federal Agency,City of Stanton,Stanton,CA,smartin@ci.stanton.ca.us
 STANTONKY.GOV,City,Non-Federal Agency,City of Stanton,Stanton,KY,(blank)
 STARNC.GOV,City,Non-Federal Agency,Town of Star,Star,NC,(blank)
 STATECOLLEGEPA.GOV,City,Non-Federal Agency,City of State College,State College,PA,(blank)
@@ -2516,7 +2523,7 @@ TAYLORMILLKY.GOV,City,Non-Federal Agency,City of Taylormill,Taylor Mill,KY,(blan
 TAYLORSVILLEUT.GOV,City,Non-Federal Agency,City of Taylorsville,Taylorsville ,UT,(blank)
 TAYLORTX.GOV,City,Non-Federal Agency,City of Taylor,Taylor,TX,(blank)
 TEANECKNJ.GOV,City,Non-Federal Agency,Township Of Teaneck,Teaneck,NJ,(blank)
-TEGACAYSC.GOV,City,Non-Federal Agency,City of Tega Cay,Tega Cay,SC,(blank)
+TEGACAYSC.GOV,City,Non-Federal Agency,City of Tega Cay,Tega Cay,SC,jbroome@tegacaysc.gov
 TELLURIDE-CO.GOV,City,Non-Federal Agency,Town of Telluride,Telluride,CO,dns.tech@telluride-co.gov
 TEMECULACA.GOV,City,Non-Federal Agency,City of Temecula,Temecula,CA,(blank)
 TEMPE.GOV,City,Non-Federal Agency,City of Tempe,Tempe,AZ,scott_campbell@tempe.gov
@@ -2923,6 +2930,10 @@ ZIONSVILLE-IN.GOV,City,Non-Federal Agency,Town of Zionsville,Zionsville,IN,jrust
 ADAMSCOUNTYMS.GOV,County,Non-Federal Agency,Adams County Board of Supervisors,Natchez,MS,(blank)
 ADAMSCOUNTYOH.GOV,County,Non-Federal Agency,Adams County Commissioners,West Union,OH,(blank)
 AIKENCOUNTYSC.GOV,County,Non-Federal Agency,Aiken County Government,Aiken,SC,(blank)
+ALACHUACOUNTY.GOV,County,Non-Federal Agency,Alachua County BOCC,Gainesville,FL,is_security@alachuacounty.us
+ALACHUACOUNTYFL.GOV,County,Non-Federal Agency,Alachua County BOCC,Gainesville,FL,is_security@alachuacounty.us
+ALACHUACOUNTYFLA.GOV,County,Non-Federal Agency,Alachua County BOCC,Gainesville,FL,is_security@alachuacounty.us
+ALACHUACOUNTYFLORIDA.GOV,County,Non-Federal Agency,Alachua County BOCC,Gainesville,FL,is_security@alachuacounty.us
 ALBANYCOUNTYNY.GOV,County,Non-Federal Agency,Albany County,Albany,NY,(blank)
 ALEXANDERCOUNTY-NC.GOV,County,Non-Federal Agency,Alexander County NC,Taylorsville,NC,(blank)
 ALEXANDERCOUNTYNC.GOV,County,Non-Federal Agency,Alexander County NC,Taylorsville,NC,(blank)
@@ -2964,7 +2975,6 @@ BENTONCOUNTYIA.GOV,County,Non-Federal Agency,Benton County Iowa,Vinton,IA,securi
 BENTONCOUNTYMS.GOV,County,Non-Federal Agency,Benton County Board of Supervisors,Ashland,MS,rickypipkin@yahoo.com
 BENTONCOUNTYTN.GOV,County,Non-Federal Agency,"Benton County, Tennessee",Camden,TN,it@bentoncountytn.gov
 BERKELEYCOUNTYSC.GOV,County,Non-Federal Agency,Berkeley County Government,Moncks Corner,SC,security@berkeleycountysc.gov
-BERRIENCOUNTY-MI.GOV,County,Non-Federal Agency,Berrien County,St. Joseph,MI,(blank)
 BEXARCOUNTYTX.GOV,County,Non-Federal Agency,Bexar County,San Antonio,TX,(blank)
 BIGHORNCOUNTYMT.GOV,County,Non-Federal Agency,Big Horn County,Hardin,MT,(blank)
 BIGHORNCOUNTYWY.GOV,County,Non-Federal Agency,Big Horn County ,Basin,WY,dean.peranteaux@bighorncountywy.gov
@@ -3257,6 +3267,7 @@ HANCOCKCOUNTY-IL.GOV,County,Non-Federal Agency,Hancock County Board,Carthage,IL,
 HANCOCKCOUNTYGA.GOV,County,Non-Federal Agency,Hancock County Board of Commissioners,Sparta,GA,(blank)
 HANCOCKCOUNTYIA.GOV,County,Non-Federal Agency,Hancock County Iowa,Garner,IA,hcch@ngtnet.net
 HANCOCKCOUNTYOHIOELECTIONS.GOV,County,Non-Federal Agency,Hancock County Board of Elections,Findlay,OH,bdelections@co.hancock.oh.us
+HANCOCKCOUNTYWV.GOV,County,Non-Federal Agency,"Hancock County, West Virginia",New Cumberland,WV,admin@hanwv.org
 HANOVER.GOV,County,Non-Federal Agency,Hanover County,Hanover,VA,jrwaters@hanovercounty.gov
 HANOVERCOUNTY.GOV,County,Non-Federal Agency,Hanover County,Hanover,VA,jrwaters@hanovercounty.gov
 HANOVERCOUNTYVA.GOV,County,Non-Federal Agency,Hanover County,Hanover,VA,jrwaters@hanovercounty.gov
@@ -3283,6 +3294,7 @@ HIGHLANDSFL.GOV,County,Non-Federal Agency,Highlands County Board of County Commi
 HOODCOUNTYTX.GOV,County,Non-Federal Agency,Hood County Texas,Granbury,TX,(blank)
 HOODRIVERCOUNTY.GOV,County,Non-Federal Agency,Hood River County,Hood River,OR,tony.clark@co.hood-river.or.us
 HORRYCOUNTYSC.GOV,County,Non-Federal Agency,Horry County Government,Conway,SC,floyd.robert@horrycounty.org
+HOUSTONCOUNTYAL.GOV,County,Non-Federal Agency,Houston County Commission,Dothan,AL,security@houstoncounty.org
 HOWARDCOUNTYIN.GOV,County,Non-Federal Agency,Howard County,Kokomo,IN,(blank)
 HOWARDCOUNTYMARYLAND.GOV,County,Non-Federal Agency,Howard County Government,Ellicott City,MD,jbruns@howardcountymd.gov
 HOWARDCOUNTYMD.GOV,County,Non-Federal Agency,Howard County Maryland Government,Ellicott City,MD,jbruns@howardcountymd.gov
@@ -3356,6 +3368,7 @@ LAUDERDALECOUNTYAL.GOV,County,Non-Federal Agency,Lauderdale County Commission,Fl
 LAURELCOUNTYCORRECTIONSKY.GOV,County,Non-Federal Agency,Laurel County Corrections,London,KY,(blank)
 LAWRENCECOUNTYAL.GOV,County,Non-Federal Agency,Lawrence County Commission,Moulton,AL,(blank)
 LAWRENCECOUNTYBOE-OHIO.GOV,County,Non-Federal Agency,Lawrence County Ohio Board of Elections,Ironton,OH,ed@lvcs.net
+LAWRENCECOUNTYPA.GOV,County,Non-Federal Agency,Lawrence County Government Center,New Castle,PA,rdibello@co.lawrence.pa.us
 LAWRENCECOUNTYTN.GOV,County,Non-Federal Agency,Lawrence County Government,Lawrenceburg,TN,(blank)
 LCCOUNTYMT.GOV,County,Non-Federal Agency,Lewis and Clark County,Helena,MT,(blank)
 LEAVENWORTHCOUNTY.GOV,County,Non-Federal Agency,Leavenworth County Kansas,Leavenworth,KS,administrator@leavenworthcounty.org
@@ -3467,7 +3480,7 @@ MONTGOMERYCOUNTYVA.GOV,County,Non-Federal Agency,"Montgomery County, Virginia",C
 MONTGOMERYPROBATECOURTAL.GOV,County,Non-Federal Agency,Montgomery County Probate Court,Montgomery,AL,rodneysmith@mc-ala.org
 MONTGOMERYVOTESAL.GOV,County,Non-Federal Agency,Montgomery County Probate Court,Montgomery,AL,rodneysmith@mc-ala.org
 MOORECOUNTYNC.GOV,County,Non-Federal Agency,County of Moore,Carthage,NC,tmabe@moorecountync.gov
-MORGANCOUNTY-AL.GOV,County,Non-Federal Agency,Morgan County Commission,Decatur,AL,ghill@co.morgan.al.us
+MORGANCOUNTY-AL.GOV,County,Non-Federal Agency,Morgan County Commission,Decatur,AL,ghill@morgancounty-al.gov
 MORGANCOUNTY-OH.GOV,County,Non-Federal Agency,Morgan County Commissioners,McConnelsville,OH,(blank)
 MORGANCOUNTYGA.GOV,County,Non-Federal Agency,Morgan County,Madison,GA,(blank)
 MORGANCOUNTYSHERIFFAL.GOV,County,Non-Federal Agency,Morgan County Sheriff's Office,Decatur,AL,publicrelations@morgancountysheriffal.gov
@@ -3963,6 +3976,7 @@ HIVE.GOV,Federal Agency - Executive,Department of Defense,PEO DHMS,Rosslyn,VA,ch
 IAD.GOV,Federal Agency - Executive,Department of Defense,National Security Agency,Fort Meade,MD,(blank)
 IOSS.GOV,Federal Agency - Executive,Department of Defense,Interagency OPSEC Support Staff,Greenbelt,MD,(blank)
 ITC.GOV,Federal Agency - Executive,Department of Defense,Interagency Training Center,Fort Washington,MD,itcrowd@itc.gov
+IWTSD.GOV,Federal Agency - Executive,Department of Defense,Irregular Warfare Technical Support Directorate,Alexandria,VA,(blank)
 JCCS.GOV,Federal Agency - Executive,Department of Defense,Defense Logistics Agency,Alexandria,VA,(blank)
 MOJAVEDATA.GOV,Federal Agency - Executive,Department of Defense,Mojave Desert Ecosystem Program,Barstow,CA,(blank)
 MTMC.GOV,Federal Agency - Executive,Department of Defense,Department of Defense,Alexandria,VA,(blank)
@@ -4539,7 +4553,7 @@ RELOCATEFEDS.GOV,Federal Agency - Executive,Environmental Protection Agency,Envi
 SUSTAINABILITY.GOV,Federal Agency - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,EPA-CISO@epa.gov
 URBANWATERS.GOV,Federal Agency - Executive,Environmental Protection Agency,U.S. EPA ,Washington,DC,EPA-CISO@epa.gov
 EEOC.GOV,Federal Agency - Executive,Equal Employment Opportunity Commission,U. S. Equal Employment Opportunity Commission,Washington,DC,vdp.disclosure@eeoc.gov
-AI.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank)
+AI.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,ramia@nitrd.gov
 BEBEST.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank)
 BUDGET.GOV,Federal Agency - Executive,Executive Office of the President,Office of Management and Budget,Washington,DC,(blank)
 CORONAVIRUS.GOV,Federal Agency - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank)
@@ -4638,6 +4652,7 @@ BUYACCESSIBLE.GOV,Federal Agency - Executive,General Services Administration,"GS
 BUYAMERICAN.GOV,Federal Agency - Executive,General Services Administration,"GSA, FAS, Acquisition",Washington,DC,gsa-vulnerability-reports@gsa.gov
 CAO.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC, Acquisition",Washington,DC,gsa-vulnerability-reports@gsa.gov
 CBCA.GOV,Federal Agency - Executive,General Services Administration,Civilian Board of Contract Appeals,Washington,DC,gsa-vulnerability-reports@gsa.gov
+CDO.GOV,Federal Agency - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov
 CFO.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov
 CHALLENGE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov
 CIO.GOV,Federal Agency - Executive,General Services Administration,"GSA, CIO.GOV",Washington,DC,gsa-vulnerability-reports@gsa.gov
@@ -4781,7 +4796,7 @@ TRUMPLIBRARY.GOV,Federal Agency - Executive,National Archives and Records Admini
 TRUMPWHITEHOUSE.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov
 WARTIMECONTRACTING.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov
 WEBHARVEST.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov
-NCPC.GOV,Federal Agency - Executive,National Capital Planning Commission,National Capital Planning Commission,Washington,DC,tony.champ@ncpc.gov
+NCPC.GOV,Federal Agency - Executive,National Capital Planning Commission,National Capital Planning Commission,Washington,DC,csirt@ncpc.gov
 MILITARYAVIATIONSAFETY.GOV,Federal Agency - Executive,National Commission on Military Aviation Safety,National Commission on Military Aviation Safety,Arlingont,VA,james.e.minton13.civ@mail.mil
 NCD.GOV,Federal Agency - Executive,National Council on Disability,National Council on Disability,Washington,DC,kwoods@ncd.gov
 MYCREDITUNION.GOV,Federal Agency - Executive,National Credit Union Administration,National Credit Union Administration,Alexandria,VA,SOC@ncua.gov
@@ -4851,7 +4866,7 @@ BUSINESS.GOV,Federal Agency - Executive,Small Business Administration,U.S. Small
 NWBC.GOV,Federal Agency - Executive,Small Business Administration,U.S. Small Business Administration,Washington,DC,CISO@sba.gov
 SBA.GOV,Federal Agency - Executive,Small Business Administration,U.S. Small Business Administration,Washington,DC,CISO@sba.gov
 SBIR.GOV,Federal Agency - Executive,Small Business Administration,SBA-Office of Innovation & Technology,Washington,DC,CISO@sba.gov
-ITIS.GOV,Federal Agency - Executive,Smithsonian Institution,Smithsonian Institution,Washington,DC,(blank)
+ITIS.GOV,Federal Agency - Executive,Smithsonian Institution,Smithsonian Institution,Washington,DC,abuse@si.edu
 SEGUROSOCIAL.GOV,Federal Agency - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering ,Baltimore,MD,security@ssa.gov
 SOCIALSECURITY.GOV,Federal Agency - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,security@ssa.gov
 SSA.GOV,Federal Agency - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,security@ssa.gov
@@ -5119,6 +5134,7 @@ SOUTHCOASTAQMD.GOV,Independent Intrastate Agency,Non-Federal Agency,aqmd,Diamond
 SOUTHPLATTERENEWCO.GOV,Independent Intrastate Agency,Non-Federal Agency,South Platte Renew,Englewood,CO,dparker@englewoodco.gov
 SUMMITCOUNTYBOE.GOV,Independent Intrastate Agency,Non-Federal Agency,Summit County Board of Elections,Akron,OH,it@summitcountyboe.gov
 SWA-IL.GOV,Independent Intrastate Agency,Non-Federal Agency,Southland Water Agency,South Holland,IL,Security@southholland.org
+SWCLEANAIR.GOV,Independent Intrastate Agency,Non-Federal Agency,Southwest Clean Air Agency,Vancouver,WA,chip@swcleanair.org
 TECHSHARETX.GOV,Independent Intrastate Agency,Non-Federal Agency,TechShare Local Government Corporation,Austin,TX,it.helpdesk@cuc.org
 TEXASCOUNTYMO911.GOV,Independent Intrastate Agency,Non-Federal Agency,Texas County Emergency Services,Houston,MO,kdrake@cbs-solutions.com
 THA.GOV,Independent Intrastate Agency,Non-Federal Agency,Topeka Housing Authority,Topeka,KS,(blank)
@@ -5229,7 +5245,7 @@ LAGUNA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Pueblo of Laguna,Laguna,NM
 LAGUNAPUEBLO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Pueblo of Laguna,Laguna,NM,(blank)
 LAJOLLA-NSN.GOV,Native Sovereign Nation,Indian Affairs,La Jolla Band of Luiseno Indians,Pauma Valley,CA,(blank)
 LCO-NSN.GOV,Native Sovereign Nation,Indian Affairs,Lac Courte Oreilles Tribal Government ,Hayward,WI,(blank)
-LRBOI-NSN.GOV,Native Sovereign Nation,Indian Affairs,Little River Band of Ottawa Indians Tribal Government ,Manistee,MI,andrewjeurink@lrboi-nsn.gov
+LRBOI-NSN.GOV,Native Sovereign Nation,Indian Affairs,Little River Band of Ottawa Indians Tribal Government ,Manistee,MI,andrew-treyjeurink@lrboi-nsn.gov
 LTBBODAWA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Little Traverse Bay Bands of Odawa Indians,Harbor Springs,MI,(blank)
 LUMMI-NSN.GOV,Native Sovereign Nation,Indian Affairs,Lummi Indian Business Council,Bellingham,WA,cybersecurity@lummi-nsn.gov
 LVD-NSN.GOV,Native Sovereign Nation,Indian Affairs,Lac Vieux Desert Band of Lake Superior Chippewa Indians,Watersmeet,MI,david.potesta@lvdcasino.com
@@ -5286,6 +5302,7 @@ REDDINGRANCHERIA-NSN.GOV,Native Sovereign Nation,Indian Affairs,Redding Rancheri
 RINCON-NSN.GOV,Native Sovereign Nation,Indian Affairs,Rincon Band of Luiseno Indians,Valley Center,CA,ssalcedo@rincon-nsn.gov
 ROSEBUDSIOUXTRIBE-NSN.GOV,Native Sovereign Nation,Indian Affairs,Rosebud Sioux Tribe,Rosebud,SD,(blank)
 RRCBC-NSN.GOV,Native Sovereign Nation,Indian Affairs,Robinson Rancheria ,Nice,CA,sara@robinsonrancheria.org
+RRTRIBALCOURTS-NSN.GOV,Native Sovereign Nation,Indian Affairs,Robinson Rancheria of Pomo Indians,Nice,CA,bcromwell@rrcbc-nsn.gov
 RST-NSN.GOV,Native Sovereign Nation,Indian Affairs,Roebud Sioux Tribe,Rosebud,SD,augustine.fernandes@rst-nsn.gov
 SACANDFOXNATION-NSN.GOV,Native Sovereign Nation,Indian Affairs,Sac and Fox Nation,Stroud,OK,(blank)
 SANJUANPAIUTE-NSN.GOV,Native Sovereign Nation,Indian Affairs,San Juan Southern Paiute Trive,Tuba City,AZ,sergio@desotollc.com
@@ -5379,7 +5396,7 @@ ALEA.GOV,State,Non-Federal Agency,Alabama Law Enforcement Agency,Montgomery,AL,S
 ALHOUSE.GOV,State,Non-Federal Agency,State of Alabama - Legislative Computer Center,Montgomery ,AL,brian.webb@legislature.gov
 ALSENATE.GOV,State,Non-Federal Agency,State of Alabama - Legislative Computer Center ,Montgomery ,AL,brian.webb@legislature.gov
 AMERICANSAMOA.GOV,State,Non-Federal Agency,AMERICAN SAMOA GOVERNMENT,Pago Pago,AS,(blank)
-APPRENTICESHIPIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+APPRENTICESHIPIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 AQMD.GOV,State,Non-Federal Agency,SCAQMD,Diamond Bar,CA,(blank)
 AR.GOV,State,Non-Federal Agency,"Department of Information Systems, Arkansas",Little Rock,AR,hostmaster@arkansas.gov
 ARCOURTS.GOV,State,Non-Federal Agency,Administrative Office of the Courts,Little Rock,AR,dain.couch@arcourts.gov
@@ -5518,11 +5535,11 @@ AZWPF.GOV,State,Non-Federal Agency,Arizona Water Protection Fund,Phoenix,AZ,(bla
 B4WV.GOV,State,Non-Federal Agency,WV Office of Technology,Charleston,WV,cso@wv.gov
 BART.GOV,State,Non-Federal Agency,San Francisco Bay Area Rapid Transit District,Oakland,CA,(blank)
 BAYAREAMETRO.GOV,State,Non-Federal Agency,Metropolitan Transportation Commission,San Francisco,CA,(blank)
-BEOUTSIDEIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+BEOUTSIDEIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 BEREADYUTAH.GOV,State,Non-Federal Agency,Utah Division of Homeland Security,Salt Lake City,UT,(blank)
 BETSYLEHMANCENTERMA.GOV,State,Non-Federal Agency,Betsy Lehman Center for Patient Safety and Medical Error Reduction,Boston,MA,BetsyLehmanCenter@MassMail.State.MA.US
 BLNC.GOV,State,Non-Federal Agency,North Carolina Department of Commerce,Raleigh,NC,(blank)
-BOATIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+BOATIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 BOIMI.GOV,State,Non-Federal Agency,Department of Technology Management Budget,Lansing,MI,abuse@michigan.gov
 BUSINESS4WV.GOV,State,Non-Federal Agency,State of West Virginia,Charleston,WV,(blank)
 BUYNJBONDS.GOV,State,Non-Federal Agency,NJ Department of Treasury,Trenton,NJ,(blank)
@@ -5709,6 +5726,7 @@ GOVOTETN.GOV,State,Non-Federal Agency,State of Tennessee,Nashville,TN,Cyber.Secu
 GREATIOWATREASUREHUNT.GOV,State,Non-Federal Agency,Office of the Chief Information Officer,Des Moines,IA,(blank)
 GROWNJKIDS.GOV,State,Non-Federal Agency,Department of Human Services Division of Family Development,Trenton,NJ,(blank)
 GUAM.GOV,State,Non-Federal Agency,Dept of Admin Data Processing,Agana,GU,(blank)
+GUAMCOURTS.GOV,State,Non-Federal Agency,Judiciary of Guam,Hagatna,Guam,misadmin@guamcourts.org
 HAWAII.GOV,State,Non-Federal Agency,"State of Hawaii, DAGS/ICSD",Honolulu,HI,(blank)
 HEALTH-E-ARIZONA-PLUS.GOV,State,Non-Federal Agency,Arizona Health Care Cost Containment System,Phoenix,AZ,(blank)
 HEALTH-E-ARIZONAPLUS.GOV,State,Non-Federal Agency,Arizona Health Care Cost Containment System,Phoenix,AZ,(blank)
@@ -5726,11 +5744,11 @@ IAHEALTHLINK.GOV,State,Non-Federal Agency,State of Iowa - OCIO,Des Moines,IA,(bl
 IASCHOOLPERFORMANCE.GOV,State,Non-Federal Agency,OCIO - State of Iowa,Des Moines,IA,(blank)
 IAVOTERS.GOV,State,Non-Federal Agency,State of Iowa - OCIO,Des Moines,IA,(blank)
 ICOUNTNM.GOV,State,Non-Federal Agency,Department of Finance and Administration,Santa Fe,NM,dfa-it@state.nm.us
-ID.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
-IDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
-IDAHOPREPARES.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
-IDAHOVOTES.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
-IDAHOWORKS.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+ID.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
+IDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
+IDAHOPREPARES.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
+IDAHOVOTES.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
+IDAHOWORKS.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 IL.GOV,State,Non-Federal Agency,State of Illinois,Springfield,IL,Doit.security@illinois.gov
 ILATTORNEYGENERAL.GOV,State,Non-Federal Agency,Illinois Attorney General,Chicago,IL,(blank)
 ILGA.GOV,State,Non-Federal Agency,Legislative Information System,Springfield,IL,stevec@ilga.gov
@@ -5789,7 +5807,7 @@ IOWAWORKCOMP.GOV,State,Non-Federal Agency,State of Iowa - OCIO,Des Moines,IA,(bl
 IOWAWORKFORCE.GOV,State,Non-Federal Agency,Office of the Chief Information Officer,Des Moines,IA,(blank)
 IOWAWORKFORCEDEVELOPMENT.GOV,State,Non-Federal Agency,State of Iowa - OCIO,Des Moines,IA,(blank)
 IOWAWORKS.GOV,State,Non-Federal Agency,State of Iowa - OCIO,Des Moines,IA,(blank)
-IUS.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+IUS.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 JOBS4TN.GOV,State,Non-Federal Agency,State of Tennessee,Nashville,TN,Cyber.Security@tn.gov
 JOBSFORTN.GOV,State,Non-Federal Agency,State of Teneessee,38401,TN,Cyber.Security@tn.gov
 JOBSND.GOV,State,Non-Federal Agency,"State of ND, ITD",Bismarck,ND,(blank)
@@ -6218,7 +6236,7 @@ SDRESPONSE.GOV,State,Non-Federal Agency,South Dakota Bureau of Information & Tel
 SDSOS.GOV,State,Non-Federal Agency,State of South Dakota,Pierre,SD,soc@state.sd.gov
 SDTREASURER.GOV,State,Non-Federal Agency,State of South Dakota - BIT,Pierre,SD,soc@state.sd.gov
 SERVEALABAMA.GOV,State,Non-Federal Agency,Governor's Office of Volunteer Services,Montgomery,AL,melinda.stallworth@servealabama.gov
-SERVEIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+SERVEIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 SERVEINDIANA.GOV,State,Non-Federal Agency,Serve Indiana,Indianapolis,IN,(blank)
 SERVEOHIO.GOV,State,Non-Federal Agency,State of Ohio,Columb us,OH,(blank)
 SERVGA.GOV,State,Non-Federal Agency,Department of Public Health,Atlanta,GA,olumide.adesulu@dph.ga.gov
@@ -6328,7 +6346,7 @@ VIRGINIAGENERALASSEMBLY.GOV,State,Non-Federal Agency,Virginia General Assembly,R
 VIRGINIARESOURCES.GOV,State,Non-Federal Agency,Virginia Resources Authority,Richmond,VA,accounting@virginiaresources.org
 VIRGINIASTATEPARKS.GOV,State,Non-Federal Agency,Virginia Department of Conservation and Receation,Richmond,VA,vastateparks@dcr.virginia.gov
 VIRGINIAWILDLIFE.GOV,State,Non-Federal Agency,Virginia Department of Game & Inland Fisheries,Henrico,VA,(blank)
-VISITIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,(blank)
+VISITIDAHO.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 VISITNEBRASKA.GOV,State,Non-Federal Agency,State Of Nebraska,Lincoln,NE,(blank)
 VISITNH.GOV,State,Non-Federal Agency,Dept. of Resources and Economic Dev. - State of NH,Concord,NH,opensrs@silvertech.com
 VISITWYO.GOV,State,Non-Federal Agency,State of Wyoming ,Cheyenne,WY,ets-security@wyo.gov
