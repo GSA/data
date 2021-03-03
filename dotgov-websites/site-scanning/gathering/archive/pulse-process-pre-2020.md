@@ -14,6 +14,10 @@ Note: At an earlier date, we were able to query the live Censys and Rapid7 datas
 
 #### Further Details
 
-Here is a rough summary at describing what was done at each step of the processing stage:  
+Here is a rough summary at describing what was done during the processing stage:  
 
-* ...
+* Remove the protocol. 
+* Cut naive wildcard prefixes out. (from certs)
+* Cut off any redaction markers from names. (from certs)
+* Check that the base domain (a.k.a. parent) of the entry was in the [canonical list of federal .gov domains](https://github.com/GSA/data/raw/master/dotgov-domains/current-federal.csv).  If it wasn't, it would be discarded.  This was useful in case one of the datasets had state/local .gov entries, or accidentally had non-governmental entries.  
+* Finally, it would dedup the list.  
