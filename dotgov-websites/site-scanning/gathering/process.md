@@ -7,8 +7,16 @@
 * One Month of DNS Records from the .Gov Registry, 3rd Level Only (Link Coming) - ~10,000
 
 ## Process
-* The various datasets are downloaded and a static copy is stored [in this repository](https://github.com/GSA/data/tree/master/dotgov-websites/site-scanning/gathering/data).  
+* The above datasets are downloaded and a static copy is stored [in this repository](https://github.com/GSA/data/tree/master/dotgov-websites/site-scanning/gathering/data).  
 * They are then combined and deduped.  
+
+
+
+Questions:  
+* do the columns need aligning? 
+* what columns are removed?
+* what structure (what fields, in what order, what formatting for each cell) do we want the final product to look like?  
+* where do we want the final product to go?
 
 
 ## Other Potential Datasets
