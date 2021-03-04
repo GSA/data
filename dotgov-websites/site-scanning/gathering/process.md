@@ -8,11 +8,16 @@
 
 ## Process
 * The above datasets are downloaded and a static copy is stored [in this repository](https://github.com/GSA/data/tree/master/dotgov-websites/site-scanning/gathering/data).  
-* They are then combined and deduped.  
+* Start with the first dataset.  
+* Take the second (dap) and normalize the formatting.  Add it to the first.  
+* Repeat with each other dataset.  
+* Dedup by column XXXXX.  
+* Format further to match the spec required for the Target URL list.  
+* The Target URL list dataset is now complete.  
+* (Save a copy at every major step.) 
 
 
-
-Questions:  
+Questions To Address:  
 * do the columns need aligning? 
 * what columns are removed?
 * what structure (what fields, in what order, what formatting for each cell) do we want the final product to look like?  
