@@ -543,7 +543,7 @@ CITYOFMACON-MO.GOV,City,Non-Federal Agency,City Of Macon,Macon,MO,info@cityofmac
 CITYOFMADERA.GOV,City,Non-Federal Agency,City of Madera,Madera,CA,msouders@cityofmadera.com
 CITYOFMADISONWI.GOV,City,Non-Federal Agency,City of Madison,Madison,WI,(blank)
 CITYOFMARGARETALABAMA.GOV,City,Non-Federal Agency,City of Margaret,ODENVILLE,AL,mtortorice@gmail.com
-CITYOFMARIONIL.GOV,City,Non-Federal Agency,City of Marion,Marion,IL,(blank)
+CITYOFMARIONIL.GOV,City,Non-Federal Agency,City of Marion,Marion,IL,cmoake@cityofmarionil.gov
 CITYOFMARIONWI.GOV,City,Non-Federal Agency,CITY OF MARION,MARION,WI,(blank)
 CITYOFMATTAWA-WA.GOV,City,Non-Federal Agency,City of Mattawa,Mattawa,WA,(blank)
 CITYOFMCCAYSVILLEGA.GOV,City,Non-Federal Agency,City of McCaysville,McCaysville,GA,(blank)
@@ -2272,7 +2272,7 @@ RYENY.GOV,City,Non-Federal Agency,City of Rye,Rye,NY,(blank)
 SACCOUNTY.GOV,City,Non-Federal Agency,County of Sacramento,Sacramento,CA,cosdns@saccounty.net
 SACKETSHARBOR-NY.GOV,City,Non-Federal Agency,Village of Sackets Harbor,Sackets Harbor,NY,(blank)
 SADDLEBROOKNJ.GOV,City,Non-Federal Agency,Saddle Brook Towbship,Saddlebrook,NJ,tech2003usa@outlook.com
-SADDLEROCKNY.GOV,City,Non-Federal Agency,Village of Saddle Rock,SADDLE ROCK,NY,k@scbw.com
+SADDLEROCKNY.GOV,City,Non-Federal Agency,Village of Saddle Rock,SADDLE ROCK,NY,info@saddlerockny.gov
 SADIEVILLEKY.GOV,City,Non-Federal Agency,City of Sadieville,Sadieville,KY,sadievilleky@bellsouth.net
 SAFFORDAZ.GOV,City,Non-Federal Agency,City of Safford,Safford,AZ,(blank)
 SAGHARBORNY.GOV,City,Non-Federal Agency,Incorporated Village of Sag Harbor,Sag Harbor,NY,support@ficomputing.com
@@ -2541,7 +2541,7 @@ TENNILLE-GA.GOV,City,Non-Federal Agency,City Of Tennille,Tennille,GA,(blank)
 TEWKSBURY-MA.GOV,City,Non-Federal Agency,Town of Tewksbury,Tewksbury,MA,(blank)
 TEXASCITYTX.GOV,City,Non-Federal Agency,City of Texas City,Texas City,TX,helpdesk@texas-city-tx.org
 THECOLONYTX.GOV,City,Non-Federal Agency,City of The Colony,The Colony,TX,cwight@thecolonytx.gov
-THETFORDVT.GOV,City,Non-Federal Agency,Town of Thetford,Thetford,VT,townmanager@thetfordvermont.us
+THETFORDVT.GOV,City,Non-Federal Agency,Town of Thetford,Thetford,VT,manager@thetfordvt.gov
 THEWOODLANDS-TX.GOV,City,Non-Federal Agency,The Woodlands Township,The Woodlands,TX,(blank)
 THEWOODLANDSTOWNSHIP-TX.GOV,City,Non-Federal Agency,The Woodlands Township,The Woodlands,TX,(blank)
 THOMASTONMAINE.GOV,City,Non-Federal Agency,Town of Thomaston,Thomaston,ME,jbenson@thomastonmaine.gov
@@ -2697,6 +2697,7 @@ UVALDETX.GOV,City,Non-Federal Agency,City of Uvalde,Uvalde,TX,abuse@uvaldetx.gov
 UXBRIDGE-MA.GOV,City,Non-Federal Agency,"Uxbridge, Town of",Uxbridge,MA,pmistler@uxbridge-ma.gov
 VALDESENC.GOV,City,Non-Federal Agency,Town of Valdese,Valdese,NC,(blank)
 VALDEZAK.GOV,City,Non-Federal Agency,City of Valdez,Valdez,AK,(blank)
+VALENTINENE.GOV,City,Non-Federal Agency,City of Valentine,Valentine,NE,(blank)
 VANMETERIA.GOV,City,Non-Federal Agency,"City of Van Meter, Iowa",Van Meter,IA,ticketsystem@sophicity.com
 VANTX.GOV,City,Non-Federal Agency,City of Van,Van,TX,jbrown@vantexas.org
 VBHIL.GOV,City,Non-Federal Agency,Village of Barrington Hills,Barrington Hills,IL,(blank)
@@ -2798,6 +2799,7 @@ WEATHERFORDTX.GOV,City,Non-Federal Agency,City of Weatherford,Weatherford,TX,ktu
 WEATHERLYPA.GOV,City,Non-Federal Agency,City of Weatherly,Weatherly,PA,(blank)
 WEBSTER-MA.GOV,City,Non-Federal Agency,Town of Webster,Webster,MA,support@webster-ma.gov
 WEBSTER-NH.GOV,City,Non-Federal Agency,Town of Webster,Webster,NH,support@mstech.com
+WEBSTERGROVESMO.GOV,City,Non-Federal Agency,City of Webster Groves,Webster Groves,MO,security@webstergroves.org
 WEBSTERNY.GOV,City,Non-Federal Agency,Town of Webster,Webster,NY,security@ci.webster.ny.us
 WEEHAWKENNJ.GOV,City,Non-Federal Agency,Township of Weehawken,Weehawken,NJ,chablitz@police.weehawkennj.gov
 WELAKA-FL.GOV,City,Non-Federal Agency,Town of Welaka,Welaka,FL,will.walsh@walshlogic.com
@@ -3275,7 +3277,7 @@ HAMILTONCOUNTYNY.GOV,County,Non-Federal Agency,Hamilton County,Lake Pleasent,NY,
 HAMILTONCOUNTYOHIO.GOV,County,Non-Federal Agency,Hamilton County Telecommunications,Cincinnati,OH,(blank)
 HAMILTONTN.GOV,County,Non-Federal Agency,Hamilton County I.T.,Chattanooga,TN,(blank)
 HANCOCKCOUNTY-IL.GOV,County,Non-Federal Agency,Hancock County Board,Carthage,IL,(blank)
-HANCOCKCOUNTYGA.GOV,County,Non-Federal Agency,Hancock County Board of Commissioners,Sparta,GA,(blank)
+HANCOCKCOUNTYGA.GOV,County,Non-Federal Agency,Hancock County Board of Commissioners,Sparta,GA,jwalls@hancockcountyga.gov
 HANCOCKCOUNTYIA.GOV,County,Non-Federal Agency,Hancock County Iowa,Garner,IA,hcch@ngtnet.net
 HANCOCKCOUNTYOHIOELECTIONS.GOV,County,Non-Federal Agency,Hancock County Board of Elections,Findlay,OH,bdelections@co.hancock.oh.us
 HANCOCKCOUNTYWV.GOV,County,Non-Federal Agency,"Hancock County, West Virginia",New Cumberland,WV,admin@hanwv.org
@@ -3651,6 +3653,7 @@ SARATOGACOUNTYNY.GOV,County,Non-Federal Agency,County of Saratoga,Ballston Spa,N
 SARPY.GOV,County,Non-Federal Agency,Sarpy County,Papillion,NE,infosecteam@sarpy.com
 SAUKCOUNTYWI.GOV,County,Non-Federal Agency,Sauk County MIS,Baraboo,WI,(blank)
 SBCOUNTY.GOV,County,Non-Federal Agency,County of San Bernardino Information Services Dept.,San Bernardino,CA,(blank)
+SBCOUNTYATC.GOV,County,Non-Federal Agency,San Bernardino County Auditor-Controller/Treasurer/Tax Collector,San Bernardino,CA,SecurityTeam@atc.sbcounty.gov
 SCCWI.GOV,County,Non-Federal Agency,St. Croix County Wisconsin,Hudson,WI,(blank)
 SCHOHARIECOUNTY-NY.GOV,County,Non-Federal Agency,Schoharie County,Schoharie,NY,ciso@co.schoharie.ny.us
 SCOTTCOUNTYIOWA.GOV,County,Non-Federal Agency,Scott County Iowa,Davenport,IA,(blank)
@@ -4520,11 +4523,11 @@ DOT.GOV,Federal Agency - Executive,Department of Transportation,United States De
 DOTIDEAHUB.GOV,Federal Agency - Executive,Department of Transportation,U.S. Department of Transportation Office of the Chief Information Officer ,Washington,DC,9-awa-soc@faa.gov
 DOTTRAFFICRECORDS.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC,DOT-Cyber-Reporting@dot.gov
 EMS.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC,DOT-Cyber-Reporting@dot.gov
-ESC.GOV,Federal Agency - Executive,Department of Transportation,FAA MMAC,Oklahoma City,OK,(blank)
+ESC.GOV,Federal Agency - Executive,Department of Transportation,FAA MMAC,Oklahoma City,OK,vulnerabilitydisclousre@faa.gov
 FAA.GOV,Federal Agency - Executive,Department of Transportation,Federal Aviation Administration,Washington,DC,vulnerabilitydisclosure@faa.gov
 FAASAFETY.GOV,Federal Agency - Executive,Department of Transportation,FAASTeam,Washington,DC,vulnerabilitydisclosure@faa.gov
 FLYHEALTHY.GOV,Federal Agency - Executive,Department of Transportation,Federal Aviation Administration (FAA),Washington,DC,9-awa-soc@faa.gov
-JCCBI.GOV,Federal Agency - Executive,Department of Transportation,DOT/FAA/MMAC.AMi400,Oklahoma City,OK,(blank)
+JCCBI.GOV,Federal Agency - Executive,Department of Transportation,DOT/FAA/MMAC.AMi400,Oklahoma City,OK,vulnerabilitydisclousre@faa.gov
 NHTSA.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov
 PROTECTYOURMOVE.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov
 SAFECAR.GOV,Federal Agency - Executive,Department of Transportation,OCIO,Washington,DC,DOT-Cyber-Reporting@dot.gov
@@ -5028,6 +5031,7 @@ FEDERALREGISTER.GOV,Federal Agency - Legislative,Government Publishing Office,Go
 FEDREG.GOV,Federal Agency - Legislative,Government Publishing Office,US Govt Publishing Office,Washington,DC,(blank)
 GOVINFO.GOV,Federal Agency - Legislative,Government Publishing Office,US Government Publishing Office,Washington,DC,(blank)
 GPO.GOV,Federal Agency - Legislative,Government Publishing Office,US Govt Publishing Office,Washington,DC,(blank)
+GPODEV.GOV,Federal Agency - Legislative,Government Publishing Office,Government Publishing Office,Washington,DC,noc@gpo.gov
 HOUSECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,United States Government Publishing Office,Washington,DC,(blank)
 OFR.GOV,Federal Agency - Legislative,Government Publishing Office,US Government Publishing Office,Washington,DC,(blank)
 PRESIDENTIALDOCUMENTS.GOV,Federal Agency - Legislative,Government Publishing Office,U.S. Government Publishing Office,Washington,DC,(blank)
@@ -5592,7 +5596,7 @@ COLORADORCJC.GOV,State,Non-Federal Agency,State of Colorado Judicial Department,
 COLORADOSOS.GOV,State,Non-Federal Agency,Colorado Department of State,Denver,CO,cybersecurity@sos.state.co.us
 COLORADOUI.GOV,State,Non-Federal Agency,Colorado Dept Labor and Employment,Denver,CO,(blank)
 COLORADOWIC.GOV,State,Non-Federal Agency,COLORADO DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT,Denver,CO,(blank)
-COMPARECAREMASS.GOV,State,Non-Federal Agency,Center for Health Information and Analysis,Boston,MA,(blank)
+COMPARECAREMASS.GOV,State,Non-Federal Agency,Center for Health Information and Analysis,Boston,MA,CHIA-DL-SecurityTeam@MassMail.State.MA.US
 COMPOHIO.GOV,State,Non-Federal Agency,State of Ohio,Columbus,OH,domain.manager@das.ohio.gov
 CONNECTND.GOV,State,Non-Federal Agency,State of North Dakota,Bisamarck,ND,itsecur@nd.gov
 COSIPA.GOV,State,Non-Federal Agency,Colorado Statewide Internet Portal Authority,Denver,CO,jerrod@cosipa.gov
@@ -6311,6 +6315,7 @@ TN.GOV,State,Non-Federal Agency,State of Tennessee,Nashville,TN,Cyber.Security@t
 TNBESTFORALL.GOV,State,Non-Federal Agency,State of Tennessee,Nashville,TN,Cyber.Security@tn.gov
 TNCOLLATERALMANAGEMENT.GOV,State,Non-Federal Agency,Strategic Technology Solutions ,Nashville,TN,Cyber.Security@tn.gov
 TNCOURTS.GOV,State,Non-Federal Agency,Administrative Office of the Courts,Nashville,TN,Cyber.Security@tn.gov
+TNDAGC.GOV,State,Non-Federal Agency,State of Tennese,nashville,TN,curtis.clan@tn.gov
 TNECD.GOV,State,Non-Federal Agency,Dept. of Fianance and Administration - Office for Information Resources,Nashville,TN,Cyber.Security@tn.gov
 TNEDU.GOV,State,Non-Federal Agency,State of Tennessee,Nashville,TN,Cyber.Security@tn.gov
 TNFAFSAFRENZY.GOV,State,Non-Federal Agency,State of Tennessee ,Nashville,TN,Cyber.Security@tn.gov

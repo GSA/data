@@ -672,11 +672,11 @@ DOT.GOV,Federal Agency - Executive,Department of Transportation,United States De
 DOTIDEAHUB.GOV,Federal Agency - Executive,Department of Transportation,U.S. Department of Transportation Office of the Chief Information Officer ,Washington,DC,9-awa-soc@faa.gov
 DOTTRAFFICRECORDS.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC,DOT-Cyber-Reporting@dot.gov
 EMS.GOV,Federal Agency - Executive,Department of Transportation,NHTSA,Washington,DC,DOT-Cyber-Reporting@dot.gov
-ESC.GOV,Federal Agency - Executive,Department of Transportation,FAA MMAC,Oklahoma City,OK,(blank)
+ESC.GOV,Federal Agency - Executive,Department of Transportation,FAA MMAC,Oklahoma City,OK,vulnerabilitydisclousre@faa.gov
 FAA.GOV,Federal Agency - Executive,Department of Transportation,Federal Aviation Administration,Washington,DC,vulnerabilitydisclosure@faa.gov
 FAASAFETY.GOV,Federal Agency - Executive,Department of Transportation,FAASTeam,Washington,DC,vulnerabilitydisclosure@faa.gov
 FLYHEALTHY.GOV,Federal Agency - Executive,Department of Transportation,Federal Aviation Administration (FAA),Washington,DC,9-awa-soc@faa.gov
-JCCBI.GOV,Federal Agency - Executive,Department of Transportation,DOT/FAA/MMAC.AMi400,Oklahoma City,OK,(blank)
+JCCBI.GOV,Federal Agency - Executive,Department of Transportation,DOT/FAA/MMAC.AMi400,Oklahoma City,OK,vulnerabilitydisclousre@faa.gov
 NHTSA.GOV,Federal Agency - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov
 PROTECTYOURMOVE.GOV,Federal Agency - Executive,Department of Transportation,Federal Motor Carrier Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov
 SAFECAR.GOV,Federal Agency - Executive,Department of Transportation,OCIO,Washington,DC,DOT-Cyber-Reporting@dot.gov
@@ -1180,6 +1180,7 @@ FEDERALREGISTER.GOV,Federal Agency - Legislative,Government Publishing Office,Go
 FEDREG.GOV,Federal Agency - Legislative,Government Publishing Office,US Govt Publishing Office,Washington,DC,(blank)
 GOVINFO.GOV,Federal Agency - Legislative,Government Publishing Office,US Government Publishing Office,Washington,DC,(blank)
 GPO.GOV,Federal Agency - Legislative,Government Publishing Office,US Govt Publishing Office,Washington,DC,(blank)
+GPODEV.GOV,Federal Agency - Legislative,Government Publishing Office,Government Publishing Office,Washington,DC,noc@gpo.gov
 HOUSECALENDAR.GOV,Federal Agency - Legislative,Government Publishing Office,United States Government Publishing Office,Washington,DC,(blank)
 OFR.GOV,Federal Agency - Legislative,Government Publishing Office,US Government Publishing Office,Washington,DC,(blank)
 PRESIDENTIALDOCUMENTS.GOV,Federal Agency - Legislative,Government Publishing Office,U.S. Government Publishing Office,Washington,DC,(blank)
