@@ -8,10 +8,12 @@ REPO=$(git remote -v | grep "^origin.\+\(push\)" | awk '{print $2}' | perl -e 's
 
 git fetch origin
 git checkout origin/master
+git branch -D $BRANCH
 git checkout -b $BRANCH
 
 set +e
-JSON=$(curl --insecure https://ea.gsa.gov/api/v0/itstandards)
+# https://github.com/curl/curl/issues/3206#issuecomment-437625637
+JSON=$(curl --insecure --http1.1 https://ea.gsa.gov/api/v0/itstandards)
 if [ $? -ne 0 ]; then
   echo "ERROR: Unable to reach ea.gsa.gov. Are you connected to the GSA network?"
   exit 1
