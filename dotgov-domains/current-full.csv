@@ -2528,7 +2528,7 @@ SYLACAUGAAL.GOV,City,Non-Federal Agency,City of Sylacauga,Sylacauga,AL,(blank)
 SYRACUSEKS.GOV,City,Non-Federal Agency,City of Syracuse,Syracuse,KS,(blank)
 SYRACUSEUT.GOV,City,Non-Federal Agency,Syracuse City,Syracuse,UT,(blank)
 TAKOMAPARKMD.GOV,City,Non-Federal Agency,City of Takoma Park,Takoma Park,MD,larsd@takomaparkmd.gov
-TALLAPOOSAGA.GOV,City,Non-Federal Agency,City Of Tallapoosa,Tallapoosa,GA,(blank)
+TALLAPOOSAGA.GOV,City,Non-Federal Agency,City Of Tallapoosa,Tallapoosa,GA,info@tallapoosaga.gov
 TALLASSEE-AL.GOV,City,Non-Federal Agency,KMS-Inc,Millbrook,AL,(blank)
 TALLASSEEAL.GOV,City,Non-Federal Agency,City of Tallassee,Tallassee,AL,(blank)
 TALLULAH-LA.GOV,City,Non-Federal Agency,City Of Tallulah,Tallulah,LA,mike@msvicksburg.com
@@ -2729,7 +2729,7 @@ VIENNAVA.GOV,City,Non-Federal Agency,TOWN OF VIENNA (va) GOVERNMENT,VIENNA,VA,(b
 VILLAGEOFBABYLONNY.GOV,City,Non-Federal Agency,Village of Babylon,Babylon,NY,(blank)
 VILLAGEOFCAMILLUS-NY.GOV,City,Non-Federal Agency,VILLAGE OF CAMILLUS,CAMILLUS,NY,(blank)
 VILLAGEOFDUNLAP-IL.GOV,City,Non-Federal Agency,Village of Dunlap,Dunlap,IL,(blank)
-VILLAGEOFGOSHEN-NY.GOV,City,Non-Federal Agency,Village of Goshen,Goshen,NY,(blank)
+VILLAGEOFGOSHEN-NY.GOV,City,Non-Federal Agency,Village of Goshen,Goshen,NY,ilan@progressiveelement.com
 VILLAGEOFGOUVERNEURNY.GOV,City,Non-Federal Agency,Village of Gouverneur,Gouverneur,NY,(blank)
 VILLAGEOFHEMPSTEADNY.GOV,City,Non-Federal Agency,Inc. Village of Hemsptead,Hemsptead,NY,(blank)
 VILLAGEOFLINDENHURSTNY.GOV,City,Non-Federal Agency,Incorporated Village of Lindenhurst,Lindenhurst,NY,(blank)
@@ -3374,6 +3374,7 @@ KINGCOUNTY.GOV,County,Non-Federal Agency,King County OIRM,Seattle,WA,(blank)
 KINGCOUNTYHAZWASTEWA.GOV,County,Non-Federal Agency,King County,seattle,WA,NOC@kingcounty.gov
 KINGGEORGECOUNTYVA.GOV,County,Non-Federal Agency,King George County,King George,VA,(blank)
 KINGSBURYNY.GOV,County,Non-Federal Agency,"Town of Kingsbury, New York",Hudson Falls,NY,(blank)
+KITSAP.GOV,County,Non-Federal Agency,Kitsap County,Port Orchard,WA,dotgov@co.kitsap.wa.us
 KNOXCOUNTYEMA-OH.GOV,County,Non-Federal Agency,Knox County EMA,Mount Vernon,OH,kylewebb@co.knox.oh.us
 KNOXCOUNTYMAINE.GOV,County,Non-Federal Agency,County of Knox,Rockland,ME,it@knoxcountymaine.gov
 KNOXCOUNTYTEXAS.GOV,County,Non-Federal Agency,Knox County Texas,Benjamin,TX,(blank)
@@ -3653,6 +3654,7 @@ SACRAMENTOCOUNTY.GOV,County,Non-Federal Agency,County of Sacramento,Sacramento,C
 SAGADAHOCCOUNTYME.GOV,County,Non-Federal Agency,Sagadahoc County,Bath,ME,(blank)
 SAGUACHECOUNTY-CO.GOV,County,Non-Federal Agency,Saguache County,Saguache,CO,support@wsbcs.net
 SALEMCOUNTYNJ.GOV,County,Non-Federal Agency,County Of Salem,Salem,NJ,(blank)
+SALINECOUNTYKS.GOV,County,Non-Federal Agency,"Saline County, Kansas",Salina,KS,(blank)
 SANDIEGOCOUNTY.GOV,County,Non-Federal Agency,County of San Diego,San Diego,CA,webmaster@sdcounty.ca.gov
 SANDIEGOSHERIFF.GOV,County,Non-Federal Agency,San Diego County Sheriff's Department,San Diego,CA,cso@sdsheriff.org
 SANDOVALCOUNTYNM.GOV,County,Non-Federal Agency,Sandoval County,Bernalillo,NM,(blank)
@@ -3699,6 +3701,7 @@ SOECHARLOTTECOUNTYFL.GOV,County,Non-Federal Agency,Charlotte County Supervisor o
 SONOMACOUNTY.GOV,County,Non-Federal Agency,County of Sonoma,Santa Rosa,CA,abuse@sonoma-county.org
 SONOMACOUNTYCA.GOV,County,Non-Federal Agency,County of Sonoma,Santa Rosa,CA,ISDNIT@sonoma-county.org
 SPENCERCOUNTYKY.GOV,County,Non-Federal Agency,Spencer County,Taylorsville,KY,brittanyveto@spencercountyky.gov
+SPOKANECOUNTY.GOV,County,Non-Federal Agency,Spokane County,Spokane,WA,jroach@spokanecounty.org
 SPOTSY.GOV,County,Non-Federal Agency,Spotsylvania County,Spotsylvania,VA,edooley@spotsylvania.va.us
 SPOTSYLVANIACOUNTY-VA.GOV,County,Non-Federal Agency,County of Spotsylvania,Spotsylvania,VA,jfrancis@spotsylvania.va.us
 SPOTSYLVANIACOUNTYVA.GOV,County,Non-Federal Agency,County of Spotsylvania,Spotsylvania,VA,jfrancis@spotsylvania.va.us
@@ -3785,6 +3788,7 @@ VILASCOUNTYWI.GOV,County,Non-Federal Agency,Vilas County Wisconsin,Eagle River,W
 VINTONCOUNTYOHIO.GOV,County,Non-Federal Agency,Vinton County Commissioner's Office,McArthur,OH,vcso-infotech@vintoncountyohio.gov
 VOTEBREVARD.GOV,County,Non-Federal Agency,Brevard County Supervisor of Elections,Melbourne,FL,security@votebrevard.com
 VOTECITRUS.GOV,County,Non-Federal Agency,Citrus County Supervisor of Elections,Crystal River,FL,bryce.hale@votecitrus.com
+VOTEDENTON.GOV,County,Non-Federal Agency,Denton County Elections Administration,Denton,TX,security@dentoncounty.gov
 VOTEHAMILTONCOUNTYOHIO.GOV,County,Non-Federal Agency,Hamilton County Board of Elections,Norwood,OH,hcboe.cyber@boe.hamiltoncountyohio.gov
 VOTEHILLSBOROUGH.GOV,County,Non-Federal Agency,Hillsborough County Supervisor of Elections,Tampa,FL,(blank)
 VOTELEVY.GOV,County,Non-Federal Agency,Levy County Supervisor of Elections,Bronson,FL,elections@votelevy.com
@@ -5091,7 +5095,7 @@ STENNIS.GOV,Federal Agency - Legislative,Stennis Center for Public Service,John 
 CECC.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional Executive Commission on China,Washington,DC,(blank)
 CHINA-COMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional-Executive Commission on China,Washington,DC,(blank)
 CHINACOMMISSION.GOV,Federal Agency - Legislative,The Legislative Branch,Congressional-Executive Commission on China,Washington,MD,(blank)
-CSCE.GOV,Federal Agency - Legislative,The Legislative Branch,Commission on Security and Cooperation in Europe,Washington,DC,james.ventre@mail.house.gov
+CSCE.GOV,Federal Agency - Legislative,The Legislative Branch,Commission on Security and Cooperation in Europe,Washington,DC,(blank)
 DEMOCRATICLEADER.GOV,Federal Agency - Legislative,The Legislative Branch,US House of Representatives,Washington,DC,(blank)
 DEMOCRATICWHIP.GOV,Federal Agency - Legislative,The Legislative Branch,Democratic Whip's Office,Washington,DC,(blank)
 DEMOCRATS.GOV,Federal Agency - Legislative,The Legislative Branch,House Democratic Caucus,Washington,DC,(blank)
@@ -5148,7 +5152,9 @@ GLACIERVIEWFIRE.GOV,Independent Intrastate Agency,Non-Federal Agency,Glacier Vie
 HRPDCVA.GOV,Independent Intrastate Agency,Non-Federal Agency,Hampton Roads Planning District Commission,Chesapeake,VA,(blank)
 LPCD-LAFLA.GOV,Independent Intrastate Agency,Non-Federal Agency,LAFAYETTE PARISH COMMUNICATION DISTRICT,LAFAYETTE,LA,jthompson@lafayettela.gov
 LPCDOPS-LAFLA.GOV,Independent Intrastate Agency,Non-Federal Agency,LAFAYETTE PARISH COMMUNICATION DISTRICT,LAFAYETTE,LA,jthompson@lafayettela.gov
+MINNESOTAHEALTHCARECONSORTIUM.GOV,Independent Intrastate Agency,Non-Federal Agency,Minnesota Healthcare Consortium,Mt. Iron,MN,support@nescmn.net
 MNDISABILITY.GOV,Independent Intrastate Agency,Non-Federal Agency,MN Governor's Council on Developmental Disabilities,St. Paul,MN,(blank)
+MNHC.GOV,Independent Intrastate Agency,Non-Federal Agency,Minnesota Healthcare Consortium,Mt. Iron,MN,support@nescmn.net
 MNHOUSING.GOV,Independent Intrastate Agency,Non-Federal Agency,Minnesota Housing Finance Agency,St. Paul,MN,(blank)
 MRCOG-NM.GOV,Independent Intrastate Agency,Non-Federal Agency,Mid-Region Council of Governments,Albuquerque,NM,(blank)
 MSDPROJECTCLEARMO.GOV,Independent Intrastate Agency,Non-Federal Agency,Metropolitan St. Louis Sewer District,St. Louis,MO,DLInfoSec@stlmsd.com
@@ -5557,7 +5563,6 @@ AZSOS.GOV,State,Non-Federal Agency,Arizona Secretary of State,Phoenix,AZ,(blank)
 AZSTATEJOBS.GOV,State,Non-Federal Agency,State of Arizona,Phoenix,AZ,websecurity@azdoa.gov
 AZSTATEPARKS.GOV,State,Non-Federal Agency,Arizona State Parks Board,Phoenix,AZ,(blank)
 AZSTATS.GOV,State,Non-Federal Agency,Arizona Dept. of Administration,Phoenix,AZ,websecurity@azdoa.gov
-AZSURPLUS.GOV,State,Non-Federal Agency,"State of Arizona, Department of Administration",Phoenix,AZ,websecurity@azdoa.gov
 AZTAXES.GOV,State,Non-Federal Agency,Arizona Department of Revenue,Phoenix,AZ,infosec@azdor.gov
 AZTRANSPORTATIONBOARD.GOV,State,Non-Federal Agency,Arizona Department of Transportation,Phoenix,AZ,(blank)
 AZTREASURER.GOV,State,Non-Federal Agency,Arizona State Treasurer's Office,Phoenix,AZ,(blank)
@@ -5788,6 +5793,7 @@ IDAHOVOTES.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information T
 IDAHOWORKS.GOV,State,Non-Federal Agency,"State of Idaho, Office of Information Technology Services",Boise,ID,hostmaster@idaho.gov
 IL.GOV,State,Non-Federal Agency,State of Illinois,Springfield,IL,Doit.security@illinois.gov
 ILATTORNEYGENERAL.GOV,State,Non-Federal Agency,Illinois Attorney General,Chicago,IL,(blank)
+ILCOURTHELP.GOV,State,Non-Federal Agency,Administrative Office of the Illinois Courts,Chicago,IL,(blank)
 ILGA.GOV,State,Non-Federal Agency,Legislative Information System,Springfield,IL,stevec@ilga.gov
 ILLINOIS.GOV,State,Non-Federal Agency,State of Illinois,Springfield,IL,Doit.security@illinois.gov
 ILLINOISATTORNEYGENERAL.GOV,State,Non-Federal Agency,Illinois Attorney General,Chicago,IL,dishmael@atg.state.il.us
@@ -6262,7 +6268,7 @@ SCHOUSE.GOV,State,Non-Federal Agency,Legislative Printing,Columbia,SC,(blank)
 SCMEDICAID.GOV,State,Non-Federal Agency,SC Dept of Health and Human Services,Columbia,SC,davisr@scdhhs.gov
 SCOHIO.GOV,State,Non-Federal Agency,"State of Ohio, Office of IT",Columbus,OH,(blank)
 SCSENATE.GOV,State,Non-Federal Agency,Legislative Printing,Columbia,SC,(blank)
-SCSERV.GOV,State,Non-Federal Agency,SC DHEC,Columbia,SC,(blank)
+SCSERV.GOV,State,Non-Federal Agency,SC DHEC,Columbia,SC,SOC@dhec.sc.gov
 SCSTATEHOUSE.GOV,State,Non-Federal Agency,Legislative Printing,Columbia,SC,(blank)
 SCVOTES.GOV,State,Non-Federal Agency,South Carolina State Election Commission,Columbia,SC,bleach@elections.sc.gov
 SD.GOV,State,Non-Federal Agency,State of South Dakota,Pierre,SD,soc@state.sd.gov
