@@ -4,7 +4,7 @@ A home for miscellaneous data published by the [General Services Administration]
 
 ## Datasets
 
-* [.gov domains](dotgov-domains/#readme) - official public list of .gov domains, updated every few weeks
+* ~[.gov domains](dotgov-domains/#readme)~ - Moved to https://github.com/cisagov/dotgov-data.
 * [.gov federal websites](dotgov-websites/#readme) - various files of trivially discoverable Federal .gov hostnames
 * [GSA Enterprise Architecture](enterprise-architecture/)
 
