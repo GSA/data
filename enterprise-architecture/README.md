@@ -28,7 +28,7 @@ Requires:
 - Git
 - Python 3
 
-From this directory, run the updating script:
+From this directory (`enterprise-architecture`), run the updating script:
 
 ```sh
 ./update.sh
