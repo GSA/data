@@ -1,1 +1,1 @@
-This folder documents the processing that GSA's [Site Scanning](https://digital.gov/site-scanning) program uses to build it's target list of federal websites.  
+## Note: This section is no longer up to date.  Please refer to https://github.com/GSA/federal-website-index from now on.  
